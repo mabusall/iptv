@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="AR_OSN.Movies.Action.HD" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="TV",AR_OSN.Movies.Action.HD
+#EXTINF:-1 tvg-id="ext" tvg-name="AR_OSN.Movies.Action.HD" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="TV",AR OSN Movies Action HD
 http://pro.netmos.ovh:7355/samir/azerty/1784
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Arabiya" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="TV",Al Arabiya
 http://pro.netmos.ovh:7355/samir/azerty/2595
