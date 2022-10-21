@@ -3,7 +3,7 @@
 http://pro.netmos.ovh:7355/samir/azerty/1784
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Arabiya" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="TV",Al Arabiya
 http://pro.netmos.ovh:7355/samir/azerty/2595
-#EXTINF:-1 tvg-id="ext" tvg-name="AR_SKY.NEWS.ARABIA" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="TV",AR_SKY.NEWS.ARABIA
+#EXTINF:-1 tvg-id="ext" tvg-name="AR_SKY.NEWS.ARABIA" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="TV",Sky News Arabia
 http://pro.netmos.ovh:7355/samir/azerty/10259
 #EXTINF:-1 tvg-id="ext" tvg-name="BOXOFFICE 1" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="TV",BOXOFFICE 1
 http://pro.netmos.ovh:7355/samir/azerty/24275
