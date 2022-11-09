@@ -379,7 +379,7 @@ https://aloka-arena.online:443/alokamax/max2323/1380
 https://aloka-arena.online:443/alokamax/max2323/1628
 #EXTINF:-1 tvg-id="190" tvg-logo="https://i.imgur.com/rKTE8Qw.png" tvg-name="Syria TV+" group-title="Arabic", Syria TV+
 https://aloka-arena.online:443/alokamax/max2323/1634
-#EXTINF:-1 tvg-id="191" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" tvg-name=",Takbeer TV (1080p)" group-title="Arabic", Takbeer TV (1080p)" group-title="Arabic", Takbeer TV (1080p)" group-title="Arabic", Takbeer TV (1080p)" group-title="ARABIC", Takbeer TV (1080p)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="ARABIC",,Takbeer TV (1080p)
+#EXTINF:-1 tvg-id="191" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" tvg-name=",Takbeer TV (1080p)" group-title="Arabic", Takbeer TV (1080p)" group-title="Arabic", Takbeer TV (1080p)" group-title="Arabic", Takbeer TV (1080p)" group-title="Arabic", Takbeer TV (1080p)" group-title="ARABIC", Takbeer TV (1080p)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="ARABIC",,Takbeer TV (1080p)
 https://aloka-arena.online:443/alokamax/max2323/1742
 #EXTINF:-1 tvg-id="192" tvg-logo="https://shahidstatic3.akamaized.net//mediaObject/2022/Amr/ramadan/takhayl_HD_thumb_chanel/original/takhayl_HD_thumb_chanel.jpg" tvg-name="Takhayl" group-title="Arabic", Takhayl
 https://aloka-arena.online:443/alokamax/max2323/1392
@@ -495,43 +495,43 @@ https://aloka-arena.online:443/alokamax/max2323/111
 https://aloka-arena.online:443/alokamax/max2323/112
 #EXTINF:-1 tvg-id="248" tvg-name="SPORT TV 3" group-title="Arabic Sports", SPORT TV 3
 https://aloka-arena.online:443/alokamax/max2323/113
-#EXTINF:-1 tvg-id="249" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Arabic Sports", SSC Action Waleed (1080p) [Not 24/7]
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-#EXTINF:-1 tvg-id="250" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Arabic Sports", SSC Action Waleed Extra (1080p) [Not 24/7]
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
-#EXTINF:-1 tvg-id="251" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Arabic Sports", Türkmenistan Sport (406p) [Not 24/7]
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:-1 tvg-id="252" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Arabic Sports", Yas (1080p)
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="253" tvg-logo="https://i.ibb.co/3sdqXVN/1.png" tvg-name="SSC 1 4K" group-title="Arabic Sports", SSC 1 4K
+#EXTINF:-1 tvg-id="249" tvg-logo="https://i.ibb.co/3sdqXVN/1.png" tvg-name="SSC 1 4K" group-title="Arabic Sports", SSC 1 4K
 https://aloka-arena.online:443/alokamax/max2323/28
-#EXTINF:-1 tvg-id="254" tvg-logo="https://i.ibb.co/tXB6gXq/2.png" tvg-name="SSC 2 4K" group-title="Arabic Sports", SSC 2 4K
+#EXTINF:-1 tvg-id="250" tvg-logo="https://i.ibb.co/tXB6gXq/2.png" tvg-name="SSC 2 4K" group-title="Arabic Sports", SSC 2 4K
 https://aloka-arena.online:443/alokamax/max2323/29
-#EXTINF:-1 tvg-id="255" tvg-logo="https://i.ibb.co/928M358/3.png" tvg-name="SSC 3 4K" group-title="Arabic Sports", SSC 3 4K
+#EXTINF:-1 tvg-id="251" tvg-logo="https://i.ibb.co/928M358/3.png" tvg-name="SSC 3 4K" group-title="Arabic Sports", SSC 3 4K
 https://aloka-arena.online:443/alokamax/max2323/30
-#EXTINF:-1 tvg-id="256" tvg-logo="https://i.ibb.co/0m0rp6D/4.png" tvg-name="SSC 4 4K" group-title="Arabic Sports", SSC 4 4K
+#EXTINF:-1 tvg-id="252" tvg-logo="https://i.ibb.co/0m0rp6D/4.png" tvg-name="SSC 4 4K" group-title="Arabic Sports", SSC 4 4K
 https://aloka-arena.online:443/alokamax/max2323/31
-#EXTINF:-1 tvg-id="257" tvg-logo="https://i.ibb.co/84G7tkY/5.png" tvg-name="SSC 5 4K" group-title="Arabic Sports", SSC 5 4K
+#EXTINF:-1 tvg-id="253" tvg-logo="https://i.ibb.co/84G7tkY/5.png" tvg-name="SSC 5 4K" group-title="Arabic Sports", SSC 5 4K
 https://aloka-arena.online:443/alokamax/max2323/32
-#EXTINF:-1 tvg-id="258" tvg-logo="https://i.ibb.co/hZRBfKc/6.png" tvg-name="SSC 6 4K" group-title="Arabic Sports", SSC 6 4K
+#EXTINF:-1 tvg-id="254" tvg-logo="https://i.ibb.co/hZRBfKc/6.png" tvg-name="SSC 6 4K" group-title="Arabic Sports", SSC 6 4K
 https://aloka-arena.online:443/alokamax/max2323/33
-#EXTINF:-1 tvg-id="259" tvg-logo="https://i.ibb.co/rvQD86Z/7.png" tvg-name="SSC 7 4K" group-title="Arabic Sports", SSC 7 4K
+#EXTINF:-1 tvg-id="255" tvg-logo="https://i.ibb.co/rvQD86Z/7.png" tvg-name="SSC 7 4K" group-title="Arabic Sports", SSC 7 4K
 https://aloka-arena.online:443/alokamax/max2323/34
-#EXTINF:-1 tvg-id="260" tvg-name="beIN MAX 1 HD" group-title="beIN MAX", beIN MAX 1 HD
+#EXTINF:-1 tvg-id="256" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Arabic Sports", SSC Action Waleed (1080p) [Not 24/7]
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 tvg-id="257" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Arabic Sports", SSC Action Waleed Extra (1080p) [Not 24/7]
+https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 tvg-id="258" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Arabic Sports", Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+#EXTINF:-1 tvg-id="259" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Arabic Sports", Yas (1080p)
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="260" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" tvg-name="beIN MAX 1 HD" group-title="beIN MAX", beIN MAX 1 HD
 https://aloka-arena.online:443/alokamax/max2323/1855
-#EXTINF:-1 tvg-id="261" tvg-name="beIN MAX 1 SD" group-title="beIN MAX", beIN MAX 1 SD
+#EXTINF:-1 tvg-id="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" tvg-name="beIN MAX 1 SD" group-title="beIN MAX", beIN MAX 1 SD
 https://aloka-arena.online:443/alokamax/max2323/1861
-#EXTINF:-1 tvg-id="262" tvg-name="BEIN MAX 2 HD" group-title="beIN MAX", BEIN MAX 2 HD
+#EXTINF:-1 tvg-id="262" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" tvg-name="BEIN MAX 2 HD" group-title="beIN MAX", BEIN MAX 2 HD
 https://aloka-arena.online:443/alokamax/max2323/1856
-#EXTINF:-1 tvg-id="263" tvg-name="beIN MAX 2 SD" group-title="beIN MAX", beIN MAX 2 SD
+#EXTINF:-1 tvg-id="263" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png" tvg-name="beIN MAX 2 SD" group-title="beIN MAX", beIN MAX 2 SD
 https://aloka-arena.online:443/alokamax/max2323/1862
-#EXTINF:-1 tvg-id="264" tvg-name="beIN MAX 3 HD" group-title="beIN MAX", beIN MAX 3 HD
+#EXTINF:-1 tvg-id="264" tvg-logo="https://korafoot.com/wp-content/uploads/2022/01/bein_sports_MAX_3.png" tvg-name="beIN MAX 3 HD" group-title="beIN MAX", beIN MAX 3 HD
 https://aloka-arena.online:443/alokamax/max2323/1857
-#EXTINF:-1 tvg-id="265" tvg-name="beIN MAX 4 HD" group-title="beIN MAX", beIN MAX 4 HD
+#EXTINF:-1 tvg-id="265" tvg-logo="https://korafoot.com/wp-content/uploads/2022/01/bein_sports_MAX_4.png" tvg-name="beIN MAX 4 HD" group-title="beIN MAX", beIN MAX 4 HD
 https://aloka-arena.online:443/alokamax/max2323/1858
-#EXTINF:-1 tvg-id="266" tvg-name="beIN MAX 5 HD" group-title="beIN MAX", beIN MAX 5 HD
+#EXTINF:-1 tvg-id="266" tvg-logo="https://korafoot.com/wp-content/uploads/2022/01/bein_sports_MAX_5.png" tvg-name="beIN MAX 5 HD" group-title="beIN MAX", beIN MAX 5 HD
 https://aloka-arena.online:443/alokamax/max2323/1859
-#EXTINF:-1 tvg-id="267" tvg-name="beIN MAX 6 HD" group-title="beIN MAX", beIN MAX 6 HD
+#EXTINF:-1 tvg-id="267" tvg-logo="https://korafoot.com/wp-content/uploads/2022/01/bein_sports_MAX_6.png" tvg-name="beIN MAX 6 HD" group-title="beIN MAX", beIN MAX 6 HD
 https://aloka-arena.online:443/alokamax/max2323/1860
 #EXTINF:-1 tvg-id="268" tvg-logo="https://korafoot.com/wp-content/uploads/2021/10/bein_sports1-300x46.png" tvg-name="beIN SPORT 1 HD EN" group-title="beIN SPORTS", beIN SPORT 1 HD EN
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2776
@@ -645,15 +645,15 @@ https://aloka-arena.online:443/alokamax/max2323/25
 https://aloka-arena.online:443/alokamax/max2323/26
 #EXTINF:-1 tvg-id="323" tvg-name="BEIN SPORTS LOW 2" group-title="BEIN SPORTS SD", BEIN SPORTS LOW 2
 https://aloka-arena.online:443/alokamax/max2323/27
-#EXTINF:-1 tvg-id="324" tvg-logo="https://i.ibb.co/6myWD1x/turk.jpg" group-title="beIN SPORTS Turkey", TR: beIN Sports 1
+#EXTINF:-1 tvg-id="324" tvg-logo="https://korafoot.com/wp-content/uploads/2021/10/bein_sports1-300x46.png" group-title="beIN SPORTS Turkey", TR: beIN Sports 1
 http://iptvtree.net:8080/F17744/f01e18e2/1735
-#EXTINF:-1 tvg-id="325" tvg-logo="https://i.ibb.co/6myWD1x/turk.jpg" group-title="beIN SPORTS Turkey", TR: beIN Sports 2
+#EXTINF:-1 tvg-id="325" tvg-logo="https://korafoot.com/wp-content/uploads/2021/10/bein_sports2-300x46.png" group-title="beIN SPORTS Turkey", TR: beIN Sports 2
 http://iptvtree.net:8080/F17744/f01e18e2/1737
-#EXTINF:-1 tvg-id="326" tvg-logo="https://i.ibb.co/6myWD1x/turk.jpg" group-title="beIN SPORTS Turkey", TR: beIN Sports 3
+#EXTINF:-1 tvg-id="326" tvg-logo="https://korafoot.com/wp-content/uploads/2021/10/bein_sports_3-300x46.png" group-title="beIN SPORTS Turkey", TR: beIN Sports 3
 http://iptvtree.net:8080/F17744/f01e18e2/1739
-#EXTINF:-1 tvg-id="327" tvg-logo="https://i.ibb.co/6myWD1x/turk.jpg" group-title="beIN SPORTS Turkey", TR: beIN Sports 4
+#EXTINF:-1 tvg-id="327" tvg-logo="https://korafoot.com/wp-content/uploads/2021/10/bein_sports4-300x46.png" group-title="beIN SPORTS Turkey", TR: beIN Sports 4
 http://iptvtree.net:8080/F17744/f01e18e2/7450
-#EXTINF:-1 tvg-id="328" tvg-logo="https://i.ibb.co/6myWD1x/turk.jpg" group-title="beIN SPORTS Turkey", TR: beIN Sports Haber
+#EXTINF:-1 tvg-id="328" tvg-logo="https://3.bp.blogspot.com/-4S_V_ACUERc/W_AgJcQXDpI/AAAAAAAAGhc/3KED7KT9qDYKOUg1XX_VZNzFIguR8kwlwCK4BGAYYCw/s1600/logo%2BBein%2Bsport%2BNews.png" group-title="beIN SPORTS Turkey", TR: beIN Sports Haber
 http://iptvtree.net:8080/F17744/f01e18e2/7448
 #EXTINF:-1 tvg-id="329" tvg-logo="https://i.ibb.co/6myWD1x/turk.jpg" group-title="beIN SPORTS Turkey", TR: beIN Sports Max 1
 http://iptvtree.net:8080/F17744/f01e18e2/8224
