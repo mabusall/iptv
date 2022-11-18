@@ -882,7 +882,7 @@ https://aloka-arena.online:443/alokamax/max2323/287
 #EXTINF:-1 tvg-id="441" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-name="Makkah TV" group-title="Islamic", Makkah TV
 https://aloka-arena.online:443/alokamax/max2323/292
 #EXTINF:-1 tvg-id="442" group-title="Jordan", |JO| Jordan HD
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?checkedby:dailyfreeiptvlist.com
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 #EXTINF:-1 tvg-id="443" group-title="Jordan", |JO| Jordan Sport HD
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:-1 tvg-id="444" group-title="Jordan", |JO| Jordan Deretna
@@ -895,1537 +895,1539 @@ https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:-1 tvg-id="448" group-title="Jordan", |JO| Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:-1 tvg-id="449" tvg-logo="https://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="Kids", Atfal Wa Mawaheb (1080p)
+#EXTINF:-1 tvg-id="449" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-name="Jordan Sport TV" group-title="Jordan", Jordan Sport TV
+https://aloka-arena.online:443/strem7786/time7657/237
+#EXTINF:-1 tvg-id="450" tvg-logo="https://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="Kids", Atfal Wa Mawaheb (1080p)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 tvg-id="450" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang Slovenia
+#EXTINF:-1 tvg-id="451" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang Slovenia
 http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
-#EXTINF:-1 tvg-id="451" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="Kids", Cartoon Network Arabia (1080p)
+#EXTINF:-1 tvg-id="452" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="Kids", Cartoon Network Arabia (1080p)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-id="452" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="Kids", Gulli Bil Arabi (1080p)
+#EXTINF:-1 tvg-id="453" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="Kids", Gulli Bil Arabi (1080p)
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-#EXTINF:-1 tvg-id="453" tvg-logo="https://i.imgur.com/I5A1mMZ.jpg" group-title="Kids", Koogi TV (1080p)
+#EXTINF:-1 tvg-id="454" tvg-logo="https://i.imgur.com/I5A1mMZ.jpg" group-title="Kids", Koogi TV (1080p)
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="454" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids", Majid TV (1080p)
+#EXTINF:-1 tvg-id="455" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids", Majid TV (1080p)
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="455" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/512px-MBC_3_Transparent_Background_Logo.png" group-title="Kids", MBC 3 EUR (1080p)
+#EXTINF:-1 tvg-id="456" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/512px-MBC_3_Transparent_Background_Logo.png" group-title="Kids", MBC 3 EUR (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-id="456" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids", MBC 3 USA (1080p)
+#EXTINF:-1 tvg-id="457" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids", MBC 3 USA (1080p)
 https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
-#EXTINF:-1 tvg-id="457" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Kids", Pluto TV BabyFirst (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="458" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Kids", Pluto TV BabyFirst (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="458" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sat7_kids.png" group-title="Kids", Sat 7 Kids (1080p)
+#EXTINF:-1 tvg-id="459" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sat7_kids.png" group-title="Kids", Sat 7 Kids (1080p)
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="459" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids", Spacetoon (1080p)
+#EXTINF:-1 tvg-id="460" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids", Spacetoon (1080p)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-id="460" tvg-logo="https://tahatv.com/images/menue%20bar/77_46.png" group-title="Kids", Taha TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="461" tvg-logo="https://tahatv.com/images/menue%20bar/77_46.png" group-title="Kids", Taha TV (360p) [Not 24/7]
 https://media2.livaat.com/TAHA-TV/index.m3u8
-#EXTINF:-1 tvg-id="461" group-title="Kids", |Kids| beIN Baby
+#EXTINF:-1 tvg-id="462" group-title="Kids", |Kids| beIN Baby
 http://red.ipfox.org:8080/osama2022/osama2023/2301
-#EXTINF:-1 tvg-id="462" group-title="Lebanon", |LB| MTV HD
+#EXTINF:-1 tvg-id="463" group-title="Lebanon", |LB| MTV HD
 http://red.ipfox.org:8080/osama2022/osama2023/32872
-#EXTINF:-1 tvg-id="463" group-title="Lebanon", |LB| MTV HD +2H
+#EXTINF:-1 tvg-id="464" group-title="Lebanon", |LB| MTV HD +2H
 http://red.ipfox.org:8080/osama2022/osama2023/32873
-#EXTINF:-1 tvg-id="464" group-title="Lebanon", |LB| LBC HD
+#EXTINF:-1 tvg-id="465" group-title="Lebanon", |LB| LBC HD
 http://red.ipfox.org:8080/osama2022/osama2023/32874
-#EXTINF:-1 tvg-id="465" group-title="Lebanon", |LB| LBC International HD
+#EXTINF:-1 tvg-id="466" group-title="Lebanon", |LB| LBC International HD
 http://red.ipfox.org:8080/osama2022/osama2023/32877
-#EXTINF:-1 tvg-id="466" group-title="Lebanon", |LB| NBN TV HD
+#EXTINF:-1 tvg-id="467" group-title="Lebanon", |LB| NBN TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/32879
-#EXTINF:-1 tvg-id="467" group-title="Lebanon", |LB| OTV Lebanon
+#EXTINF:-1 tvg-id="468" group-title="Lebanon", |LB| OTV Lebanon
 http://red.ipfox.org:8080/osama2022/osama2023/32881
-#EXTINF:-1 tvg-id="468" group-title="Lebanon", |LB| Teleliban TV
+#EXTINF:-1 tvg-id="469" group-title="Lebanon", |LB| Teleliban TV
 http://red.ipfox.org:8080/osama2022/osama2023/32883
-#EXTINF:-1 tvg-id="469" group-title="Lebanon", |LB| ALJadeed HD
+#EXTINF:-1 tvg-id="470" group-title="Lebanon", |LB| ALJadeed HD
 http://red.ipfox.org:8080/osama2022/osama2023/32884
-#EXTINF:-1 tvg-id="470" group-title="Lebanon", |LB| AL Jadeed +2H
+#EXTINF:-1 tvg-id="471" group-title="Lebanon", |LB| AL Jadeed +2H
 http://red.ipfox.org:8080/osama2022/osama2023/32885
-#EXTINF:-1 tvg-id="471" group-title="Lebanon", |LB| Future TV
+#EXTINF:-1 tvg-id="472" group-title="Lebanon", |LB| Future TV
 http://red.ipfox.org:8080/osama2022/osama2023/32886
-#EXTINF:-1 tvg-id="472" group-title="Lebanon", |LB| Al Manar
+#EXTINF:-1 tvg-id="473" group-title="Lebanon", |LB| Al Manar
 http://red.ipfox.org:8080/osama2022/osama2023/32887
-#EXTINF:-1 tvg-id="473" group-title="Lebanon", |LB| AL MANAR +2H
+#EXTINF:-1 tvg-id="474" group-title="Lebanon", |LB| AL MANAR +2H
 http://red.ipfox.org:8080/osama2022/osama2023/32888
-#EXTINF:-1 tvg-id="474" group-title="Lebanon", |LB| Al Mayadeen
+#EXTINF:-1 tvg-id="475" group-title="Lebanon", |LB| Al Mayadeen
 http://red.ipfox.org:8080/osama2022/osama2023/32889
-#EXTINF:-1 tvg-id="475" group-title="Lebanon", |LB| ETIHAD TV
+#EXTINF:-1 tvg-id="476" group-title="Lebanon", |LB| ETIHAD TV
 http://red.ipfox.org:8080/osama2022/osama2023/32891
-#EXTINF:-1 tvg-id="476" group-title="Lebanon", |LB| ONE TV HD
+#EXTINF:-1 tvg-id="477" group-title="Lebanon", |LB| ONE TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/32892
-#EXTINF:-1 tvg-id="477" group-title="Lebanon", |LB| AL IMEN
+#EXTINF:-1 tvg-id="478" group-title="Lebanon", |LB| AL IMEN
 http://red.ipfox.org:8080/osama2022/osama2023/32893
-#EXTINF:-1 tvg-id="478" group-title="Lebanon", |LB| El Eiman TV
+#EXTINF:-1 tvg-id="479" group-title="Lebanon", |LB| El Eiman TV
 http://red.ipfox.org:8080/osama2022/osama2023/32894
-#EXTINF:-1 tvg-id="479" group-title="Lebanon", |LB| Mariam TV
+#EXTINF:-1 tvg-id="480" group-title="Lebanon", |LB| Mariam TV
 http://red.ipfox.org:8080/osama2022/osama2023/32895
-#EXTINF:-1 tvg-id="480" group-title="Lebanon", |LB| Alaan TV
+#EXTINF:-1 tvg-id="481" group-title="Lebanon", |LB| Alaan TV
 http://red.ipfox.org:8080/osama2022/osama2023/32897
-#EXTINF:-1 tvg-id="481" group-title="Lebanon", |LB| Hawakom HD
+#EXTINF:-1 tvg-id="482" group-title="Lebanon", |LB| Hawakom HD
 http://red.ipfox.org:8080/osama2022/osama2023/32899
-#EXTINF:-1 tvg-id="482" tvg-logo="https://i.imgur.com/QrwZu4W.png" tvg-name="NourSAT" group-title="Lebanon", NourSAT
+#EXTINF:-1 tvg-id="483" tvg-logo="https://i.imgur.com/QrwZu4W.png" tvg-name="NourSAT" group-title="Lebanon", NourSAT
 https://aloka-arena.online:443/strem7786/time7657/254
-#EXTINF:-1 tvg-id="483" tvg-logo="https://i.imgur.com/dmDzNQO.png" tvg-name="Al Manar" group-title="Lebanon", Al Manar
+#EXTINF:-1 tvg-id="484" tvg-logo="https://i.imgur.com/dmDzNQO.png" tvg-name="Al Manar" group-title="Lebanon", Al Manar
 https://aloka-arena.online:443/strem7786/time7657/241
-#EXTINF:-1 tvg-id="484" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" tvg-name="Al Mayadeen" group-title="Lebanon", Al Mayadeen
+#EXTINF:-1 tvg-id="485" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" tvg-name="Al Mayadeen" group-title="Lebanon", Al Mayadeen
 https://aloka-arena.online:443/strem7786/time7657/242
-#EXTINF:-1 tvg-id="485" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1361247_p.png" tvg-name="al jadeed" group-title="Lebanon", al jadeed
+#EXTINF:-1 tvg-id="486" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1361247_p.png" tvg-name="al jadeed" group-title="Lebanon", al jadeed
 https://aloka-arena.online:443/strem7786/time7657/104
-#EXTINF:-1 tvg-id="486" tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" tvg-name="LBC" group-title="Lebanon", LBC
+#EXTINF:-1 tvg-id="487" tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" tvg-name="LBC" group-title="Lebanon", LBC
 https://aloka-arena.online:443/strem7786/time7657/105
-#EXTINF:-1 tvg-id="487" tvg-name="MTV LEBANON" group-title="Lebanon", MTV LEBANON
+#EXTINF:-1 tvg-id="488" tvg-name="MTV LEBANON" group-title="Lebanon", MTV LEBANON
 https://aloka-arena.online:443/strem7786/time7657/673
-#EXTINF:-1 tvg-id="488" group-title="MBC", |AR| MBC+ Drama HD -1080P
+#EXTINF:-1 tvg-id="489" group-title="MBC", |AR| MBC+ Drama HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49659
-#EXTINF:-1 tvg-id="489" group-title="MBC", |AR| MBC+ Drama HD -720P
+#EXTINF:-1 tvg-id="490" group-title="MBC", |AR| MBC+ Drama HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49658
-#EXTINF:-1 tvg-id="490" group-title="MBC", |AR| MBC Bollywood -1080P
+#EXTINF:-1 tvg-id="491" group-title="MBC", |AR| MBC Bollywood -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49655
-#EXTINF:-1 tvg-id="491" group-title="MBC", |AR| MBC Bollywood -720P
+#EXTINF:-1 tvg-id="492" group-title="MBC", |AR| MBC Bollywood -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49654
-#EXTINF:-1 tvg-id="492" group-title="MBC", |AR| MBC+ eLife HD -1080P
+#EXTINF:-1 tvg-id="493" group-title="MBC", |AR| MBC+ eLife HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49653
-#EXTINF:-1 tvg-id="493" group-title="MBC", |AR| MBC+ eLife HD -720P
+#EXTINF:-1 tvg-id="494" group-title="MBC", |AR| MBC+ eLife HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49652
-#EXTINF:-1 tvg-id="494" group-title="MBC", |AR| MBC+ Variety HD -1080P
+#EXTINF:-1 tvg-id="495" group-title="MBC", |AR| MBC+ Variety HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49651
-#EXTINF:-1 tvg-id="495" group-title="MBC", |AR| MBC+ Variety HD -720P
+#EXTINF:-1 tvg-id="496" group-title="MBC", |AR| MBC+ Variety HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49650
-#EXTINF:-1 tvg-id="496" group-title="MBC", |AR| MBC Iraq HD -1080P
+#EXTINF:-1 tvg-id="497" group-title="MBC", |AR| MBC Iraq HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49649
-#EXTINF:-1 tvg-id="497" group-title="MBC", |AR| MBC Iraq HD -720P
+#EXTINF:-1 tvg-id="498" group-title="MBC", |AR| MBC Iraq HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49648
-#EXTINF:-1 tvg-id="498" group-title="MBC", |AR| MBC Drama HD -1080P
+#EXTINF:-1 tvg-id="499" group-title="MBC", |AR| MBC Drama HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49647
-#EXTINF:-1 tvg-id="499" group-title="MBC", |AR| MBC Drama HD -720P
+#EXTINF:-1 tvg-id="500" group-title="MBC", |AR| MBC Drama HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49646
-#EXTINF:-1 tvg-id="500" group-title="MBC", |AR| MBC Action HD -1080P
+#EXTINF:-1 tvg-id="501" group-title="MBC", |AR| MBC Action HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49645
-#EXTINF:-1 tvg-id="501" group-title="MBC", |AR| MBC Action HD -720P
+#EXTINF:-1 tvg-id="502" group-title="MBC", |AR| MBC Action HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49644
-#EXTINF:-1 tvg-id="502" group-title="MBC", |AR| MBC Max HD -1080P
+#EXTINF:-1 tvg-id="503" group-title="MBC", |AR| MBC Max HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49643
-#EXTINF:-1 tvg-id="503" group-title="MBC", |AR| MBC Max HD -720P
+#EXTINF:-1 tvg-id="504" group-title="MBC", |AR| MBC Max HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49642
-#EXTINF:-1 tvg-id="504" group-title="MBC", |AR| MBC 4 HD -1080P
+#EXTINF:-1 tvg-id="505" group-title="MBC", |AR| MBC 4 HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49641
-#EXTINF:-1 tvg-id="505" group-title="MBC", |AR| MBC 4 HD -720P
+#EXTINF:-1 tvg-id="506" group-title="MBC", |AR| MBC 4 HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49640
-#EXTINF:-1 tvg-id="506" group-title="MBC", |AR| MBC 3 HD -1080P
+#EXTINF:-1 tvg-id="507" group-title="MBC", |AR| MBC 3 HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49639
-#EXTINF:-1 tvg-id="507" group-title="MBC", |AR| MBC 3 HD -720P
+#EXTINF:-1 tvg-id="508" group-title="MBC", |AR| MBC 3 HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49638
-#EXTINF:-1 tvg-id="508" group-title="MBC", |AR| MBC 2 HD -1080P
+#EXTINF:-1 tvg-id="509" group-title="MBC", |AR| MBC 2 HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49637
-#EXTINF:-1 tvg-id="509" group-title="MBC", |AR| MBC 2 HD -720P
+#EXTINF:-1 tvg-id="510" group-title="MBC", |AR| MBC 2 HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49636
-#EXTINF:-1 tvg-id="510" group-title="MBC", |AR| MBC 1 HD -1080P
+#EXTINF:-1 tvg-id="511" group-title="MBC", |AR| MBC 1 HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49635
-#EXTINF:-1 tvg-id="511" group-title="MBC", |AR| MBC 1 HD -720P
+#EXTINF:-1 tvg-id="512" group-title="MBC", |AR| MBC 1 HD -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49634
-#EXTINF:-1 tvg-id="512" group-title="MBC", |JAW| MBC 1 HD
+#EXTINF:-1 tvg-id="513" group-title="MBC", |JAW| MBC 1 HD
 http://red.ipfox.org:8080/osama2022/osama2023/47265
-#EXTINF:-1 tvg-id="513" group-title="MBC", |JAW| MBC Drama HD
+#EXTINF:-1 tvg-id="514" group-title="MBC", |JAW| MBC Drama HD
 http://red.ipfox.org:8080/osama2022/osama2023/47264
-#EXTINF:-1 tvg-id="514" group-title="MBC", |JAW| MBC MASR
+#EXTINF:-1 tvg-id="515" group-title="MBC", |JAW| MBC MASR
 http://red.ipfox.org:8080/osama2022/osama2023/47263
-#EXTINF:-1 tvg-id="515" group-title="MBC", |JAW| MBC MASR 2
+#EXTINF:-1 tvg-id="516" group-title="MBC", |JAW| MBC MASR 2
 http://red.ipfox.org:8080/osama2022/osama2023/47262
-#EXTINF:-1 tvg-id="516" group-title="MBC", |Shahid| MBC 1
+#EXTINF:-1 tvg-id="517" group-title="MBC", |Shahid| MBC 1
 http://red.ipfox.org:8080/osama2022/osama2023/47118
-#EXTINF:-1 tvg-id="517" group-title="MBC", |Shahid| MBC 1 1080P
+#EXTINF:-1 tvg-id="518" group-title="MBC", |Shahid| MBC 1 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47117
-#EXTINF:-1 tvg-id="518" group-title="MBC", |Shahid| MBC 3
+#EXTINF:-1 tvg-id="519" group-title="MBC", |Shahid| MBC 3
 http://red.ipfox.org:8080/osama2022/osama2023/47116
-#EXTINF:-1 tvg-id="519" group-title="MBC", |Shahid| MBC 3  1080P
+#EXTINF:-1 tvg-id="520" group-title="MBC", |Shahid| MBC 3  1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47115
-#EXTINF:-1 tvg-id="520" group-title="MBC", |Shahid| MBC 4
+#EXTINF:-1 tvg-id="521" group-title="MBC", |Shahid| MBC 4
 http://red.ipfox.org:8080/osama2022/osama2023/47114
-#EXTINF:-1 tvg-id="521" group-title="MBC", |Shahid| MBC 4 1080P
+#EXTINF:-1 tvg-id="522" group-title="MBC", |Shahid| MBC 4 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47113
-#EXTINF:-1 tvg-id="522" group-title="MBC", |Shahid| MBC 5
+#EXTINF:-1 tvg-id="523" group-title="MBC", |Shahid| MBC 5
 http://red.ipfox.org:8080/osama2022/osama2023/47112
-#EXTINF:-1 tvg-id="523" group-title="MBC", |Shahid| MBC 5 1080P
+#EXTINF:-1 tvg-id="524" group-title="MBC", |Shahid| MBC 5 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47111
-#EXTINF:-1 tvg-id="524" group-title="MBC", |Shahid| MBC Masr 1
+#EXTINF:-1 tvg-id="525" group-title="MBC", |Shahid| MBC Masr 1
 http://red.ipfox.org:8080/osama2022/osama2023/47110
-#EXTINF:-1 tvg-id="525" group-title="MBC", |Shahid| MBC Masr 1 1080P
+#EXTINF:-1 tvg-id="526" group-title="MBC", |Shahid| MBC Masr 1 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47109
-#EXTINF:-1 tvg-id="526" group-title="MBC", |Shahid| MBC Masr 2
+#EXTINF:-1 tvg-id="527" group-title="MBC", |Shahid| MBC Masr 2
 http://red.ipfox.org:8080/osama2022/osama2023/47108
-#EXTINF:-1 tvg-id="527" group-title="MBC", |Shahid| MBC Masr 2 1080P
+#EXTINF:-1 tvg-id="528" group-title="MBC", |Shahid| MBC Masr 2 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47107
-#EXTINF:-1 tvg-id="528" group-title="MBC", |Shahid| MBC Drama
+#EXTINF:-1 tvg-id="529" group-title="MBC", |Shahid| MBC Drama
 http://red.ipfox.org:8080/osama2022/osama2023/47106
-#EXTINF:-1 tvg-id="529" group-title="MBC", |Shahid| MBC Drama 1080P
+#EXTINF:-1 tvg-id="530" group-title="MBC", |Shahid| MBC Drama 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47105
-#EXTINF:-1 tvg-id="530" group-title="MBC", |Shahid| MBC IRAQ
+#EXTINF:-1 tvg-id="531" group-title="MBC", |Shahid| MBC IRAQ
 http://red.ipfox.org:8080/osama2022/osama2023/47104
-#EXTINF:-1 tvg-id="531" group-title="MBC", |Shahid| MBC IRAQ 1080P
+#EXTINF:-1 tvg-id="532" group-title="MBC", |Shahid| MBC IRAQ 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47103
-#EXTINF:-1 tvg-id="532" group-title="MBC", |Shahid| MBC+ Drama
+#EXTINF:-1 tvg-id="533" group-title="MBC", |Shahid| MBC+ Drama
 http://red.ipfox.org:8080/osama2022/osama2023/47100
-#EXTINF:-1 tvg-id="533" group-title="MBC", |Shahid| MBC+ Drama 1080P
+#EXTINF:-1 tvg-id="534" group-title="MBC", |Shahid| MBC+ Drama 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47099
-#EXTINF:-1 tvg-id="534" group-title="MBC", |Shahid| MBC FM
+#EXTINF:-1 tvg-id="535" group-title="MBC", |Shahid| MBC FM
 http://red.ipfox.org:8080/osama2022/osama2023/47098
-#EXTINF:-1 tvg-id="535" group-title="MBC", |Shahid| MBC FM 1080P
+#EXTINF:-1 tvg-id="536" group-title="MBC", |Shahid| MBC FM 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47097
-#EXTINF:-1 tvg-id="536" group-title="MBC", |Kids| MBC 3 HD
+#EXTINF:-1 tvg-id="537" group-title="MBC", |Kids| MBC 3 HD
 http://red.ipfox.org:8080/osama2022/osama2023/25056
-#EXTINF:-1 tvg-id="537" group-title="MBC", |AR| MBC 1 HD ™
+#EXTINF:-1 tvg-id="538" group-title="MBC", |AR| MBC 1 HD ™
 http://red.ipfox.org:8080/osama2022/osama2023/32831
-#EXTINF:-1 tvg-id="538" group-title="MBC", |AR| MBC 2 HD  ™
+#EXTINF:-1 tvg-id="539" group-title="MBC", |AR| MBC 2 HD  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32834
-#EXTINF:-1 tvg-id="539" group-title="MBC", |AR| MBC 3 HD  ™
+#EXTINF:-1 tvg-id="540" group-title="MBC", |AR| MBC 3 HD  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32837
-#EXTINF:-1 tvg-id="540" group-title="MBC", |AR| MBC 4 HD  ™
+#EXTINF:-1 tvg-id="541" group-title="MBC", |AR| MBC 4 HD  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32841
-#EXTINF:-1 tvg-id="541" group-title="MBC", |AR| MBC IRAQ HD  ™
+#EXTINF:-1 tvg-id="542" group-title="MBC", |AR| MBC IRAQ HD  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32847
-#EXTINF:-1 tvg-id="542" group-title="MBC", |AR| MBC ACTION HD  ™
+#EXTINF:-1 tvg-id="543" group-title="MBC", |AR| MBC ACTION HD  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32849
-#EXTINF:-1 tvg-id="543" group-title="MBC", |AR| MBC BOLLYWOOD HD  ™
+#EXTINF:-1 tvg-id="544" group-title="MBC", |AR| MBC BOLLYWOOD HD  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32852
-#EXTINF:-1 tvg-id="544" group-title="MBC", |AR| MBC Drama HD  ™
+#EXTINF:-1 tvg-id="545" group-title="MBC", |AR| MBC Drama HD  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32855
-#EXTINF:-1 tvg-id="545" group-title="MBC", |AR| MBC+ DRAMA HD
+#EXTINF:-1 tvg-id="546" group-title="MBC", |AR| MBC+ DRAMA HD
 http://red.ipfox.org:8080/osama2022/osama2023/32861
-#EXTINF:-1 tvg-id="546" group-title="MBC", |AR| MBC MASR  ™
+#EXTINF:-1 tvg-id="547" group-title="MBC", |AR| MBC MASR  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32865
-#EXTINF:-1 tvg-id="547" group-title="MBC", |AR| MBC MASR 2  ™
+#EXTINF:-1 tvg-id="548" group-title="MBC", |AR| MBC MASR 2  ™
 http://red.ipfox.org:8080/osama2022/osama2023/32868
-#EXTINF:-1 tvg-id="548" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" tvg-name="MBC BOLLYWOOD" group-title="MBC", MBC BOLLYWOOD
+#EXTINF:-1 tvg-id="549" tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" tvg-name="MBC BOLLYWOOD" group-title="MBC", MBC BOLLYWOOD
 https://aloka-arena.online:443/strem7786/time7657/66
-#EXTINF:-1 tvg-id="549" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" tvg-name="MBC IRAQ" group-title="MBC", MBC IRAQ
+#EXTINF:-1 tvg-id="550" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" tvg-name="MBC IRAQ" group-title="MBC", MBC IRAQ
 https://aloka-arena.online:443/strem7786/time7657/67
-#EXTINF:-1 tvg-id="550" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" tvg-name="MBC MASR" group-title="MBC", MBC MASR
+#EXTINF:-1 tvg-id="551" tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" tvg-name="MBC MASR" group-title="MBC", MBC MASR
 https://aloka-arena.online:443/strem7786/time7657/69
-#EXTINF:-1 tvg-id="551" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" tvg-name="MBC MASR2" group-title="MBC", MBC MASR2
+#EXTINF:-1 tvg-id="552" tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" tvg-name="MBC MASR2" group-title="MBC", MBC MASR2
 https://aloka-arena.online:443/strem7786/time7657/68
-#EXTINF:-1 tvg-id="552" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" tvg-name="MBC ACTION" group-title="MBC", MBC ACTION
+#EXTINF:-1 tvg-id="553" tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" tvg-name="MBC ACTION" group-title="MBC", MBC ACTION
 https://aloka-arena.online:443/strem7786/time7657/70
-#EXTINF:-1 tvg-id="553" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" tvg-name="MBC MAX" group-title="MBC", MBC MAX
+#EXTINF:-1 tvg-id="554" tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" tvg-name="MBC MAX" group-title="MBC", MBC MAX
 https://aloka-arena.online:443/strem7786/time7657/71
-#EXTINF:-1 tvg-id="554" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" tvg-name="MBC + Drama" group-title="MBC", MBC + Drama
+#EXTINF:-1 tvg-id="555" tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" tvg-name="MBC + Drama" group-title="MBC", MBC + Drama
 https://aloka-arena.online:443/strem7786/time7657/72
-#EXTINF:-1 tvg-id="555" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" tvg-name="MBC DRAMA" group-title="MBC", MBC DRAMA
+#EXTINF:-1 tvg-id="556" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" tvg-name="MBC DRAMA" group-title="MBC", MBC DRAMA
 https://aloka-arena.online:443/strem7786/time7657/73
-#EXTINF:-1 tvg-id="556" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" tvg-name="MBC 5" group-title="MBC", MBC 5
+#EXTINF:-1 tvg-id="557" tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" tvg-name="MBC 5" group-title="MBC", MBC 5
 https://aloka-arena.online:443/strem7786/time7657/74
-#EXTINF:-1 tvg-id="557" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" tvg-name="MBC 4" group-title="MBC", MBC 4
+#EXTINF:-1 tvg-id="558" tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" tvg-name="MBC 4" group-title="MBC", MBC 4
 https://aloka-arena.online:443/strem7786/time7657/75
-#EXTINF:-1 tvg-id="558" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" tvg-name="MBC 3" group-title="MBC", MBC 3
+#EXTINF:-1 tvg-id="559" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1701055.png" tvg-name="MBC 3" group-title="MBC", MBC 3
 https://aloka-arena.online:443/strem7786/time7657/76
-#EXTINF:-1 tvg-id="559" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" tvg-name="MBC 2" group-title="MBC", MBC 2
+#EXTINF:-1 tvg-id="560" tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" tvg-name="MBC 2" group-title="MBC", MBC 2
 https://aloka-arena.online:443/strem7786/time7657/77
-#EXTINF:-1 tvg-id="560" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" tvg-name="MBC 1" group-title="MBC", MBC 1
+#EXTINF:-1 tvg-id="561" tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" tvg-name="MBC 1" group-title="MBC", MBC 1
 https://aloka-arena.online:443/strem7786/time7657/78
-#EXTINF:-1 tvg-id="561" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" tvg-name="MBC Persia" group-title="MBC", MBC Persia
+#EXTINF:-1 tvg-id="562" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" tvg-name="MBC Persia" group-title="MBC", MBC Persia
 https://aloka-arena.online:443/strem7786/time7657/80
-#EXTINF:-1 tvg-id="562" tvg-logo="https://cloud.besttvps.com/app/tv/vision/VisionLogo.png" tvg-name="Vision Arabic HD" group-title="Movies", Vision Arabic HD
+#EXTINF:-1 tvg-id="563" tvg-logo="https://cloud.besttvps.com/app/tv/vision/VisionLogo.png" tvg-name="Vision Arabic HD" group-title="Movies", Vision Arabic HD
 https://aloka-arena.online:443/strem7786/time7657/58
-#EXTINF:-1 tvg-id="563" tvg-logo="https://cloud.besttvps.com/app/tv/vision/VisionLogo.png" tvg-name="Vision Action HD" group-title="Movies", Vision Action HD
+#EXTINF:-1 tvg-id="564" tvg-logo="https://cloud.besttvps.com/app/tv/vision/VisionLogo.png" tvg-name="Vision Action HD" group-title="Movies", Vision Action HD
 https://aloka-arena.online:443/strem7786/time7657/59
-#EXTINF:-1 tvg-id="564" tvg-logo="https://cloud.besttvps.com/app/tv/vision/VisionLogo.png" tvg-name="Vision Horror HD" group-title="Movies", Vision Horror HD
+#EXTINF:-1 tvg-id="565" tvg-logo="https://cloud.besttvps.com/app/tv/vision/VisionLogo.png" tvg-name="Vision Horror HD" group-title="Movies", Vision Horror HD
 https://aloka-arena.online:443/strem7786/time7657/60
-#EXTINF:-1 tvg-id="565" tvg-logo="https://cloud.besttvps.com/app/tv/vision/VisionLogo.png" tvg-name="Vision Movies HD" group-title="Movies", Vision Movies HD
+#EXTINF:-1 tvg-id="566" tvg-logo="https://cloud.besttvps.com/app/tv/vision/VisionLogo.png" tvg-name="Vision Movies HD" group-title="Movies", Vision Movies HD
 https://aloka-arena.online:443/strem7786/time7657/61
-#EXTINF:-1 tvg-id="566" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690864.png" tvg-name="Netflix Mystery" group-title="Movies", Netflix Mystery
+#EXTINF:-1 tvg-id="567" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690864.png" tvg-name="Netflix Mystery" group-title="Movies", Netflix Mystery
 https://aloka-arena.online:443/strem7786/time7657/62
-#EXTINF:-1 tvg-id="567" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690863.png" tvg-name="Netflix Cirme" group-title="Movies", Netflix Cirme
+#EXTINF:-1 tvg-id="568" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690863.png" tvg-name="Netflix Cirme" group-title="Movies", Netflix Cirme
 https://aloka-arena.online:443/strem7786/time7657/63
-#EXTINF:-1 tvg-id="568" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690861.png" tvg-name="Netflix Horror" group-title="Movies", Netflix Horror
+#EXTINF:-1 tvg-id="569" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690861.png" tvg-name="Netflix Horror" group-title="Movies", Netflix Horror
 https://aloka-arena.online:443/strem7786/time7657/64
-#EXTINF:-1 tvg-id="569" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690860.png" tvg-name="Netflix Action" group-title="Movies", Netflix Action
+#EXTINF:-1 tvg-id="570" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690860.png" tvg-name="Netflix Action" group-title="Movies", Netflix Action
 https://aloka-arena.online:443/strem7786/time7657/65
-#EXTINF:-1 tvg-id="570" tvg-name="SHOOF MAX AFLAM" group-title="Movies", SHOOF MAX AFLAM
+#EXTINF:-1 tvg-id="571" tvg-name="SHOOF MAX AFLAM" group-title="Movies", SHOOF MAX AFLAM
 https://aloka-arena.online:443/strem7786/time7657/86
-#EXTINF:-1 tvg-id="571" tvg-name="SHOOF MAX ZAMAN" group-title="Movies", SHOOF MAX ZAMAN
+#EXTINF:-1 tvg-id="572" tvg-name="SHOOF MAX ZAMAN" group-title="Movies", SHOOF MAX ZAMAN
 https://aloka-arena.online:443/strem7786/time7657/87
-#EXTINF:-1 tvg-id="572" tvg-name="SHOOF MAX DRAMA" group-title="Movies", SHOOF MAX DRAMA
+#EXTINF:-1 tvg-id="573" tvg-name="SHOOF MAX DRAMA" group-title="Movies", SHOOF MAX DRAMA
 https://aloka-arena.online:443/strem7786/time7657/88
-#EXTINF:-1 tvg-id="573" tvg-name="SHOOF MAX COMEDY" group-title="Movies", SHOOF MAX COMEDY
+#EXTINF:-1 tvg-id="574" tvg-name="SHOOF MAX COMEDY" group-title="Movies", SHOOF MAX COMEDY
 https://aloka-arena.online:443/strem7786/time7657/89
-#EXTINF:-1 tvg-id="574" tvg-logo="https://j.top4top.io/p_218868zfi2.jpg" tvg-name="BEE MOVIES" group-title="Movies", BEE MOVIES
+#EXTINF:-1 tvg-id="575" tvg-logo="https://j.top4top.io/p_218868zfi2.jpg" tvg-name="BEE MOVIES" group-title="Movies", BEE MOVIES
 https://aloka-arena.online:443/strem7786/time7657/93
-#EXTINF:-1 tvg-id="575" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1494578_p.png" tvg-name="omg tv" group-title="Movies", omg tv
+#EXTINF:-1 tvg-id="576" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1494578_p.png" tvg-name="omg tv" group-title="Movies", omg tv
 https://aloka-arena.online:443/strem7786/time7657/97
-#EXTINF:-1 tvg-id="576" tvg-logo="https://i.ibb.co/MD7004h/1.png" tvg-name="Shahid VIP Action" group-title="Movies", Shahid VIP Action
+#EXTINF:-1 tvg-id="577" tvg-logo="https://i.ibb.co/MD7004h/1.png" tvg-name="Shahid VIP Action" group-title="Movies", Shahid VIP Action
 https://aloka-arena.online:443/strem7786/time7657/1002
-#EXTINF:-1 tvg-id="577" tvg-logo="https://i.ibb.co/k3QCQrq/4.png" tvg-name="Shahid VIP INDIA" group-title="Movies", Shahid VIP INDIA
+#EXTINF:-1 tvg-id="578" tvg-logo="https://i.ibb.co/k3QCQrq/4.png" tvg-name="Shahid VIP INDIA" group-title="Movies", Shahid VIP INDIA
 https://aloka-arena.online:443/strem7786/time7657/1003
-#EXTINF:-1 tvg-id="578" tvg-logo="https://i.ibb.co/L6N7bCW/13.png" tvg-name="Shahid VIP Horror" group-title="Movies", Shahid VIP Horror
+#EXTINF:-1 tvg-id="579" tvg-logo="https://i.ibb.co/L6N7bCW/13.png" tvg-name="Shahid VIP Horror" group-title="Movies", Shahid VIP Horror
 https://aloka-arena.online:443/strem7786/time7657/1004
-#EXTINF:-1 tvg-id="579" tvg-logo="https://i.ibb.co/f0N41dX/14.png" tvg-name="Shahid VIP SCI FI" group-title="Movies", Shahid VIP SCI FI
+#EXTINF:-1 tvg-id="580" tvg-logo="https://i.ibb.co/f0N41dX/14.png" tvg-name="Shahid VIP SCI FI" group-title="Movies", Shahid VIP SCI FI
 https://aloka-arena.online:443/strem7786/time7657/1005
-#EXTINF:-1 tvg-id="580" tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="Music", Arabica TV (720p)
+#EXTINF:-1 tvg-id="581" tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="Music", Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="581" tvg-logo="https://i.imgur.com/h1N60QR.png" group-title="Music", Falastini (720p)
+#EXTINF:-1 tvg-id="582" tvg-logo="https://i.imgur.com/h1N60QR.png" group-title="Music", Falastini (720p)
 https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-id="582" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="Music", IFM TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="583" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="Music", IFM TV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
-#EXTINF:-1 tvg-id="583" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="Music", Jawhara FM (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="584" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="Music", Jawhara FM (720p) [Not 24/7]
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="584" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="Music", JAWHARA TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="585" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="Music", JAWHARA TV (720p) [Not 24/7]
 https://streaming.toutech.net/live/jtv/index.m3u8
-#EXTINF:-1 tvg-id="585" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="Music", Marah FM (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="586" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="Music", Marah FM (720p) [Not 24/7]
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="586" tvg-logo="https://i.imgur.com/P9cgM89.png" group-title="Music", Melody FM Jordan (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="587" tvg-logo="https://i.imgur.com/P9cgM89.png" group-title="Music", Melody FM Jordan (720p) [Not 24/7]
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="587" tvg-logo="https://i.imgur.com/35KJSUN.png" group-title="Music", Mosaïque FM (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="588" tvg-logo="https://i.imgur.com/35KJSUN.png" group-title="Music", Mosaïque FM (480p) [Not 24/7]
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="588" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="Music", Nojoum TV (720p)
+#EXTINF:-1 tvg-id="589" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="Music", Nojoum TV (720p)
 https://nojoumhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="589" tvg-logo="https://i.imgur.com/iNZUegv.png" group-title="Music", Panorama FM (1080p)
+#EXTINF:-1 tvg-id="590" tvg-logo="https://i.imgur.com/iNZUegv.png" group-title="Music", Panorama FM (1080p)
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 tvg-id="590" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="Music", Souryana Radio (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="591" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="Music", Souryana Radio (360p) [Not 24/7]
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="591" tvg-logo="https://i.imgur.com/rlC0Stt.png" group-title="Music", Toyor Al-Jannah (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="592" tvg-logo="https://i.imgur.com/rlC0Stt.png" group-title="Music", Toyor Al-Jannah (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/toyorlive/live
-#EXTINF:-1 tvg-id="592" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music", Wanasah (1080p)
+#EXTINF:-1 tvg-id="593" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music", Wanasah (1080p)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 tvg-id="593" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News", Al Alam (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="594" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News", Al Alam (360p) [Not 24/7]
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="594" tvg-logo="https://i.imgur.com/NciF5rO.png" group-title="News", Al Ekhbariya (1080p)
+#EXTINF:-1 tvg-id="595" tvg-logo="https://i.imgur.com/NciF5rO.png" group-title="News", Al Ekhbariya (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/ekhbariyatv/live
-#EXTINF:-1 tvg-id="595" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="News", Al Ghad (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="596" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="News", Al Ghad (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/alghadtv/live
-#EXTINF:-1 tvg-id="596" tvg-logo="https://i.imgur.com/9r7Hydw.png" group-title="News", Al Hurra (720p)
+#EXTINF:-1 tvg-id="597" tvg-logo="https://i.imgur.com/9r7Hydw.png" group-title="News", Al Hurra (720p)
 https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
-#EXTINF:-1 tvg-id="597" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News", Al Iraqia News
+#EXTINF:-1 tvg-id="598" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News", Al Iraqia News
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-id="598" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="News", Al Jazeera Arabic (1080p)
+#EXTINF:-1 tvg-id="599" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="News", Al Jazeera Arabic (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeera/live
-#EXTINF:-1 tvg-id="599" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="News", Al Jazeera Balkans (1080p)
+#EXTINF:-1 tvg-id="600" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="News", Al Jazeera Balkans (1080p)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-id="600" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News", Al Jazeera Documentary (270p) [Geo-blocked]
+#EXTINF:-1 tvg-id="601" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News", Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="601" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News", Al Jazeera Mubasher (1080p)
+#EXTINF:-1 tvg-id="602" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News", Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="602" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG" group-title="News", Al Manar (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="603" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG" group-title="News", Al Manar (576p) [Not 24/7]
 https://manar.live/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="603" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News", Al Masirah (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="604" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News", Al Masirah (720p) [Not 24/7]
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="604" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="News", Al Masirah Mubacher (642p) [Not 24/7]
+#EXTINF:-1 tvg-id="605" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="News", Al Masirah Mubacher (642p) [Not 24/7]
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="605" tvg-logo="https://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News", Al Mayadeen (576p)
+#EXTINF:-1 tvg-id="606" tvg-logo="https://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News", Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="606" tvg-logo="https://i.imgur.com/kKPppEz.png" group-title="News", Al Sabah (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="607" tvg-logo="https://i.imgur.com/kKPppEz.png" group-title="News", Al Sabah (360p) [Not 24/7]
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="607" tvg-logo="https://i.imgur.com/WzchHvc.png" group-title="News", Al Sharqiya News (1080p)
+#EXTINF:-1 tvg-id="608" tvg-logo="https://i.imgur.com/WzchHvc.png" group-title="News", Al Sharqiya News (1080p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="608" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News", Al Yaum TV (720p)
+#EXTINF:-1 tvg-id="609" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News", Al Yaum TV (720p)
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:-1 tvg-id="609" tvg-logo="https://i.imgur.com/jFKKRjP.png" group-title="News", Al-Etejah (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="610" tvg-logo="https://i.imgur.com/jFKKRjP.png" group-title="News", Al-Etejah (576p) [Not 24/7]
 http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="610" tvg-logo="https://i.imgur.com/pc0eSwY.png" group-title="News", Alaraby 2 TV (1080p)
+#EXTINF:-1 tvg-id="611" tvg-logo="https://i.imgur.com/pc0eSwY.png" group-title="News", Alaraby 2 TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="611" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News", Alaraby TV (1080p)
+#EXTINF:-1 tvg-id="612" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News", Alaraby TV (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AlarabyTv_News/live
-#EXTINF:-1 tvg-id="612" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%BA%D8%AF%D9%8A%D8%B1.png" group-title="News", AlGhadeer (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="613" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%BA%D8%AF%D9%8A%D8%B1.png" group-title="News", AlGhadeer (720p) [Not 24/7]
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
-#EXTINF:-1 tvg-id="613" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News", BBC Arabic (720p)
+#EXTINF:-1 tvg-id="614" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News", BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="614" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CGTN_arabic.png/512px-CGTN_arabic.png" group-title="News", CGTN Arabic (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="615" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CGTN_arabic.png/512px-CGTN_arabic.png" group-title="News", CGTN Arabic (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 tvg-id="615" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/%D9%82%D9%86%D8%A7%D8%A9_%D8%AF%D8%AC%D9%84%D8%A9.png" group-title="News", Dijlah (1080p)
+#EXTINF:-1 tvg-id="616" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/%D9%82%D9%86%D8%A7%D8%A9_%D8%AF%D8%AC%D9%84%D8%A9.png" group-title="News", Dijlah (1080p)
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 tvg-id="616" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News", DW Arabic (1080p)
+#EXTINF:-1 tvg-id="617" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News", DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/512px-ECHOUROUK-NEWS.png" group-title="News", Echorouk News (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/512px-ECHOUROUK-NEWS.png" group-title="News", Echorouk News (240p) [Not 24/7]
 http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
-#EXTINF:-1 tvg-id="618" tvg-logo="https://i.imgur.com/wVpTbzu.png" group-title="News", eXtra News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="619" tvg-logo="https://i.imgur.com/wVpTbzu.png" group-title="News", eXtra News (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
-#EXTINF:-1 tvg-id="619" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News", France 24 Arabic (1080p)
+#EXTINF:-1 tvg-id="620" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News", France 24 Arabic (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
-#EXTINF:-1 tvg-id="620" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="News", Halab Today TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="621" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="News", Halab Today TV (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ/live
-#EXTINF:-1 tvg-id="621" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News", I24 News Arabic (720p)
+#EXTINF:-1 tvg-id="622" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News", I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 tvg-id="622" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-iq.png" group-title="News", iNEWS (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="623" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-iq.png" group-title="News", iNEWS (1080p) [Not 24/7]
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="623" tvg-logo="https://i.imgur.com/BIuUtX7.png" group-title="News", Jamahiria TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/BIuUtX7.png" group-title="News", Jamahiria TV (480p) [Not 24/7]
 https://master.starmena-cloud.com/hls/jam.m3u8
-#EXTINF:-1 tvg-id="624" tvg-logo="https://i.imgur.com/bAyCFCA.png" group-title="News", Libya 218 News (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="625" tvg-logo="https://i.imgur.com/bAyCFCA.png" group-title="News", Libya 218 News (1080p) [Not 24/7]
 http://95.85.47.43/libya218news/playlist.m3u8
-#EXTINF:-1 tvg-id="625" tvg-logo="https://i.imgur.com/b9x2HeQ.png" group-title="News", Libya Al Ahrar TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="626" tvg-logo="https://i.imgur.com/b9x2HeQ.png" group-title="News", Libya Al Ahrar TV (720p) [Not 24/7]
 https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8
-#EXTINF:-1 tvg-id="626" tvg-logo="https://i.imgur.com/a7CSWcN.png" group-title="News", M24 TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="627" tvg-logo="https://i.imgur.com/a7CSWcN.png" group-title="News", M24 TV (720p) [Not 24/7]
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="627" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News", Medi 1 TV Arabic (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="628" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News", Medi 1 TV Arabic (1080p) [Not 24/7]
 http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="628" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News", Medi 1 TV Maghreb (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="629" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News", Medi 1 TV Maghreb (1080p) [Not 24/7]
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="629" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="News", Mekameleen TV (1080p)
+#EXTINF:-1 tvg-id="630" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="News", Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="630" tvg-logo="https://i.imgur.com/x3XqZxs.png" group-title="News", Miracle Channel (576p)
+#EXTINF:-1 tvg-id="631" tvg-logo="https://i.imgur.com/x3XqZxs.png" group-title="News", Miracle Channel (576p)
 https://miracle.stream.boxigy.com/hls/miracle1.m3u8
-#EXTINF:-1 tvg-id="631" tvg-logo="https://i.imgur.com/rXyCQGY.png" group-title="News", Nabaa TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="632" tvg-logo="https://i.imgur.com/rXyCQGY.png" group-title="News", Nabaa TV (720p) [Not 24/7]
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-id="632" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News", Palestine Today (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="633" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News", Palestine Today (1080p) [Geo-blocked]
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-id="633" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News", RT Arabic (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="634" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News", RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="634" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News", Sky News Arabia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="635" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News", Sky News Arabia (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="635" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News", Sky News Arabia (Portrait) (1280p) [Not 24/7]
+#EXTINF:-1 tvg-id="636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News", Sky News Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-id="636" tvg-logo="https://i.imgur.com/3vLMYBp.png" group-title="News", Suhail TV (576p)
+#EXTINF:-1 tvg-id="637" tvg-logo="https://i.imgur.com/3vLMYBp.png" group-title="News", Suhail TV (576p)
 http://82.212.74.98:8000/live/hls/7726.m3u8
-#EXTINF:-1 tvg-id="637" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News", Syrian News Channel (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="638" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News", Syrian News Channel (360p) [Not 24/7]
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1 tvg-id="638" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News", TRT Arabi (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="639" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News", TRT Arabi (720p) [Not 24/7]
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="639" tvg-logo="https://www.tvseventeen.com/img/logo.png" group-title="News", TV Seventeen (720p)
+#EXTINF:-1 tvg-id="640" tvg-logo="https://www.tvseventeen.com/img/logo.png" group-title="News", TV Seventeen (720p)
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-#EXTINF:-1 tvg-id="640" group-title="News", |News| AL Hadath
+#EXTINF:-1 tvg-id="641" group-title="News", |News| AL Hadath
 http://red.ipfox.org:8080/osama2022/osama2023/2901
-#EXTINF:-1 tvg-id="641" group-title="News", |News| Alarabiya
+#EXTINF:-1 tvg-id="642" group-title="News", |News| Alarabiya
 http://red.ipfox.org:8080/osama2022/osama2023/2914
-#EXTINF:-1 tvg-id="642" group-title="News", |News| ALarabiya ALhadath
+#EXTINF:-1 tvg-id="643" group-title="News", |News| ALarabiya ALhadath
 http://red.ipfox.org:8080/osama2022/osama2023/2915
-#EXTINF:-1 tvg-id="643" group-title="News", |News| Al Jazeera
+#EXTINF:-1 tvg-id="644" group-title="News", |News| Al Jazeera
 http://red.ipfox.org:8080/osama2022/osama2023/2913
-#EXTINF:-1 tvg-id="644" group-title="News", |News| Al Jazeera Mubasher
+#EXTINF:-1 tvg-id="645" group-title="News", |News| Al Jazeera Mubasher
 http://red.ipfox.org:8080/osama2022/osama2023/2912
-#EXTINF:-1 tvg-id="645" group-title="News", |News| BBC Arabic
+#EXTINF:-1 tvg-id="646" group-title="News", |News| BBC Arabic
 http://red.ipfox.org:8080/osama2022/osama2023/2919
-#EXTINF:-1 tvg-id="646" group-title="News", |News| Alhurra Iraq
+#EXTINF:-1 tvg-id="647" group-title="News", |News| Alhurra Iraq
 http://red.ipfox.org:8080/osama2022/osama2023/2907
-#EXTINF:-1 tvg-id="647" group-title="News", |News| AlSharqiya News
+#EXTINF:-1 tvg-id="648" group-title="News", |News| AlSharqiya News
 http://red.ipfox.org:8080/osama2022/osama2023/2904
-#EXTINF:-1 tvg-id="648" group-title="News", |News| Sky News Arabia
+#EXTINF:-1 tvg-id="649" group-title="News", |News| Sky News Arabia
 http://red.ipfox.org:8080/osama2022/osama2023/2920
-#EXTINF:-1 tvg-id="649" group-title="News", |News| France 24 AR
+#EXTINF:-1 tvg-id="650" group-title="News", |News| France 24 AR
 http://red.ipfox.org:8080/osama2022/osama2023/2897
-#EXTINF:-1 tvg-id="650" group-title="News", |News| France 24 Eng
+#EXTINF:-1 tvg-id="651" group-title="News", |News| France 24 Eng
 http://red.ipfox.org:8080/osama2022/osama2023/2898
-#EXTINF:-1 tvg-id="651" group-title="News", |News| Nile News
+#EXTINF:-1 tvg-id="652" group-title="News", |News| Nile News
 http://red.ipfox.org:8080/osama2022/osama2023/2899
-#EXTINF:-1 tvg-id="652" group-title="News", |News| Iraqia News
+#EXTINF:-1 tvg-id="653" group-title="News", |News| Iraqia News
 http://red.ipfox.org:8080/osama2022/osama2023/2900
-#EXTINF:-1 tvg-id="653" group-title="News", |News| Almayadeen
+#EXTINF:-1 tvg-id="654" group-title="News", |News| Almayadeen
 http://red.ipfox.org:8080/osama2022/osama2023/2903
-#EXTINF:-1 tvg-id="654" group-title="News", |News| Al Mawsleya
+#EXTINF:-1 tvg-id="655" group-title="News", |News| Al Mawsleya
 http://red.ipfox.org:8080/osama2022/osama2023/2905
-#EXTINF:-1 tvg-id="655" group-title="News", |News| DW-TV ARABIA
+#EXTINF:-1 tvg-id="656" group-title="News", |News| DW-TV ARABIA
 http://red.ipfox.org:8080/osama2022/osama2023/2910
-#EXTINF:-1 tvg-id="656" group-title="News", |News| TRT ELARABIYE
+#EXTINF:-1 tvg-id="657" group-title="News", |News| TRT ELARABIYE
 http://red.ipfox.org:8080/osama2022/osama2023/2911
-#EXTINF:-1 tvg-id="657" group-title="News", |News| Russia Alyaum
+#EXTINF:-1 tvg-id="658" group-title="News", |News| Russia Alyaum
 http://red.ipfox.org:8080/osama2022/osama2023/2916
-#EXTINF:-1 tvg-id="658" group-title="News", |News| CNBC Arabia
+#EXTINF:-1 tvg-id="659" group-title="News", |News| CNBC Arabia
 http://red.ipfox.org:8080/osama2022/osama2023/2917
-#EXTINF:-1 tvg-id="659" group-title="News", |News| CNN
+#EXTINF:-1 tvg-id="660" group-title="News", |News| CNN
 http://red.ipfox.org:8080/osama2022/osama2023/2918
-#EXTINF:-1 tvg-id="660" group-title="OSN & beIN Entretainment", |AR| OSN Yahala Bil Arabi -1080P
+#EXTINF:-1 tvg-id="661" group-title="OSN & beIN Entretainment", |AR| OSN Yahala Bil Arabi -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49633
-#EXTINF:-1 tvg-id="661" group-title="OSN & beIN Entretainment", |AR| OSN Yahala Bil Arabi -720P
+#EXTINF:-1 tvg-id="662" group-title="OSN & beIN Entretainment", |AR| OSN Yahala Bil Arabi -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49632
-#EXTINF:-1 tvg-id="662" group-title="OSN & beIN Entretainment", |AR| OSN Yahala -1080P
+#EXTINF:-1 tvg-id="663" group-title="OSN & beIN Entretainment", |AR| OSN Yahala -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49631
-#EXTINF:-1 tvg-id="663" group-title="OSN & beIN Entretainment", |AR| OSN Yahala -720P
+#EXTINF:-1 tvg-id="664" group-title="OSN & beIN Entretainment", |AR| OSN Yahala -720P
 http://red.ipfox.org:8080/osama2022/osama2023/49630
-#EXTINF:-1 tvg-id="664" group-title="OSN & beIN Entretainment", |JAW| OSN Yahala HD
+#EXTINF:-1 tvg-id="665" group-title="OSN & beIN Entretainment", |JAW| OSN Yahala HD
 http://red.ipfox.org:8080/osama2022/osama2023/47296
-#EXTINF:-1 tvg-id="665" group-title="OSN & beIN Entretainment", |JAW| OSN Woman
+#EXTINF:-1 tvg-id="666" group-title="OSN & beIN Entretainment", |JAW| OSN Woman
 http://red.ipfox.org:8080/osama2022/osama2023/47290
-#EXTINF:-1 tvg-id="666" group-title="OSN & beIN Entretainment", |JAW| OSN Mezze
+#EXTINF:-1 tvg-id="667" group-title="OSN & beIN Entretainment", |JAW| OSN Mezze
 http://red.ipfox.org:8080/osama2022/osama2023/47288
-#EXTINF:-1 tvg-id="667" tvg-logo="https://i.ibb.co/QFKgcb9/beinpremiere.png" tvg-name="beIN Movies 1 Premiere 4K" group-title="OSN & beIN Entretainment", beIN Movies 1 Premiere 4K
+#EXTINF:-1 tvg-id="668" tvg-logo="https://i.ibb.co/QFKgcb9/beinpremiere.png" tvg-name="beIN Movies 1 Premiere 4K" group-title="OSN & beIN Entretainment", beIN Movies 1 Premiere 4K
 https://aloka-arena.online:443/strem7786/time7657/37
-#EXTINF:-1 tvg-id="668" tvg-logo="https://i.ibb.co/h8tthCy/beinaction.png" tvg-name="beIN Movies 2 Action 4K" group-title="OSN & beIN Entretainment", beIN Movies 2 Action 4K
+#EXTINF:-1 tvg-id="669" tvg-logo="https://i.ibb.co/h8tthCy/beinaction.png" tvg-name="beIN Movies 2 Action 4K" group-title="OSN & beIN Entretainment", beIN Movies 2 Action 4K
 https://aloka-arena.online:443/strem7786/time7657/38
-#EXTINF:-1 tvg-id="669" tvg-logo="https://i.ibb.co/nzdcd6x/beindrama.png" tvg-name="beIN Movies 3 Drama 4K" group-title="OSN & beIN Entretainment", beIN Movies 3 Drama 4K
+#EXTINF:-1 tvg-id="670" tvg-logo="https://i.ibb.co/nzdcd6x/beindrama.png" tvg-name="beIN Movies 3 Drama 4K" group-title="OSN & beIN Entretainment", beIN Movies 3 Drama 4K
 https://aloka-arena.online:443/strem7786/time7657/39
-#EXTINF:-1 tvg-id="670" tvg-logo="https://i.ibb.co/gzQS7wZ/beinfamily.png" tvg-name="beIN Movies 4 Family 4K" group-title="OSN & beIN Entretainment", beIN Movies 4 Family 4K
+#EXTINF:-1 tvg-id="671" tvg-logo="https://i.ibb.co/gzQS7wZ/beinfamily.png" tvg-name="beIN Movies 4 Family 4K" group-title="OSN & beIN Entretainment", beIN Movies 4 Family 4K
 https://aloka-arena.online:443/strem7786/time7657/40
-#EXTINF:-1 tvg-id="671" tvg-logo="https://i.ibb.co/fdsQ1c3/beindrama1.png" tvg-name="beIN Drama" group-title="OSN & beIN Entretainment", beIN Drama
+#EXTINF:-1 tvg-id="672" tvg-logo="https://i.ibb.co/fdsQ1c3/beindrama1.png" tvg-name="beIN Drama" group-title="OSN & beIN Entretainment", beIN Drama
 https://aloka-arena.online:443/strem7786/time7657/41
-#EXTINF:-1 tvg-id="672" tvg-logo="https://i.ibb.co/Zh99gc0/foxrewayat.png" tvg-name="FOX REWAYAT" group-title="OSN & beIN Entretainment", FOX REWAYAT
+#EXTINF:-1 tvg-id="673" tvg-logo="https://i.ibb.co/Zh99gc0/foxrewayat.png" tvg-name="FOX REWAYAT" group-title="OSN & beIN Entretainment", FOX REWAYAT
 https://aloka-arena.online:443/strem7786/time7657/42
-#EXTINF:-1 tvg-id="673" tvg-logo="https://i.ibb.co/HTx0kQx/foxmovies.png" tvg-name="FOX Movies" group-title="OSN & beIN Entretainment", FOX Movies
+#EXTINF:-1 tvg-id="674" tvg-logo="https://i.ibb.co/HTx0kQx/foxmovies.png" tvg-name="FOX Movies" group-title="OSN & beIN Entretainment", FOX Movies
 https://aloka-arena.online:443/strem7786/time7657/43
-#EXTINF:-1 tvg-id="674" tvg-name="BeIN FATAFEAT" group-title="OSN & beIN Entretainment", BeIN FATAFEAT
+#EXTINF:-1 tvg-id="675" tvg-name="BeIN FATAFEAT" group-title="OSN & beIN Entretainment", BeIN FATAFEAT
 https://aloka-arena.online:443/strem7786/time7657/44
-#EXTINF:-1 tvg-id="675" tvg-name="BEIN: BARAEM" group-title="OSN & beIN Entretainment", BEIN: BARAEM
+#EXTINF:-1 tvg-id="676" tvg-name="BEIN: BARAEM" group-title="OSN & beIN Entretainment", BEIN: BARAEM
 https://aloka-arena.online:443/strem7786/time7657/45
-#EXTINF:-1 tvg-id="676" tvg-name="BEIN: Nat Geo Wild HD" group-title="OSN & beIN Entretainment", BEIN: Nat Geo Wild HD
+#EXTINF:-1 tvg-id="677" tvg-name="BEIN: Nat Geo Wild HD" group-title="OSN & beIN Entretainment", BEIN: Nat Geo Wild HD
 https://aloka-arena.online:443/strem7786/time7657/46
-#EXTINF:-1 tvg-id="677" tvg-logo="https://i.ibb.co/gwb72Fj/ya-hala.png" tvg-name="OSN: Yahala HD" group-title="OSN & beIN Entretainment", OSN: Yahala HD
+#EXTINF:-1 tvg-id="678" tvg-logo="https://i.ibb.co/gwb72Fj/ya-hala.png" tvg-name="OSN: Yahala HD" group-title="OSN & beIN Entretainment", OSN: Yahala HD
 https://aloka-arena.online:443/strem7786/time7657/47
-#EXTINF:-1 tvg-id="678" tvg-name="OSN: ART Hekayat HD" group-title="OSN & beIN Entretainment", OSN: ART Hekayat HD
+#EXTINF:-1 tvg-id="679" tvg-name="OSN: ART Hekayat HD" group-title="OSN & beIN Entretainment", OSN: ART Hekayat HD
 https://aloka-arena.online:443/strem7786/time7657/49
-#EXTINF:-1 tvg-id="679" tvg-logo="https://i.ibb.co/Br2YBVb/ya-hala-o.png" tvg-name="OSN: Yahala 1 ALOLA HD" group-title="OSN & beIN Entretainment", OSN: Yahala 1 ALOLA HD
+#EXTINF:-1 tvg-id="680" tvg-logo="https://i.ibb.co/Br2YBVb/ya-hala-o.png" tvg-name="OSN: Yahala 1 ALOLA HD" group-title="OSN & beIN Entretainment", OSN: Yahala 1 ALOLA HD
 https://aloka-arena.online:443/strem7786/time7657/48
-#EXTINF:-1 tvg-id="680" tvg-logo="https://i.ibb.co/WGpyzz1/ya-hala-c.png" tvg-name="OSN: Yahala Cinema HD" group-title="OSN & beIN Entretainment", OSN: Yahala Cinema HD
+#EXTINF:-1 tvg-id="681" tvg-logo="https://i.ibb.co/WGpyzz1/ya-hala-c.png" tvg-name="OSN: Yahala Cinema HD" group-title="OSN & beIN Entretainment", OSN: Yahala Cinema HD
 https://aloka-arena.online:443/strem7786/time7657/50
-#EXTINF:-1 tvg-id="681" tvg-name="OSN: ART Aflam 2 HD" group-title="OSN & beIN Entretainment", OSN: ART Aflam 2 HD
+#EXTINF:-1 tvg-id="682" tvg-name="OSN: ART Aflam 2 HD" group-title="OSN & beIN Entretainment", OSN: ART Aflam 2 HD
 https://aloka-arena.online:443/strem7786/time7657/51
-#EXTINF:-1 tvg-id="682" tvg-logo="https://i.ibb.co/Vw0vTXC/osnaction.png" tvg-name="OSN: Action HD" group-title="OSN & beIN Entretainment", OSN: Action HD
+#EXTINF:-1 tvg-id="683" tvg-logo="https://i.ibb.co/Vw0vTXC/osnaction.png" tvg-name="OSN: Action HD" group-title="OSN & beIN Entretainment", OSN: Action HD
 https://aloka-arena.online:443/strem7786/time7657/52
-#EXTINF:-1 tvg-id="683" tvg-name="OSN: Alfa Cinema 1 HD" group-title="OSN & beIN Entretainment", OSN: Alfa Cinema 1 HD
+#EXTINF:-1 tvg-id="684" tvg-name="OSN: Alfa Cinema 1 HD" group-title="OSN & beIN Entretainment", OSN: Alfa Cinema 1 HD
 https://aloka-arena.online:443/strem7786/time7657/53
-#EXTINF:-1 tvg-id="684" tvg-logo="https://i.ibb.co/HP7LkG1/osnmovies.png" tvg-name="OSN: Movies" group-title="OSN & beIN Entretainment", OSN: Movies
+#EXTINF:-1 tvg-id="685" tvg-logo="https://i.ibb.co/HP7LkG1/osnmovies.png" tvg-name="OSN: Movies" group-title="OSN & beIN Entretainment", OSN: Movies
 https://aloka-arena.online:443/strem7786/time7657/54
-#EXTINF:-1 tvg-id="685" tvg-name="OSN: ART Aflam 1" group-title="OSN & beIN Entretainment", OSN: ART Aflam 1
+#EXTINF:-1 tvg-id="686" tvg-name="OSN: ART Aflam 1" group-title="OSN & beIN Entretainment", OSN: ART Aflam 1
 https://aloka-arena.online:443/strem7786/time7657/55
-#EXTINF:-1 tvg-id="686" tvg-logo="https://i.ibb.co/x8cCMxv/osn-discovry.png" tvg-name="OSN Discovry ID" group-title="OSN & beIN Entretainment", OSN Discovry ID
+#EXTINF:-1 tvg-id="687" tvg-logo="https://i.ibb.co/x8cCMxv/osn-discovry.png" tvg-name="OSN Discovry ID" group-title="OSN & beIN Entretainment", OSN Discovry ID
 https://aloka-arena.online:443/strem7786/time7657/56
-#EXTINF:-1 tvg-id="687" tvg-logo="https://i.ibb.co/17NkVKy/osn-kids.png" tvg-name="OSN Kids" group-title="OSN & beIN Entretainment", OSN Kids
+#EXTINF:-1 tvg-id="688" tvg-logo="https://i.ibb.co/17NkVKy/osn-kids.png" tvg-name="OSN Kids" group-title="OSN & beIN Entretainment", OSN Kids
 https://aloka-arena.online:443/strem7786/time7657/57
-#EXTINF:-1 tvg-id="688" tvg-name="BEIN BOX OFFICE 1" group-title="OSN & beIN Entretainment", BEIN BOX OFFICE 1
+#EXTINF:-1 tvg-id="689" tvg-name="BEIN BOX OFFICE 1" group-title="OSN & beIN Entretainment", BEIN BOX OFFICE 1
 https://aloka-arena.online:443/strem7786/time7657/1007
-#EXTINF:-1 tvg-id="689" tvg-name="BEIN BOX OFFICE 2" group-title="OSN & beIN Entretainment", BEIN BOX OFFICE 2
+#EXTINF:-1 tvg-id="690" tvg-name="BEIN BOX OFFICE 2" group-title="OSN & beIN Entretainment", BEIN BOX OFFICE 2
 https://aloka-arena.online:443/strem7786/time7657/1006
-#EXTINF:-1 tvg-id="690" group-title="Palestine", |PS| Palestine TV HD
+#EXTINF:-1 tvg-id="691" group-title="Palestine", |PS| Palestine TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/33737
-#EXTINF:-1 tvg-id="691" group-title="Palestine", |PS| Palestine live HD
+#EXTINF:-1 tvg-id="692" group-title="Palestine", |PS| Palestine live HD
 http://red.ipfox.org:8080/osama2022/osama2023/33738
-#EXTINF:-1 tvg-id="692" group-title="Palestine", |PS| Palestine today
+#EXTINF:-1 tvg-id="693" group-title="Palestine", |PS| Palestine today
 http://red.ipfox.org:8080/osama2022/osama2023/33739
-#EXTINF:-1 tvg-id="693" group-title="Palestine", |PS| Maan TV
+#EXTINF:-1 tvg-id="694" group-title="Palestine", |PS| Maan TV
 http://red.ipfox.org:8080/osama2022/osama2023/33740
-#EXTINF:-1 tvg-id="694" group-title="Palestine", |PS| Awdeh
+#EXTINF:-1 tvg-id="695" group-title="Palestine", |PS| Awdeh
 http://red.ipfox.org:8080/osama2022/osama2023/33741
-#EXTINF:-1 tvg-id="695" group-title="Palestine", |PS| Falastini.tv
+#EXTINF:-1 tvg-id="696" group-title="Palestine", |PS| Falastini.tv
 http://red.ipfox.org:8080/osama2022/osama2023/33742
-#EXTINF:-1 tvg-id="696" group-title="Palestine", |PS| Al Seraj
+#EXTINF:-1 tvg-id="697" group-title="Palestine", |PS| Al Seraj
 http://red.ipfox.org:8080/osama2022/osama2023/33744
-#EXTINF:-1 tvg-id="697" group-title="Palestine", |PS| ALQUDS TODAY TV
+#EXTINF:-1 tvg-id="698" group-title="Palestine", |PS| ALQUDS TODAY TV
 http://red.ipfox.org:8080/osama2022/osama2023/33745
-#EXTINF:-1 tvg-id="698" group-title="Palestine", |PS| MUSAWA HD
+#EXTINF:-1 tvg-id="699" group-title="Palestine", |PS| MUSAWA HD
 http://red.ipfox.org:8080/osama2022/osama2023/33747
-#EXTINF:-1 tvg-id="699" group-title="Palestine", |PS| Al AQSA TV
+#EXTINF:-1 tvg-id="700" group-title="Palestine", |PS| Al AQSA TV
 http://red.ipfox.org:8080/osama2022/osama2023/33749
-#EXTINF:-1 tvg-id="700" group-title="Palestine", |PS| Alkofiya
+#EXTINF:-1 tvg-id="701" group-title="Palestine", |PS| Alkofiya
 http://red.ipfox.org:8080/osama2022/osama2023/33750
-#EXTINF:-1 tvg-id="701" group-title="Palestine", |PS| Palestine Sport
+#EXTINF:-1 tvg-id="702" group-title="Palestine", |PS| Palestine Sport
 http://red.ipfox.org:8080/osama2022/osama2023/33752
-#EXTINF:-1 tvg-id="702" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-name="Ajyal TV" group-title="Palestine", Ajyal TV
+#EXTINF:-1 tvg-id="703" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-name="Ajyal TV" group-title="Palestine", Ajyal TV
 https://aloka-arena.online:443/strem7786/time7657/164
-#EXTINF:-1 tvg-id="703" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" tvg-name="Al Aqsa Channel" group-title="Palestine", Al Aqsa Channel
+#EXTINF:-1 tvg-id="704" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" tvg-name="Al Aqsa Channel" group-title="Palestine", Al Aqsa Channel
 https://aloka-arena.online:443/strem7786/time7657/165
-#EXTINF:-1 tvg-id="704" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-name="Audeh" group-title="Palestine", Audeh
+#EXTINF:-1 tvg-id="705" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-name="Audeh" group-title="Palestine", Audeh
 https://aloka-arena.online:443/strem7786/time7657/168
-#EXTINF:-1 tvg-id="705" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" tvg-name="Marah FM" group-title="Palestine", Marah FM
+#EXTINF:-1 tvg-id="706" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" tvg-name="Marah FM" group-title="Palestine", Marah FM
 https://aloka-arena.online:443/strem7786/time7657/169
-#EXTINF:-1 tvg-id="706" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-name="MusawaChannel" group-title="Palestine", MusawaChannel
+#EXTINF:-1 tvg-id="707" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-name="MusawaChannel" group-title="Palestine", MusawaChannel
 https://aloka-arena.online:443/strem7786/time7657/170
-#EXTINF:-1 tvg-id="707" tvg-logo="https://i.imgur.com/bYz6HUG.png" tvg-name="Palestine Mubasher" group-title="Palestine", Palestine Mubasher
+#EXTINF:-1 tvg-id="708" tvg-logo="https://i.imgur.com/bYz6HUG.png" tvg-name="Palestine Mubasher" group-title="Palestine", Palestine Mubasher
 https://aloka-arena.online:443/strem7786/time7657/171
-#EXTINF:-1 tvg-id="708" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" tvg-name="Palestine Satellite Channel" group-title="Palestine", Palestine Satellite Channel
+#EXTINF:-1 tvg-id="709" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" tvg-name="Palestine Satellite Channel" group-title="Palestine", Palestine Satellite Channel
 https://aloka-arena.online:443/strem7786/time7657/172
-#EXTINF:-1 tvg-id="709" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-name="Watan TV" group-title="Palestine", Watan TV
+#EXTINF:-1 tvg-id="710" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-name="Watan TV" group-title="Palestine", Watan TV
 https://aloka-arena.online:443/strem7786/time7657/174
-#EXTINF:-1 tvg-id="710" tvg-name="AD Sports PREMIEUM 1 SERIA A" group-title="Serie A", AD Sports PREMIEUM 1 SERIA A
+#EXTINF:-1 tvg-id="711" tvg-name="AD Sports PREMIEUM 1 SERIA A" group-title="Serie A", AD Sports PREMIEUM 1 SERIA A
 https://aloka-arena.online:443/strem234/live5543/1020
-#EXTINF:-1 tvg-id="711" tvg-name="AD Sports PREMIEUM 2 SERIA A" group-title="Serie A", AD Sports PREMIEUM 2 SERIA A
+#EXTINF:-1 tvg-id="712" tvg-name="AD Sports PREMIEUM 2 SERIA A" group-title="Serie A", AD Sports PREMIEUM 2 SERIA A
 https://aloka-arena.online:443/strem234/live5543/1021
-#EXTINF:-1 tvg-id="712" tvg-name="AD PREMIUM 1 SD" group-title="Serie A", AD PREMIUM 1 SD
+#EXTINF:-1 tvg-id="713" tvg-name="AD PREMIUM 1 SD" group-title="Serie A", AD PREMIUM 1 SD
 https://aloka-arena.online:443/strem234/live5543/1851
-#EXTINF:-1 tvg-id="713" group-title="Syria", |SY| Syria TV HD
+#EXTINF:-1 tvg-id="714" group-title="Syria", |SY| Syria TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/33711
-#EXTINF:-1 tvg-id="714" group-title="Syria", |SY| Lana TV HD
+#EXTINF:-1 tvg-id="715" group-title="Syria", |SY| Lana TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/33713
-#EXTINF:-1 tvg-id="715" group-title="Syria", |SY| Lana TV HD +4
+#EXTINF:-1 tvg-id="716" group-title="Syria", |SY| Lana TV HD +4
 http://red.ipfox.org:8080/osama2022/osama2023/33714
-#EXTINF:-1 tvg-id="716" group-title="Syria", |SY| Sham FM
+#EXTINF:-1 tvg-id="717" group-title="Syria", |SY| Sham FM
 http://red.ipfox.org:8080/osama2022/osama2023/33717
-#EXTINF:-1 tvg-id="717" group-title="Syria", |SY| SYRIA SATELLITE TV
+#EXTINF:-1 tvg-id="718" group-title="Syria", |SY| SYRIA SATELLITE TV
 http://red.ipfox.org:8080/osama2022/osama2023/33718
-#EXTINF:-1 tvg-id="718" group-title="Syria", |SY| Halab Today TV
+#EXTINF:-1 tvg-id="719" group-title="Syria", |SY| Halab Today TV
 http://red.ipfox.org:8080/osama2022/osama2023/33719
-#EXTINF:-1 tvg-id="719" group-title="Syria", |SY| SUROYO TV
+#EXTINF:-1 tvg-id="720" group-title="Syria", |SY| SUROYO TV
 http://red.ipfox.org:8080/osama2022/osama2023/33720
-#EXTINF:-1 tvg-id="720" group-title="Syria", |SY| Minbij TV
+#EXTINF:-1 tvg-id="721" group-title="Syria", |SY| Minbij TV
 http://red.ipfox.org:8080/osama2022/osama2023/33721
-#EXTINF:-1 tvg-id="721" group-title="Syria", |SY| SYRIAN EDUCATION
+#EXTINF:-1 tvg-id="722" group-title="Syria", |SY| SYRIAN EDUCATION
 http://red.ipfox.org:8080/osama2022/osama2023/33722
-#EXTINF:-1 tvg-id="722" group-title="Syria", |SY| Al Yawm (syria)
+#EXTINF:-1 tvg-id="723" group-title="Syria", |SY| Al Yawm (syria)
 http://red.ipfox.org:8080/osama2022/osama2023/33723
-#EXTINF:-1 tvg-id="723" group-title="Syria", |SY| Syrian Drama TV
+#EXTINF:-1 tvg-id="724" group-title="Syria", |SY| Syrian Drama TV
 http://red.ipfox.org:8080/osama2022/osama2023/33724
-#EXTINF:-1 tvg-id="724" group-title="Syria", |SY| Syrian Drama TV +4
+#EXTINF:-1 tvg-id="725" group-title="Syria", |SY| Syrian Drama TV +4
 http://red.ipfox.org:8080/osama2022/osama2023/33725
-#EXTINF:-1 tvg-id="725" group-title="Syria", |SY| Al-Khabar Tele Site
+#EXTINF:-1 tvg-id="726" group-title="Syria", |SY| Al-Khabar Tele Site
 http://red.ipfox.org:8080/osama2022/osama2023/33727
-#EXTINF:-1 tvg-id="726" group-title="Syria", |SY| SAFA TV
+#EXTINF:-1 tvg-id="727" group-title="Syria", |SY| SAFA TV
 http://red.ipfox.org:8080/osama2022/osama2023/33728
-#EXTINF:-1 tvg-id="727" group-title="Syria", |SY| AL SAHAT
+#EXTINF:-1 tvg-id="728" group-title="Syria", |SY| AL SAHAT
 http://red.ipfox.org:8080/osama2022/osama2023/33729
-#EXTINF:-1 tvg-id="728" group-title="Syria", |SY| Sama TV
+#EXTINF:-1 tvg-id="729" group-title="Syria", |SY| Sama TV
 http://red.ipfox.org:8080/osama2022/osama2023/33731
-#EXTINF:-1 tvg-id="729" group-title="Syria", |SY| Nour Al Sham TV
+#EXTINF:-1 tvg-id="730" group-title="Syria", |SY| Nour Al Sham TV
 http://red.ipfox.org:8080/osama2022/osama2023/33732
-#EXTINF:-1 tvg-id="730" group-title="Syria", |SY| AL EKHBARIYA AL SORIYA
+#EXTINF:-1 tvg-id="731" group-title="Syria", |SY| AL EKHBARIYA AL SORIYA
 http://red.ipfox.org:8080/osama2022/osama2023/33733
-#EXTINF:-1 tvg-id="731" group-title="Syria", |SY| AIC
+#EXTINF:-1 tvg-id="732" group-title="Syria", |SY| AIC
 http://red.ipfox.org:8080/osama2022/osama2023/33734
-#EXTINF:-1 tvg-id="732" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" tvg-name="Al Yaum" group-title="Syria", Al Yaum
+#EXTINF:-1 tvg-id="733" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" tvg-name="Al Yaum" group-title="Syria", Al Yaum
 https://aloka-arena.online:443/strem7786/time7657/300
-#EXTINF:-1 tvg-id="733" tvg-logo="https://i.imgur.com/rKTE8Qw.png" tvg-name="Syria TV" group-title="Syria", Syria TV
+#EXTINF:-1 tvg-id="734" tvg-logo="https://i.imgur.com/rKTE8Qw.png" tvg-name="Syria TV" group-title="Syria", Syria TV
 https://aloka-arena.online:443/strem7786/time7657/315
-#EXTINF:-1 tvg-id="734" tvg-name="LANA TV" group-title="Syria", LANA TV
+#EXTINF:-1 tvg-id="735" tvg-name="LANA TV" group-title="Syria", LANA TV
 https://aloka-arena.online:443/strem7786/time7657/398
-#EXTINF:-1 tvg-id="735" tvg-name="SYRIA 1" group-title="Syria", SYRIA 1
+#EXTINF:-1 tvg-id="736" tvg-name="SYRIA 1" group-title="Syria", SYRIA 1
 https://aloka-arena.online:443/strem7786/time7657/666
-#EXTINF:-1 tvg-id="736" tvg-name="SYRIA local" group-title="Syria", SYRIA local
+#EXTINF:-1 tvg-id="737" tvg-name="SYRIA local" group-title="Syria", SYRIA local
 https://aloka-arena.online:443/strem7786/time7657/667
-#EXTINF:-1 tvg-id="737" tvg-name="SYRIA DRAMA" group-title="Syria", SYRIA DRAMA
+#EXTINF:-1 tvg-id="738" tvg-name="SYRIA DRAMA" group-title="Syria", SYRIA DRAMA
 https://aloka-arena.online:443/strem7786/time7657/668
-#EXTINF:-1 tvg-id="738" tvg-name="SAMA TV" group-title="Syria", SAMA TV
+#EXTINF:-1 tvg-id="739" tvg-name="SAMA TV" group-title="Syria", SAMA TV
 https://aloka-arena.online:443/strem7786/time7657/669
-#EXTINF:-1 tvg-id="739" group-title="Turkish", |TR| TRT 1 HD
+#EXTINF:-1 tvg-id="740" group-title="Turkish", |TR| TRT 1 HD
 http://red.ipfox.org:8080/osama2022/osama2023/2748
-#EXTINF:-1 tvg-id="740" group-title="Turkish", |TR| TRT ARAPÇA
+#EXTINF:-1 tvg-id="741" group-title="Turkish", |TR| TRT ARAPÇA
 http://red.ipfox.org:8080/osama2022/osama2023/2744
-#EXTINF:-1 tvg-id="741" group-title="Turkish", |TR| TRT MUZIK
+#EXTINF:-1 tvg-id="742" group-title="Turkish", |TR| TRT MUZIK
 http://red.ipfox.org:8080/osama2022/osama2023/2745
-#EXTINF:-1 tvg-id="742" group-title="Turkish", |TR| TRT Haber
+#EXTINF:-1 tvg-id="743" group-title="Turkish", |TR| TRT Haber
 http://red.ipfox.org:8080/osama2022/osama2023/2746
-#EXTINF:-1 tvg-id="743" group-title="Turkish", |TR| TRT Belgesel HD
+#EXTINF:-1 tvg-id="744" group-title="Turkish", |TR| TRT Belgesel HD
 http://red.ipfox.org:8080/osama2022/osama2023/2747
-#EXTINF:-1 tvg-id="744" group-title="Turkish", |TR| TGRT Haber
+#EXTINF:-1 tvg-id="745" group-title="Turkish", |TR| TGRT Haber
 http://red.ipfox.org:8080/osama2022/osama2023/2749
-#EXTINF:-1 tvg-id="745" group-title="Turkish", |TR| TRT Cocuk
+#EXTINF:-1 tvg-id="746" group-title="Turkish", |TR| TRT Cocuk
 http://red.ipfox.org:8080/osama2022/osama2023/2797
-#EXTINF:-1 tvg-id="746" group-title="Turkish", |TR| TRT Diyanet
+#EXTINF:-1 tvg-id="747" group-title="Turkish", |TR| TRT Diyanet
 http://red.ipfox.org:8080/osama2022/osama2023/2798
-#EXTINF:-1 tvg-id="747" group-title="Turkish", |TR| TRT Haber HD
+#EXTINF:-1 tvg-id="748" group-title="Turkish", |TR| TRT Haber HD
 http://red.ipfox.org:8080/osama2022/osama2023/2799
-#EXTINF:-1 tvg-id="748" group-title="Turkish", |TR| TRT Spor HD
+#EXTINF:-1 tvg-id="749" group-title="Turkish", |TR| TRT Spor HD
 http://red.ipfox.org:8080/osama2022/osama2023/2800
-#EXTINF:-1 tvg-id="749" group-title="Turkish", |TR| TRT Muzik HD
+#EXTINF:-1 tvg-id="750" group-title="Turkish", |TR| TRT Muzik HD
 http://red.ipfox.org:8080/osama2022/osama2023/2801
-#EXTINF:-1 tvg-id="750" group-title="Turkish", |TR| TV 8 SD
+#EXTINF:-1 tvg-id="751" group-title="Turkish", |TR| TV 8 SD
 http://red.ipfox.org:8080/osama2022/osama2023/2743
-#EXTINF:-1 tvg-id="751" group-title="Turkish", |TR| TV 8 HD
+#EXTINF:-1 tvg-id="752" group-title="Turkish", |TR| TV 8 HD
 http://red.ipfox.org:8080/osama2022/osama2023/2742
-#EXTINF:-1 tvg-id="752" group-title="Turkish", |TR| Star TV SD
+#EXTINF:-1 tvg-id="753" group-title="Turkish", |TR| Star TV SD
 http://red.ipfox.org:8080/osama2022/osama2023/2751
-#EXTINF:-1 tvg-id="753" group-title="Turkish", |TR| Star TV HD
+#EXTINF:-1 tvg-id="754" group-title="Turkish", |TR| Star TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/2750
-#EXTINF:-1 tvg-id="754" group-title="Turkish", |TR| Dream TV
+#EXTINF:-1 tvg-id="755" group-title="Turkish", |TR| Dream TV
 http://red.ipfox.org:8080/osama2022/osama2023/2776
-#EXTINF:-1 tvg-id="755" group-title="Turkish", |TR| Dream Turk
+#EXTINF:-1 tvg-id="756" group-title="Turkish", |TR| Dream Turk
 http://red.ipfox.org:8080/osama2022/osama2023/2777
-#EXTINF:-1 tvg-id="756" group-title="Turkish", |TR| Show Max
+#EXTINF:-1 tvg-id="757" group-title="Turkish", |TR| Show Max
 http://red.ipfox.org:8080/osama2022/osama2023/2753
-#EXTINF:-1 tvg-id="757" group-title="Turkish", |TR| Show TV SD
+#EXTINF:-1 tvg-id="758" group-title="Turkish", |TR| Show TV SD
 http://red.ipfox.org:8080/osama2022/osama2023/2755
-#EXTINF:-1 tvg-id="758" group-title="Turkish", |TR| Show TV HD
+#EXTINF:-1 tvg-id="759" group-title="Turkish", |TR| Show TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/2754
-#EXTINF:-1 tvg-id="759" group-title="Turkish", |TR| Tele
+#EXTINF:-1 tvg-id="760" group-title="Turkish", |TR| Tele
 http://red.ipfox.org:8080/osama2022/osama2023/2731
-#EXTINF:-1 tvg-id="760" group-title="Turkish", |TR| DMAX
+#EXTINF:-1 tvg-id="761" group-title="Turkish", |TR| DMAX
 http://red.ipfox.org:8080/osama2022/osama2023/2732
-#EXTINF:-1 tvg-id="761" group-title="Turkish", |TR| TV Net
+#EXTINF:-1 tvg-id="762" group-title="Turkish", |TR| TV Net
 http://red.ipfox.org:8080/osama2022/osama2023/2733
-#EXTINF:-1 tvg-id="762" group-title="Turkish", |TR| TV 8.5 HD
+#EXTINF:-1 tvg-id="763" group-title="Turkish", |TR| TV 8.5 HD
 http://red.ipfox.org:8080/osama2022/osama2023/2734
-#EXTINF:-1 tvg-id="763" group-title="Turkish", |TR| GS TV
+#EXTINF:-1 tvg-id="764" group-title="Turkish", |TR| GS TV
 http://red.ipfox.org:8080/osama2022/osama2023/2735
-#EXTINF:-1 tvg-id="764" group-title="Turkish", |TR| Ulke TV
+#EXTINF:-1 tvg-id="765" group-title="Turkish", |TR| Ulke TV
 http://red.ipfox.org:8080/osama2022/osama2023/2736
-#EXTINF:-1 tvg-id="765" group-title="Turkish", |TR| Smart Spor 1
+#EXTINF:-1 tvg-id="766" group-title="Turkish", |TR| Smart Spor 1
 http://red.ipfox.org:8080/osama2022/osama2023/2737
-#EXTINF:-1 tvg-id="766" group-title="Turkish", |TR| Yaban TV
+#EXTINF:-1 tvg-id="767" group-title="Turkish", |TR| Yaban TV
 http://red.ipfox.org:8080/osama2022/osama2023/2738
-#EXTINF:-1 tvg-id="767" group-title="Turkish", |TR| Mini Ago
+#EXTINF:-1 tvg-id="768" group-title="Turkish", |TR| Mini Ago
 http://red.ipfox.org:8080/osama2022/osama2023/2739
-#EXTINF:-1 tvg-id="768" group-title="Turkish", |TR| TV 41
+#EXTINF:-1 tvg-id="769" group-title="Turkish", |TR| TV 41
 http://red.ipfox.org:8080/osama2022/osama2023/2740
-#EXTINF:-1 tvg-id="769" group-title="Turkish", |TR| TV 5
+#EXTINF:-1 tvg-id="770" group-title="Turkish", |TR| TV 5
 http://red.ipfox.org:8080/osama2022/osama2023/2741
-#EXTINF:-1 tvg-id="770" group-title="Turkish", |TR| Planet Cocuk
+#EXTINF:-1 tvg-id="771" group-title="Turkish", |TR| Planet Cocuk
 http://red.ipfox.org:8080/osama2022/osama2023/2756
-#EXTINF:-1 tvg-id="771" group-title="Turkish", |TR| NR1 TURK HD
+#EXTINF:-1 tvg-id="772" group-title="Turkish", |TR| NR1 TURK HD
 http://red.ipfox.org:8080/osama2022/osama2023/2757
-#EXTINF:-1 tvg-id="772" group-title="Turkish", |TR| Minika Cocuk
+#EXTINF:-1 tvg-id="773" group-title="Turkish", |TR| Minika Cocuk
 http://red.ipfox.org:8080/osama2022/osama2023/2758
-#EXTINF:-1 tvg-id="773" group-title="Turkish", |TR| NTV HD
+#EXTINF:-1 tvg-id="774" group-title="Turkish", |TR| NTV HD
 http://red.ipfox.org:8080/osama2022/osama2023/2759
-#EXTINF:-1 tvg-id="774" group-title="Turkish", |TR| Kral TV
+#EXTINF:-1 tvg-id="775" group-title="Turkish", |TR| Kral TV
 http://red.ipfox.org:8080/osama2022/osama2023/2760
-#EXTINF:-1 tvg-id="775" group-title="Turkish", |TR| Kral POP TV
+#EXTINF:-1 tvg-id="776" group-title="Turkish", |TR| Kral POP TV
 http://red.ipfox.org:8080/osama2022/osama2023/2761
-#EXTINF:-1 tvg-id="776" group-title="Turkish", |TR| Kanal D
+#EXTINF:-1 tvg-id="777" group-title="Turkish", |TR| Kanal D
 http://red.ipfox.org:8080/osama2022/osama2023/2762
-#EXTINF:-1 tvg-id="777" group-title="Turkish", |TR| Kanal T
+#EXTINF:-1 tvg-id="778" group-title="Turkish", |TR| Kanal T
 http://red.ipfox.org:8080/osama2022/osama2023/2763
-#EXTINF:-1 tvg-id="778" group-title="Turkish", |TR| Kanal 7 Avrupa
+#EXTINF:-1 tvg-id="779" group-title="Turkish", |TR| Kanal 7 Avrupa
 http://red.ipfox.org:8080/osama2022/osama2023/2764
-#EXTINF:-1 tvg-id="779" group-title="Turkish", |TR| Kanal 7 HD
+#EXTINF:-1 tvg-id="780" group-title="Turkish", |TR| Kanal 7 HD
 http://red.ipfox.org:8080/osama2022/osama2023/2765
-#EXTINF:-1 tvg-id="780" group-title="Turkish", |TR| Kanal 3
+#EXTINF:-1 tvg-id="781" group-title="Turkish", |TR| Kanal 3
 http://red.ipfox.org:8080/osama2022/osama2023/2766
-#EXTINF:-1 tvg-id="781" group-title="Turkish", |TR| TRT World
+#EXTINF:-1 tvg-id="782" group-title="Turkish", |TR| TRT World
 http://red.ipfox.org:8080/osama2022/osama2023/2767
-#EXTINF:-1 tvg-id="782" group-title="Turkish", |TR| Halk TV
+#EXTINF:-1 tvg-id="783" group-title="Turkish", |TR| Halk TV
 http://red.ipfox.org:8080/osama2022/osama2023/2768
-#EXTINF:-1 tvg-id="783" group-title="Turkish", |TR| Haber Turk
+#EXTINF:-1 tvg-id="784" group-title="Turkish", |TR| Haber Turk
 http://red.ipfox.org:8080/osama2022/osama2023/2769
-#EXTINF:-1 tvg-id="784" group-title="Turkish", |TR| Fox TV FHD
+#EXTINF:-1 tvg-id="785" group-title="Turkish", |TR| Fox TV FHD
 http://red.ipfox.org:8080/osama2022/osama2023/2771
-#EXTINF:-1 tvg-id="785" group-title="Turkish", |TR| FB TV
+#EXTINF:-1 tvg-id="786" group-title="Turkish", |TR| FB TV
 http://red.ipfox.org:8080/osama2022/osama2023/2773
-#EXTINF:-1 tvg-id="786" group-title="Turkish", |TR| Fox TV HD
+#EXTINF:-1 tvg-id="787" group-title="Turkish", |TR| Fox TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/2774
-#EXTINF:-1 tvg-id="787" group-title="Turkish", |TR| BBC Earth
+#EXTINF:-1 tvg-id="788" group-title="Turkish", |TR| BBC Earth
 http://red.ipfox.org:8080/osama2022/osama2023/2775
-#EXTINF:-1 tvg-id="788" group-title="Turkish", |TR| Cnn Turk HD
+#EXTINF:-1 tvg-id="789" group-title="Turkish", |TR| Cnn Turk HD
 http://red.ipfox.org:8080/osama2022/osama2023/2778
-#EXTINF:-1 tvg-id="789" group-title="Turkish", |TR| Disney Channel
+#EXTINF:-1 tvg-id="790" group-title="Turkish", |TR| Disney Channel
 http://red.ipfox.org:8080/osama2022/osama2023/2779
-#EXTINF:-1 tvg-id="790" group-title="Turkish", |TR| Cnn Turk SD
+#EXTINF:-1 tvg-id="791" group-title="Turkish", |TR| Cnn Turk SD
 http://red.ipfox.org:8080/osama2022/osama2023/2780
-#EXTINF:-1 tvg-id="791" group-title="Turkish", |TR| History
+#EXTINF:-1 tvg-id="792" group-title="Turkish", |TR| History
 http://red.ipfox.org:8080/osama2022/osama2023/2781
-#EXTINF:-1 tvg-id="792" group-title="Turkish", |TR| Cartoon Network
+#EXTINF:-1 tvg-id="793" group-title="Turkish", |TR| Cartoon Network
 http://red.ipfox.org:8080/osama2022/osama2023/2782
-#EXTINF:-1 tvg-id="793" group-title="Turkish", |TR| Bloomberg
+#EXTINF:-1 tvg-id="794" group-title="Turkish", |TR| Bloomberg
 http://red.ipfox.org:8080/osama2022/osama2023/2783
-#EXTINF:-1 tvg-id="794" group-title="Turkish", |TR| TLC
+#EXTINF:-1 tvg-id="795" group-title="Turkish", |TR| TLC
 http://red.ipfox.org:8080/osama2022/osama2023/2784
-#EXTINF:-1 tvg-id="795" group-title="Turkish", |TR| ATV FHD
+#EXTINF:-1 tvg-id="796" group-title="Turkish", |TR| ATV FHD
 http://red.ipfox.org:8080/osama2022/osama2023/2785
-#EXTINF:-1 tvg-id="796" group-title="Turkish", |TR| ATV HD
+#EXTINF:-1 tvg-id="797" group-title="Turkish", |TR| ATV HD
 http://red.ipfox.org:8080/osama2022/osama2023/2786
-#EXTINF:-1 tvg-id="797" group-title="Turkish", |TR| A2 TV HD
+#EXTINF:-1 tvg-id="798" group-title="Turkish", |TR| A2 TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/2787
-#EXTINF:-1 tvg-id="798" group-title="Turkish", |TR| A Haber
+#EXTINF:-1 tvg-id="799" group-title="Turkish", |TR| A Haber
 http://red.ipfox.org:8080/osama2022/osama2023/2788
-#EXTINF:-1 tvg-id="799" group-title="Turkish", |TR| TRT Turk
+#EXTINF:-1 tvg-id="800" group-title="Turkish", |TR| TRT Turk
 http://red.ipfox.org:8080/osama2022/osama2023/2789
-#EXTINF:-1 tvg-id="800" group-title="Turkish", |TR| A SPOR HD
+#EXTINF:-1 tvg-id="801" group-title="Turkish", |TR| A SPOR HD
 http://red.ipfox.org:8080/osama2022/osama2023/2790
-#EXTINF:-1 tvg-id="801" group-title="Turkish", |TR| Discovery IDX HD
+#EXTINF:-1 tvg-id="802" group-title="Turkish", |TR| Discovery IDX HD
 http://red.ipfox.org:8080/osama2022/osama2023/2791
-#EXTINF:-1 tvg-id="802" group-title="Turkish", |TR| Animal Planet HD
+#EXTINF:-1 tvg-id="803" group-title="Turkish", |TR| Animal Planet HD
 http://red.ipfox.org:8080/osama2022/osama2023/2792
-#EXTINF:-1 tvg-id="803" group-title="Turkish", |TR| Nat Geo Wild HD
+#EXTINF:-1 tvg-id="804" group-title="Turkish", |TR| Nat Geo Wild HD
 http://red.ipfox.org:8080/osama2022/osama2023/2793
-#EXTINF:-1 tvg-id="804" group-title="Turkish", |TR| Discovery HD
+#EXTINF:-1 tvg-id="805" group-title="Turkish", |TR| Discovery HD
 http://red.ipfox.org:8080/osama2022/osama2023/2794
-#EXTINF:-1 tvg-id="805" group-title="Turkish", |TR| Power Turk
+#EXTINF:-1 tvg-id="806" group-title="Turkish", |TR| Power Turk
 http://red.ipfox.org:8080/osama2022/osama2023/2795
-#EXTINF:-1 tvg-id="806" group-title="Turkish", |TR| Nickelodeon
+#EXTINF:-1 tvg-id="807" group-title="Turkish", |TR| Nickelodeon
 http://red.ipfox.org:8080/osama2022/osama2023/2802
-#EXTINF:-1 tvg-id="807" group-title="Turkish", |TR| Nat Geo HD
+#EXTINF:-1 tvg-id="808" group-title="Turkish", |TR| Nat Geo HD
 http://red.ipfox.org:8080/osama2022/osama2023/2803
-#EXTINF:-1 tvg-id="808" group-title="Turkish", |TR|  Kanal 24 FHD
+#EXTINF:-1 tvg-id="809" group-title="Turkish", |TR|  Kanal 24 FHD
 http://red.ipfox.org:8080/osama2022/osama2023/2804
-#EXTINF:-1 tvg-id="809" group-title="Turkish", |TR| Teve 2 HD
+#EXTINF:-1 tvg-id="810" group-title="Turkish", |TR| Teve 2 HD
 http://red.ipfox.org:8080/osama2022/osama2023/2805
-#EXTINF:-1 tvg-id="810" group-title="Turkish", |TR| Bengu Turk
+#EXTINF:-1 tvg-id="811" group-title="Turkish", |TR| Bengu Turk
 http://red.ipfox.org:8080/osama2022/osama2023/2807
-#EXTINF:-1 tvg-id="811" group-title="Turkish", |TR| Tivibu  Spor 2
+#EXTINF:-1 tvg-id="812" group-title="Turkish", |TR| Tivibu  Spor 2
 http://red.ipfox.org:8080/osama2022/osama2023/2820
-#EXTINF:-1 tvg-id="812" group-title="Turkish", |TR| Tivibu  Spor 1
+#EXTINF:-1 tvg-id="813" group-title="Turkish", |TR| Tivibu  Spor 1
 http://red.ipfox.org:8080/osama2022/osama2023/2821
-#EXTINF:-1 tvg-id="813" group-title="Turkish", |TR| 360 TV HD
+#EXTINF:-1 tvg-id="814" group-title="Turkish", |TR| 360 TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/2824
-#EXTINF:-1 tvg-id="814" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" tvg-name="TRT World" group-title="Turkish", TRT World
+#EXTINF:-1 tvg-id="815" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" tvg-name="TRT World" group-title="Turkish", TRT World
 https://aloka-arena.online:443/strem7786/time7657/389
-#EXTINF:-1 tvg-id="815" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" tvg-name="TRT Cocuk" group-title="Turkish", TRT Cocuk
+#EXTINF:-1 tvg-id="816" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" tvg-name="TRT Cocuk" group-title="Turkish", TRT Cocuk
 https://aloka-arena.online:443/strem7786/time7657/384
-#EXTINF:-1 tvg-id="816" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" tvg-name="tivi TÜRK" group-title="Turkish", tivi TÜRK
+#EXTINF:-1 tvg-id="817" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" tvg-name="tivi TÜRK" group-title="Turkish", tivi TÜRK
 https://aloka-arena.online:443/strem7786/time7657/376
-#EXTINF:-1 tvg-id="817" tvg-logo="https://i.ibb.co/f8Xp0h9/pBgMaFV.jpg" tvg-name="Rudaw" group-title="Turkish", Rudaw
+#EXTINF:-1 tvg-id="818" tvg-logo="https://i.ibb.co/f8Xp0h9/pBgMaFV.jpg" tvg-name="Rudaw" group-title="Turkish", Rudaw
 https://aloka-arena.online:443/strem7786/time7657/367
-#EXTINF:-1 tvg-id="818" tvg-logo="https://i.ibb.co/bmv9sVP/UbVZFtm.png" tvg-name="Kanal Urfa" group-title="Turkish", Kanal Urfa
+#EXTINF:-1 tvg-id="819" tvg-logo="https://i.ibb.co/bmv9sVP/UbVZFtm.png" tvg-name="Kanal Urfa" group-title="Turkish", Kanal Urfa
 https://aloka-arena.online:443/strem7786/time7657/352
-#EXTINF:-1 tvg-id="819" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" tvg-name="Kanal 3" group-title="Turkish", Kanal 3
+#EXTINF:-1 tvg-id="820" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" tvg-name="Kanal 3" group-title="Turkish", Kanal 3
 https://aloka-arena.online:443/strem7786/time7657/350
-#EXTINF:-1 tvg-id="820" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" tvg-name="Natural TV" group-title="Turkish", Natural TV
+#EXTINF:-1 tvg-id="821" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" tvg-name="Natural TV" group-title="Turkish", Natural TV
 https://aloka-arena.online:443/strem7786/time7657/362
-#EXTINF:-1 tvg-id="821" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-name="Finans Turk TV" group-title="Turkish", Finans Turk TV
+#EXTINF:-1 tvg-id="822" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-name="Finans Turk TV" group-title="Turkish", Finans Turk TV
 https://aloka-arena.online:443/strem7786/time7657/345
-#EXTINF:-1 tvg-id="822" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" tvg-name="ETV Manisa" group-title="Turkish", ETV Manisa
+#EXTINF:-1 tvg-id="823" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" tvg-name="ETV Manisa" group-title="Turkish", ETV Manisa
 https://aloka-arena.online:443/strem7786/time7657/343
-#EXTINF:-1 tvg-id="823" tvg-logo="https://i.ibb.co/Gdb8yX4/xyubJha.png" tvg-name="Doğuş TV" group-title="Turkish", Doğuş TV
+#EXTINF:-1 tvg-id="824" tvg-logo="https://i.ibb.co/Gdb8yX4/xyubJha.png" tvg-name="Doğuş TV" group-title="Turkish", Doğuş TV
 https://aloka-arena.online:443/strem7786/time7657/341
-#EXTINF:-1 tvg-id="824" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" tvg-name="Can TV" group-title="Turkish", Can TV
+#EXTINF:-1 tvg-id="825" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" tvg-name="Can TV" group-title="Turkish", Can TV
 https://aloka-arena.online:443/strem7786/time7657/334
-#EXTINF:-1 tvg-id="825" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" tvg-name="Cay TV" group-title="Turkish", Cay TV
+#EXTINF:-1 tvg-id="826" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" tvg-name="Cay TV" group-title="Turkish", Cay TV
 https://aloka-arena.online:443/strem7786/time7657/335
-#EXTINF:-1 tvg-id="826" tvg-logo="https://i.ibb.co/N2Yc8Yf/k6DUajb.png" tvg-name="Bursa TV" group-title="Turkish", Bursa TV
+#EXTINF:-1 tvg-id="827" tvg-logo="https://i.ibb.co/N2Yc8Yf/k6DUajb.png" tvg-name="Bursa TV" group-title="Turkish", Bursa TV
 https://aloka-arena.online:443/strem7786/time7657/333
-#EXTINF:-1 tvg-id="827" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" tvg-name="BRT 2 (Turkish)" group-title="Turkish", BRT 2 (Turkish)
+#EXTINF:-1 tvg-id="828" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" tvg-name="BRT 2 (Turkish)" group-title="Turkish", BRT 2 (Turkish)
 https://aloka-arena.online:443/strem7786/time7657/332
-#EXTINF:-1 tvg-id="828" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" tvg-name="BRT 2" group-title="Turkish", BRT 2
+#EXTINF:-1 tvg-id="829" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" tvg-name="BRT 2" group-title="Turkish", BRT 2
 https://aloka-arena.online:443/strem7786/time7657/331
-#EXTINF:-1 tvg-id="829" tvg-logo="https://i.ibb.co/BBx9nKK/yCer0tL.png" tvg-name="BRT 1 (Kıbrıs)" group-title="Turkish", BRT 1 (Kıbrıs)
+#EXTINF:-1 tvg-id="830" tvg-logo="https://i.ibb.co/BBx9nKK/yCer0tL.png" tvg-name="BRT 1 (Kıbrıs)" group-title="Turkish", BRT 1 (Kıbrıs)
 https://aloka-arena.online:443/strem7786/time7657/330
-#EXTINF:-1 tvg-id="830" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" tvg-name="Beşiktaş Web TV" group-title="Turkish", Beşiktaş Web TV
+#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" tvg-name="Beşiktaş Web TV" group-title="Turkish", Beşiktaş Web TV
 https://aloka-arena.online:443/strem7786/time7657/329
-#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" tvg-name="Altaş TV" group-title="Turkish", Altaş TV
+#EXTINF:-1 tvg-id="832" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" tvg-name="Altaş TV" group-title="Turkish", Altaş TV
 https://aloka-arena.online:443/strem7786/time7657/327
-#EXTINF:-1 tvg-id="832" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" tvg-name="Akit TV" group-title="Turkish", Akit TV
+#EXTINF:-1 tvg-id="833" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" tvg-name="Akit TV" group-title="Turkish", Akit TV
 https://aloka-arena.online:443/strem7786/time7657/324
-#EXTINF:-1 tvg-id="833" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" tvg-name="Al-Zahra TV Turkic" group-title="Turkish", Al-Zahra TV Turkic
+#EXTINF:-1 tvg-id="834" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" tvg-name="Al-Zahra TV Turkic" group-title="Turkish", Al-Zahra TV Turkic
 https://aloka-arena.online:443/strem7786/time7657/325
-#EXTINF:-1 tvg-id="834" tvg-logo="https://i.ibb.co/yBGZy4n/obCp0aK.png" tvg-name="Ahi TV Kirsehir" group-title="Turkish", Ahi TV Kirsehir
+#EXTINF:-1 tvg-id="835" tvg-logo="https://i.ibb.co/yBGZy4n/obCp0aK.png" tvg-name="Ahi TV Kirsehir" group-title="Turkish", Ahi TV Kirsehir
 https://aloka-arena.online:443/strem7786/time7657/323
-#EXTINF:-1 tvg-id="835" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" tvg-name="Afyon Turk TV" group-title="Turkish", Afyon Turk TV
+#EXTINF:-1 tvg-id="836" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" tvg-name="Afyon Turk TV" group-title="Turkish", Afyon Turk TV
 https://aloka-arena.online:443/strem7786/time7657/322
-#EXTINF:-1 tvg-id="836" tvg-logo="https://i.imgur.com/JXDnalq.png" group-title="Rotana", Rotana Clip (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="837" tvg-logo="https://i.imgur.com/JXDnalq.png" group-title="Rotana", Rotana Clip (1080p) [Geo-blocked]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-clip
-#EXTINF:-1 tvg-id="837" tvg-logo="https://cdn-profiles.tunein.com/s93633/images/logod.jpg" group-title="Rotana", Rotana Radio Jordan: City View (180p) [Not 24/7]
+#EXTINF:-1 tvg-id="838" tvg-logo="https://cdn-profiles.tunein.com/s93633/images/logod.jpg" group-title="Rotana", Rotana Radio Jordan: City View (180p) [Not 24/7]
 http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8
-#EXTINF:-1 tvg-id="838" tvg-logo="https://cdn-profiles.tunein.com/s93633/images/logod.jpg" group-title="Rotana", Rotana Radio Jordan: Control Studio (180p)
+#EXTINF:-1 tvg-id="839" tvg-logo="https://cdn-profiles.tunein.com/s93633/images/logod.jpg" group-title="Rotana", Rotana Radio Jordan: Control Studio (180p)
 http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8
-#EXTINF:-1 tvg-id="839" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="Rotana", Rotana Radio Jordan: Studio (180p) [Not 24/7]
+#EXTINF:-1 tvg-id="840" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="Rotana", Rotana Radio Jordan: Studio (180p) [Not 24/7]
 http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
-#EXTINF:-1 tvg-id="840" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="Rotana", Rotana Tarab Jordan: City View (180p) [Not 24/7]
+#EXTINF:-1 tvg-id="841" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="Rotana", Rotana Tarab Jordan: City View (180p) [Not 24/7]
 http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
-#EXTINF:-1 tvg-id="841" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="Rotana", Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]
+#EXTINF:-1 tvg-id="842" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="Rotana", Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]
 http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
-#EXTINF:-1 tvg-id="842" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="Rotana", Rotana Cinema (1080p)
+#EXTINF:-1 tvg-id="843" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="Rotana", Rotana Cinema (1080p)
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="843" tvg-logo="https://i.imgur.com/Zj952j3.png" group-title="Rotana", Rotana Cinema KSA (1080p)
+#EXTINF:-1 tvg-id="844" tvg-logo="https://i.imgur.com/Zj952j3.png" group-title="Rotana", Rotana Cinema KSA (1080p)
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-id="844" tvg-logo="https://i.imgur.com/ZeHLXlw.png" group-title="Rotana", Rotana Comedy (1080p)
+#EXTINF:-1 tvg-id="845" tvg-logo="https://i.imgur.com/ZeHLXlw.png" group-title="Rotana", Rotana Comedy (1080p)
 https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="845" tvg-logo="https://i.imgur.com/xsbjQXZ.png" group-title="Rotana", Rotana Khalijia (1080p)
+#EXTINF:-1 tvg-id="846" tvg-logo="https://i.imgur.com/xsbjQXZ.png" group-title="Rotana", Rotana Khalijia (1080p)
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#EXTINF:-1 tvg-id="846" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="Rotana", Rotana Music (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="847" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="Rotana", Rotana Music (1080p) [Geo-blocked]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-music
-#EXTINF:-1 tvg-id="847" tvg-logo="https://i.imgur.com/GQnNjlu.png" group-title="Rotana", Rotana Kids (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="848" tvg-logo="https://i.imgur.com/GQnNjlu.png" group-title="Rotana", Rotana Kids (1080p) [Geo-blocked]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-kids
-#EXTINF:-1 tvg-id="848" tvg-name="|AR| Rotana Musica HD -1080P" group-title="Rotana", |AR| Rotana Mousica HD -1080P
+#EXTINF:-1 tvg-id="849" tvg-name="|AR| Rotana Musica HD -1080P" group-title="Rotana", |AR| Rotana Mousica HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49707
-#EXTINF:-1 tvg-id="849" group-title="Rotana", |AR| Rotana Comedy HD -1080P
+#EXTINF:-1 tvg-id="850" group-title="Rotana", |AR| Rotana Comedy HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49693
-#EXTINF:-1 tvg-id="850" group-title="Rotana", |AR| Rotana Khaleejiah HD -1080P
+#EXTINF:-1 tvg-id="851" group-title="Rotana", |AR| Rotana Khaleejiah HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49684
-#EXTINF:-1 tvg-id="851" group-title="Rotana", |AR| Rotana Drama -1080P
+#EXTINF:-1 tvg-id="852" group-title="Rotana", |AR| Rotana Drama -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49683
-#EXTINF:-1 tvg-id="852" group-title="Rotana", |AR| Rotana Classic HD -1080P
+#EXTINF:-1 tvg-id="853" group-title="Rotana", |AR| Rotana Classic HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49682
-#EXTINF:-1 tvg-id="853" group-title="Rotana", |AR| Rotana + HD -1080P
+#EXTINF:-1 tvg-id="854" group-title="Rotana", |AR| Rotana + HD -1080P
 http://red.ipfox.org:8080/osama2022/osama2023/49681
-#EXTINF:-1 tvg-id="854" group-title="Rotana", |Shahid| Rotana+
+#EXTINF:-1 tvg-id="855" group-title="Rotana", |Shahid| Rotana+
 http://red.ipfox.org:8080/osama2022/osama2023/47096
-#EXTINF:-1 tvg-id="855" group-title="Rotana", |Shahid| Rotana+ 1080P
+#EXTINF:-1 tvg-id="856" group-title="Rotana", |Shahid| Rotana+ 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47095
-#EXTINF:-1 tvg-id="856" group-title="Rotana", |Shahid| Rotana Kids
+#EXTINF:-1 tvg-id="857" group-title="Rotana", |Shahid| Rotana Kids
 http://red.ipfox.org:8080/osama2022/osama2023/47094
-#EXTINF:-1 tvg-id="857" group-title="Rotana", |Shahid| Rotana Kids 1080P
+#EXTINF:-1 tvg-id="858" group-title="Rotana", |Shahid| Rotana Kids 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47093
-#EXTINF:-1 tvg-id="858" group-title="Rotana", |Shahid| Rotana Cinema EGY
+#EXTINF:-1 tvg-id="859" group-title="Rotana", |Shahid| Rotana Cinema EGY
 http://red.ipfox.org:8080/osama2022/osama2023/47092
-#EXTINF:-1 tvg-id="859" group-title="Rotana", |Shahid| Rotana Cinema EGY 1080P
+#EXTINF:-1 tvg-id="860" group-title="Rotana", |Shahid| Rotana Cinema EGY 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47091
-#EXTINF:-1 tvg-id="860" group-title="Rotana", |Shahid| Rotana Cinema KSA
+#EXTINF:-1 tvg-id="861" group-title="Rotana", |Shahid| Rotana Cinema KSA
 http://red.ipfox.org:8080/osama2022/osama2023/47090
-#EXTINF:-1 tvg-id="861" group-title="Rotana", |Shahid| Rotana Cinema KSA 1080P
+#EXTINF:-1 tvg-id="862" group-title="Rotana", |Shahid| Rotana Cinema KSA 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47089
-#EXTINF:-1 tvg-id="862" group-title="Rotana", |Shahid| Rotana Drama 1080P
+#EXTINF:-1 tvg-id="863" group-title="Rotana", |Shahid| Rotana Drama 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47087
-#EXTINF:-1 tvg-id="863" group-title="Rotana", |Shahid| Rotana Classic
+#EXTINF:-1 tvg-id="864" group-title="Rotana", |Shahid| Rotana Classic
 http://red.ipfox.org:8080/osama2022/osama2023/47086
-#EXTINF:-1 tvg-id="864" group-title="Rotana", |Shahid| Rotana Classic 1080P
+#EXTINF:-1 tvg-id="865" group-title="Rotana", |Shahid| Rotana Classic 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47085
-#EXTINF:-1 tvg-id="865" group-title="Rotana", |Kids| Rotana Kids
+#EXTINF:-1 tvg-id="866" group-title="Rotana", |Kids| Rotana Kids
 http://red.ipfox.org:8080/osama2022/osama2023/25057
-#EXTINF:-1 tvg-id="866" group-title="Rotana", |SA| ROTANA CINEMA EGY HD
+#EXTINF:-1 tvg-id="867" group-title="Rotana", |SA| ROTANA CINEMA EGY HD
 http://red.ipfox.org:8080/osama2022/osama2023/33219
-#EXTINF:-1 tvg-id="867" group-title="Rotana", |SA| ROTANA CLASSIC HD
+#EXTINF:-1 tvg-id="868" group-title="Rotana", |SA| ROTANA CLASSIC HD
 http://red.ipfox.org:8080/osama2022/osama2023/33220
-#EXTINF:-1 tvg-id="868" group-title="Rotana", |SA| ROTANA CINEMA KSA HD
+#EXTINF:-1 tvg-id="869" group-title="Rotana", |SA| ROTANA CINEMA KSA HD
 http://red.ipfox.org:8080/osama2022/osama2023/33221
-#EXTINF:-1 tvg-id="869" group-title="Rotana", |SA| ROTANA CLIP
+#EXTINF:-1 tvg-id="870" group-title="Rotana", |SA| ROTANA CLIP
 http://red.ipfox.org:8080/osama2022/osama2023/33222
-#EXTINF:-1 tvg-id="870" group-title="Rotana", |SA| ROTANA MUSIC HD
+#EXTINF:-1 tvg-id="871" group-title="Rotana", |SA| ROTANA MUSIC HD
 http://red.ipfox.org:8080/osama2022/osama2023/33223
-#EXTINF:-1 tvg-id="871" tvg-name="Rotana Kids" group-title="Rotana", Rotana Kids
+#EXTINF:-1 tvg-id="872" tvg-name="Rotana Kids" group-title="Rotana", Rotana Kids
 https://aloka-arena.online:443/strem7786/time7657/81
-#EXTINF:-1 tvg-id="872" tvg-name="Rotana Cinema" group-title="Rotana", Rotana Cinema
+#EXTINF:-1 tvg-id="873" tvg-name="Rotana Cinema" group-title="Rotana", Rotana Cinema
 https://aloka-arena.online:443/strem7786/time7657/82
-#EXTINF:-1 tvg-id="873" tvg-name="Rotana Comedy" group-title="Rotana", Rotana Comedy
+#EXTINF:-1 tvg-id="874" tvg-name="Rotana Comedy" group-title="Rotana", Rotana Comedy
 https://aloka-arena.online:443/strem7786/time7657/84
-#EXTINF:-1 tvg-id="874" tvg-name="Rotana Classic" group-title="Rotana", Rotana Classic
+#EXTINF:-1 tvg-id="875" tvg-name="Rotana Classic" group-title="Rotana", Rotana Classic
 https://aloka-arena.online:443/strem7786/time7657/83
-#EXTINF:-1 tvg-id="875" tvg-name="Rotana Drama" group-title="Rotana", Rotana Drama
+#EXTINF:-1 tvg-id="876" tvg-name="Rotana Drama" group-title="Rotana", Rotana Drama
 https://aloka-arena.online:443/strem7786/time7657/85
-#EXTINF:-1 tvg-id="876" group-title="STARZPLAY", STARZPLAY AD YAS HD
+#EXTINF:-1 tvg-id="877" group-title="STARZPLAY", STARZPLAY AD YAS HD
 http://red.ipfox.org:8080/osama2022/osama2023/49401
-#EXTINF:-1 tvg-id="877" group-title="STARZPLAY", STARZPLAY AD YAS FHD
+#EXTINF:-1 tvg-id="878" group-title="STARZPLAY", STARZPLAY AD YAS FHD
 http://red.ipfox.org:8080/osama2022/osama2023/49400
-#EXTINF:-1 tvg-id="878" group-title="STARZPLAY", STARZPLAY GOLF TV HD
+#EXTINF:-1 tvg-id="879" group-title="STARZPLAY", STARZPLAY GOLF TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/49397
-#EXTINF:-1 tvg-id="879" group-title="STARZPLAY", STARZPLAY GOLF TV FHD
+#EXTINF:-1 tvg-id="880" group-title="STARZPLAY", STARZPLAY GOLF TV FHD
 http://red.ipfox.org:8080/osama2022/osama2023/49396
-#EXTINF:-1 tvg-id="880" group-title="STARZPLAY", STARZPLAY CricLife 1 HD
+#EXTINF:-1 tvg-id="881" group-title="STARZPLAY", STARZPLAY CricLife 1 HD
 http://red.ipfox.org:8080/osama2022/osama2023/49393
-#EXTINF:-1 tvg-id="881" group-title="STARZPLAY", STARZPLAY CricLife 1 FHD
+#EXTINF:-1 tvg-id="882" group-title="STARZPLAY", STARZPLAY CricLife 1 FHD
 http://red.ipfox.org:8080/osama2022/osama2023/49392
-#EXTINF:-1 tvg-id="882" group-title="STARZPLAY", STARZPLAY CricLife 2 HD
+#EXTINF:-1 tvg-id="883" group-title="STARZPLAY", STARZPLAY CricLife 2 HD
 http://red.ipfox.org:8080/osama2022/osama2023/49391
-#EXTINF:-1 tvg-id="883" group-title="STARZPLAY", STARZPLAY CricLife 2 FHD
+#EXTINF:-1 tvg-id="884" group-title="STARZPLAY", STARZPLAY CricLife 2 FHD
 http://red.ipfox.org:8080/osama2022/osama2023/49390
-#EXTINF:-1 tvg-id="884" group-title="STARZPLAY", STARZPLAY Star Gold
+#EXTINF:-1 tvg-id="885" group-title="STARZPLAY", STARZPLAY Star Gold
 http://red.ipfox.org:8080/osama2022/osama2023/49389
-#EXTINF:-1 tvg-id="885" group-title="STARZPLAY", STARZPLAY Star Jalsha
+#EXTINF:-1 tvg-id="886" group-title="STARZPLAY", STARZPLAY Star Jalsha
 http://red.ipfox.org:8080/osama2022/osama2023/49388
-#EXTINF:-1 tvg-id="886" group-title="STARZPLAY", STARZPLAY Star Plus
+#EXTINF:-1 tvg-id="887" group-title="STARZPLAY", STARZPLAY Star Plus
 http://red.ipfox.org:8080/osama2022/osama2023/49387
-#EXTINF:-1 tvg-id="887" group-title="STARZPLAY", STARZPLAY Star Vijay
+#EXTINF:-1 tvg-id="888" group-title="STARZPLAY", STARZPLAY Star Vijay
 http://red.ipfox.org:8080/osama2022/osama2023/49386
-#EXTINF:-1 tvg-id="888" group-title="STARZPLAY", STARZPLAY Star Asianet HD
+#EXTINF:-1 tvg-id="889" group-title="STARZPLAY", STARZPLAY Star Asianet HD
 http://red.ipfox.org:8080/osama2022/osama2023/49385
-#EXTINF:-1 tvg-id="889" group-title="STARZPLAY", STARZPLAY Star Asianet FHD
+#EXTINF:-1 tvg-id="890" group-title="STARZPLAY", STARZPLAY Star Asianet FHD
 http://red.ipfox.org:8080/osama2022/osama2023/49384
-#EXTINF:-1 tvg-id="890" group-title="STARZPLAY", STARZPLAY STAR Asianet Movies
+#EXTINF:-1 tvg-id="891" group-title="STARZPLAY", STARZPLAY STAR Asianet Movies
 http://red.ipfox.org:8080/osama2022/osama2023/49383
-#EXTINF:-1 tvg-id="891" group-title="Shahid", |Fox| Shahid Sci-Fi
+#EXTINF:-1 tvg-id="892" group-title="Shahid", |Fox| Shahid Sci-Fi
 http://red.ipfox.org:8080/osama2022/osama2023/31935
-#EXTINF:-1 tvg-id="892" group-title="Shahid", |Fox| Shahid Cinema
+#EXTINF:-1 tvg-id="893" group-title="Shahid", |Fox| Shahid Cinema
 http://red.ipfox.org:8080/osama2022/osama2023/31934
-#EXTINF:-1 tvg-id="893" group-title="Shahid", |Fox| Shahid Cartoon
+#EXTINF:-1 tvg-id="894" group-title="Shahid", |Fox| Shahid Cartoon
 http://red.ipfox.org:8080/osama2022/osama2023/31933
-#EXTINF:-1 tvg-id="894" group-title="Shahid", |Fox| Shahid Aflam 1
+#EXTINF:-1 tvg-id="895" group-title="Shahid", |Fox| Shahid Aflam 1
 http://red.ipfox.org:8080/osama2022/osama2023/31932
-#EXTINF:-1 tvg-id="895" group-title="Shahid", |Fox| Shahid Aflam 2
+#EXTINF:-1 tvg-id="896" group-title="Shahid", |Fox| Shahid Aflam 2
 http://red.ipfox.org:8080/osama2022/osama2023/31931
-#EXTINF:-1 tvg-id="896" group-title="Shahid", |Fox| Shahid Aflam 3
+#EXTINF:-1 tvg-id="897" group-title="Shahid", |Fox| Shahid Aflam 3
 http://red.ipfox.org:8080/osama2022/osama2023/31930
-#EXTINF:-1 tvg-id="897" group-title="Shahid", |Fox| Shahid Masr7yat
+#EXTINF:-1 tvg-id="898" group-title="Shahid", |Fox| Shahid Masr7yat
 http://red.ipfox.org:8080/osama2022/osama2023/31929
-#EXTINF:-1 tvg-id="898" group-title="Shahid", |Fox| Shahid Horror 1
+#EXTINF:-1 tvg-id="899" group-title="Shahid", |Fox| Shahid Horror 1
 http://red.ipfox.org:8080/osama2022/osama2023/31928
-#EXTINF:-1 tvg-id="899" group-title="Shahid", |Fox| Shahid Horror 2
+#EXTINF:-1 tvg-id="900" group-title="Shahid", |Fox| Shahid Horror 2
 http://red.ipfox.org:8080/osama2022/osama2023/31927
-#EXTINF:-1 tvg-id="900" group-title="Shahid", |Fox| Shahid Action 1
+#EXTINF:-1 tvg-id="901" group-title="Shahid", |Fox| Shahid Action 1
 http://red.ipfox.org:8080/osama2022/osama2023/31926
-#EXTINF:-1 tvg-id="901" group-title="Shahid", |Fox| Shahid Action 2
+#EXTINF:-1 tvg-id="902" group-title="Shahid", |Fox| Shahid Action 2
 http://red.ipfox.org:8080/osama2022/osama2023/31925
-#EXTINF:-1 tvg-id="902" group-title="Shahid", |Fox| Shahid Romance 1
+#EXTINF:-1 tvg-id="903" group-title="Shahid", |Fox| Shahid Romance 1
 http://red.ipfox.org:8080/osama2022/osama2023/31924
-#EXTINF:-1 tvg-id="903" group-title="Shahid", |Fox| Shahid Romance 2
+#EXTINF:-1 tvg-id="904" group-title="Shahid", |Fox| Shahid Romance 2
 http://red.ipfox.org:8080/osama2022/osama2023/31923
-#EXTINF:-1 tvg-id="904" group-title="Shahid", |Fox| Shahid Masrh Masr 2
+#EXTINF:-1 tvg-id="905" group-title="Shahid", |Fox| Shahid Masrh Masr 2
 http://red.ipfox.org:8080/osama2022/osama2023/31921
-#EXTINF:-1 tvg-id="905" group-title="Shahid", |Fox| Shahid Masrh Masr 3
+#EXTINF:-1 tvg-id="906" group-title="Shahid", |Fox| Shahid Masrh Masr 3
 http://red.ipfox.org:8080/osama2022/osama2023/31920
-#EXTINF:-1 tvg-id="906" group-title="Shahid", |Shahid| Shahid TV - Events
+#EXTINF:-1 tvg-id="907" group-title="Shahid", |Shahid| Shahid TV - Events
 http://red.ipfox.org:8080/osama2022/osama2023/47120
-#EXTINF:-1 tvg-id="907" group-title="Shahid", |Shahid| Shahid TV 1080P - Events
+#EXTINF:-1 tvg-id="908" group-title="Shahid", |Shahid| Shahid TV 1080P - Events
 http://red.ipfox.org:8080/osama2022/osama2023/47119
-#EXTINF:-1 tvg-id="908" group-title="Shahid", |Shahid| Spacetoon
+#EXTINF:-1 tvg-id="909" group-title="Shahid", |Shahid| Spacetoon
 http://red.ipfox.org:8080/osama2022/osama2023/47082
-#EXTINF:-1 tvg-id="909" group-title="Shahid", |Shahid| Spacetoon 1080P
+#EXTINF:-1 tvg-id="910" group-title="Shahid", |Shahid| Spacetoon 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47081
-#EXTINF:-1 tvg-id="910" group-title="Shahid", |Shahid| AL-Sharq
+#EXTINF:-1 tvg-id="911" group-title="Shahid", |Shahid| AL-Sharq
 http://red.ipfox.org:8080/osama2022/osama2023/47080
-#EXTINF:-1 tvg-id="911" group-title="Shahid", |Shahid| AL-Sharq 1080P
+#EXTINF:-1 tvg-id="912" group-title="Shahid", |Shahid| AL-Sharq 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47079
-#EXTINF:-1 tvg-id="912" group-title="Shahid", |Shahid| AL-Hadath
+#EXTINF:-1 tvg-id="913" group-title="Shahid", |Shahid| AL-Hadath
 http://red.ipfox.org:8080/osama2022/osama2023/47078
-#EXTINF:-1 tvg-id="913" group-title="Shahid", |Shahid| AL-Hadath 1080P
+#EXTINF:-1 tvg-id="914" group-title="Shahid", |Shahid| AL-Hadath 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47077
-#EXTINF:-1 tvg-id="914" group-title="Shahid", |Shahid| GULLI BIL ARABI
+#EXTINF:-1 tvg-id="915" group-title="Shahid", |Shahid| GULLI BIL ARABI
 http://red.ipfox.org:8080/osama2022/osama2023/47076
-#EXTINF:-1 tvg-id="915" group-title="Shahid", |Shahid| GULLI BIL ARABI 1080P
+#EXTINF:-1 tvg-id="916" group-title="Shahid", |Shahid| GULLI BIL ARABI 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47075
-#EXTINF:-1 tvg-id="916" group-title="Shahid", |Shahid| TIJI
+#EXTINF:-1 tvg-id="917" group-title="Shahid", |Shahid| TIJI
 http://red.ipfox.org:8080/osama2022/osama2023/47074
-#EXTINF:-1 tvg-id="917" group-title="Shahid", |Shahid| TIJI 1080P
+#EXTINF:-1 tvg-id="918" group-title="Shahid", |Shahid| TIJI 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47073
-#EXTINF:-1 tvg-id="918" group-title="Shahid", |Shahid| M6 INTERNATIONAL
+#EXTINF:-1 tvg-id="919" group-title="Shahid", |Shahid| M6 INTERNATIONAL
 http://red.ipfox.org:8080/osama2022/osama2023/47072
-#EXTINF:-1 tvg-id="919" group-title="Shahid", |Shahid| M6 INTERNATIONAL 1080P
+#EXTINF:-1 tvg-id="920" group-title="Shahid", |Shahid| M6 INTERNATIONAL 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47071
-#EXTINF:-1 tvg-id="920" group-title="Shahid", |Shahid| Panorama FM
+#EXTINF:-1 tvg-id="921" group-title="Shahid", |Shahid| Panorama FM
 http://red.ipfox.org:8080/osama2022/osama2023/47070
-#EXTINF:-1 tvg-id="921" group-title="Shahid", |Shahid| Panorama FM 1080P
+#EXTINF:-1 tvg-id="922" group-title="Shahid", |Shahid| Panorama FM 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47069
-#EXTINF:-1 tvg-id="922" group-title="Shahid", |Shahid| Wanasah
+#EXTINF:-1 tvg-id="923" group-title="Shahid", |Shahid| Wanasah
 http://red.ipfox.org:8080/osama2022/osama2023/47068
-#EXTINF:-1 tvg-id="923" group-title="Shahid", |Shahid| Wanasah 1080P
+#EXTINF:-1 tvg-id="924" group-title="Shahid", |Shahid| Wanasah 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47067
-#EXTINF:-1 tvg-id="924" group-title="Shahid", |Shahid| SBC
+#EXTINF:-1 tvg-id="925" group-title="Shahid", |Shahid| SBC
 http://red.ipfox.org:8080/osama2022/osama2023/47066
-#EXTINF:-1 tvg-id="925" group-title="Shahid", |Shahid| SBC 1080P
+#EXTINF:-1 tvg-id="926" group-title="Shahid", |Shahid| SBC 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47065
-#EXTINF:-1 tvg-id="926" group-title="Shahid", |Shahid| Saudi 1
+#EXTINF:-1 tvg-id="927" group-title="Shahid", |Shahid| Saudi 1
 http://red.ipfox.org:8080/osama2022/osama2023/47064
-#EXTINF:-1 tvg-id="927" group-title="Shahid", |Shahid| Saudi 1 1080P
+#EXTINF:-1 tvg-id="928" group-title="Shahid", |Shahid| Saudi 1 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47063
-#EXTINF:-1 tvg-id="928" group-title="Shahid", |Shahid| Zekrayat
+#EXTINF:-1 tvg-id="929" group-title="Shahid", |Shahid| Zekrayat
 http://red.ipfox.org:8080/osama2022/osama2023/47062
-#EXTINF:-1 tvg-id="929" group-title="Shahid", |Shahid| Zekrayat 1080P
+#EXTINF:-1 tvg-id="930" group-title="Shahid", |Shahid| Zekrayat 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47061
-#EXTINF:-1 tvg-id="930" group-title="Shahid", |Shahid| Saudi For Sunnah
+#EXTINF:-1 tvg-id="931" group-title="Shahid", |Shahid| Saudi For Sunnah
 http://red.ipfox.org:8080/osama2022/osama2023/47060
-#EXTINF:-1 tvg-id="931" group-title="Shahid", |Shahid| Saudi For Sunnah 1080P
+#EXTINF:-1 tvg-id="932" group-title="Shahid", |Shahid| Saudi For Sunnah 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47059
-#EXTINF:-1 tvg-id="932" group-title="Shahid", |Shahid| Saudi For Quran
+#EXTINF:-1 tvg-id="933" group-title="Shahid", |Shahid| Saudi For Quran
 http://red.ipfox.org:8080/osama2022/osama2023/47058
-#EXTINF:-1 tvg-id="933" group-title="Shahid", |Shahid| Saudi For Quran 1080P
+#EXTINF:-1 tvg-id="934" group-title="Shahid", |Shahid| Saudi For Quran 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47057
-#EXTINF:-1 tvg-id="934" group-title="Shahid", |Shahid| Saudi ELEkhbaryia
+#EXTINF:-1 tvg-id="935" group-title="Shahid", |Shahid| Saudi ELEkhbaryia
 http://red.ipfox.org:8080/osama2022/osama2023/47056
-#EXTINF:-1 tvg-id="935" group-title="Shahid", |Shahid| Saudi ELEkhbaryia 1080P
+#EXTINF:-1 tvg-id="936" group-title="Shahid", |Shahid| Saudi ELEkhbaryia 1080P
 http://red.ipfox.org:8080/osama2022/osama2023/47055
-#EXTINF:-1 tvg-id="936" group-title="Shahid", |Shahid| Shahid Tash
+#EXTINF:-1 tvg-id="937" group-title="Shahid", |Shahid| Shahid Tash
 http://red.ipfox.org:8080/osama2022/osama2023/49468
-#EXTINF:-1 tvg-id="937" group-title="Shahid", |Shahid| Shahid Nojoum
+#EXTINF:-1 tvg-id="938" group-title="Shahid", |Shahid| Shahid Nojoum
 http://red.ipfox.org:8080/osama2022/osama2023/49467
-#EXTINF:-1 tvg-id="938" group-title="Shahid", |Shahid| Shahid Hassino
+#EXTINF:-1 tvg-id="939" group-title="Shahid", |Shahid| Shahid Hassino
 http://red.ipfox.org:8080/osama2022/osama2023/49466
-#EXTINF:-1 tvg-id="939" group-title="Shahid", |Shahid| Shahid Khaleeji
+#EXTINF:-1 tvg-id="940" group-title="Shahid", |Shahid| Shahid Khaleeji
 http://red.ipfox.org:8080/osama2022/osama2023/49465
-#EXTINF:-1 tvg-id="940" group-title="Shahid", |Shahid| Shahid Bollywood
+#EXTINF:-1 tvg-id="941" group-title="Shahid", |Shahid| Shahid Bollywood
 http://red.ipfox.org:8080/osama2022/osama2023/49464
-#EXTINF:-1 tvg-id="941" group-title="Shahid", |Shahid| Shahid Turki
+#EXTINF:-1 tvg-id="942" group-title="Shahid", |Shahid| Shahid Turki
 http://red.ipfox.org:8080/osama2022/osama2023/49463
-#EXTINF:-1 tvg-id="942" group-title="Shahid", |Shahid| Shahid Masr
+#EXTINF:-1 tvg-id="943" group-title="Shahid", |Shahid| Shahid Masr
 http://red.ipfox.org:8080/osama2022/osama2023/49462
-#EXTINF:-1 tvg-id="943" group-title="Shahid", |Shahid| Shahid Al-Ostoura
+#EXTINF:-1 tvg-id="944" group-title="Shahid", |Shahid| Shahid Al-Ostoura
 http://red.ipfox.org:8080/osama2022/osama2023/49461
-#EXTINF:-1 tvg-id="944" group-title="Shahid", |Shahid| Shahid Al-Zaeem
+#EXTINF:-1 tvg-id="945" group-title="Shahid", |Shahid| Shahid Al-Zaeem
 http://red.ipfox.org:8080/osama2022/osama2023/49460
-#EXTINF:-1 tvg-id="945" group-title="Shahid", |Shahid| Shahid Levant
+#EXTINF:-1 tvg-id="946" group-title="Shahid", |Shahid| Shahid Levant
 http://red.ipfox.org:8080/osama2022/osama2023/49459
-#EXTINF:-1 tvg-id="946" group-title="Shahid", |Shahid| Shahid Tareekhi
+#EXTINF:-1 tvg-id="947" group-title="Shahid", |Shahid| Shahid Tareekhi
 http://red.ipfox.org:8080/osama2022/osama2023/49458
-#EXTINF:-1 tvg-id="947" group-title="Shahid", |Shahid| Shahid Comedy
+#EXTINF:-1 tvg-id="948" group-title="Shahid", |Shahid| Shahid Comedy
 http://red.ipfox.org:8080/osama2022/osama2023/49457
-#EXTINF:-1 tvg-id="948" group-title="Shahid", |Shahid| Shahid Al-Sham
+#EXTINF:-1 tvg-id="949" group-title="Shahid", |Shahid| Shahid Al-Sham
 http://red.ipfox.org:8080/osama2022/osama2023/49456
-#EXTINF:-1 tvg-id="949" group-title="Shahid", |Shahid| Shahid Maqaleb
+#EXTINF:-1 tvg-id="950" group-title="Shahid", |Shahid| Shahid Maqaleb
 http://red.ipfox.org:8080/osama2022/osama2023/49455
-#EXTINF:-1 tvg-id="950" group-title="Shahid", |Shahid| Shahid Al-Oula
+#EXTINF:-1 tvg-id="951" group-title="Shahid", |Shahid| Shahid Al-Oula
 http://red.ipfox.org:8080/osama2022/osama2023/49454
-#EXTINF:-1 tvg-id="951" group-title="Shahid", |Shahid| Shahid Korean
+#EXTINF:-1 tvg-id="952" group-title="Shahid", |Shahid| Shahid Korean
 http://red.ipfox.org:8080/osama2022/osama2023/49453
-#EXTINF:-1 tvg-id="952" group-title="Shahid", |Shahid| Shahid Mawaheb
+#EXTINF:-1 tvg-id="953" group-title="Shahid", |Shahid| Shahid Mawaheb
 http://red.ipfox.org:8080/osama2022/osama2023/49452
-#EXTINF:-1 tvg-id="953" group-title="Shahid", |Shahid| Shahid Style
+#EXTINF:-1 tvg-id="954" group-title="Shahid", |Shahid| Shahid Style
 http://red.ipfox.org:8080/osama2022/osama2023/49451
-#EXTINF:-1 tvg-id="954" group-title="Shahid", |Shahid| Shahid TopChef
+#EXTINF:-1 tvg-id="955" group-title="Shahid", |Shahid| Shahid TopChef
 http://red.ipfox.org:8080/osama2022/osama2023/49450
-#EXTINF:-1 tvg-id="955" group-title="Qatar", |QA| Qatar TV 1
+#EXTINF:-1 tvg-id="956" group-title="Qatar", |QA| Qatar TV 1
 http://red.ipfox.org:8080/osama2022/osama2023/35061
-#EXTINF:-1 tvg-id="956" group-title="Qatar", |QA| Qatar TV 2
+#EXTINF:-1 tvg-id="957" group-title="Qatar", |QA| Qatar TV 2
 http://red.ipfox.org:8080/osama2022/osama2023/35062
-#EXTINF:-1 tvg-id="957" group-title="Qatar", |QA| Qatar Today
+#EXTINF:-1 tvg-id="958" group-title="Qatar", |QA| Qatar Today
 http://red.ipfox.org:8080/osama2022/osama2023/35063
-#EXTINF:-1 tvg-id="958" group-title="Qatar", |QA| Al Rayyan 1 HD
+#EXTINF:-1 tvg-id="959" group-title="Qatar", |QA| Al Rayyan 1 HD
 http://red.ipfox.org:8080/osama2022/osama2023/35064
-#EXTINF:-1 tvg-id="959" group-title="Qatar", |QA| Al Rayyan 2 HD
+#EXTINF:-1 tvg-id="960" group-title="Qatar", |QA| Al Rayyan 2 HD
 http://red.ipfox.org:8080/osama2022/osama2023/35065
-#EXTINF:-1 tvg-id="960" group-title="Qatar", |QA| Al Rayyan Al Qadeem HD
+#EXTINF:-1 tvg-id="961" group-title="Qatar", |QA| Al Rayyan Al Qadeem HD
 http://red.ipfox.org:8080/osama2022/osama2023/35066
-#EXTINF:-1 tvg-id="961" group-title="Qatar", |QA| ALJAZEERA HD
+#EXTINF:-1 tvg-id="962" group-title="Qatar", |QA| ALJAZEERA HD
 http://red.ipfox.org:8080/osama2022/osama2023/35069
-#EXTINF:-1 tvg-id="962" group-title="Qatar", |QA| ALJAZEERA Mubasher HD
+#EXTINF:-1 tvg-id="963" group-title="Qatar", |QA| ALJAZEERA Mubasher HD
 http://red.ipfox.org:8080/osama2022/osama2023/35070
-#EXTINF:-1 tvg-id="963" group-title="Qatar", |QA| ALJAZEERA Documentary HD
+#EXTINF:-1 tvg-id="964" group-title="Qatar", |QA| ALJAZEERA Documentary HD
 http://red.ipfox.org:8080/osama2022/osama2023/35071
-#EXTINF:-1 tvg-id="964" group-title="Qatar", |QA| ALJAZEERA English HD
+#EXTINF:-1 tvg-id="965" group-title="Qatar", |QA| ALJAZEERA English HD
 http://red.ipfox.org:8080/osama2022/osama2023/35072
-#EXTINF:-1 tvg-id="965" group-title="Egypt", |EG| AL OULA
+#EXTINF:-1 tvg-id="966" group-title="Egypt", |EG| AL OULA
 http://red.ipfox.org:8080/osama2022/osama2023/33147
-#EXTINF:-1 tvg-id="966" group-title="Egypt", |EG| AL Thanya
+#EXTINF:-1 tvg-id="967" group-title="Egypt", |EG| AL Thanya
 http://red.ipfox.org:8080/osama2022/osama2023/33148
-#EXTINF:-1 tvg-id="967" group-title="Egypt", |EG| Nile TV
+#EXTINF:-1 tvg-id="968" group-title="Egypt", |EG| Nile TV
 http://red.ipfox.org:8080/osama2022/osama2023/33149
-#EXTINF:-1 tvg-id="968" group-title="Egypt", |EG| AL Masriya
+#EXTINF:-1 tvg-id="969" group-title="Egypt", |EG| AL Masriya
 http://red.ipfox.org:8080/osama2022/osama2023/33150
-#EXTINF:-1 tvg-id="969" group-title="Egypt", |EG| Mekameleen HD
+#EXTINF:-1 tvg-id="970" group-title="Egypt", |EG| Mekameleen HD
 http://red.ipfox.org:8080/osama2022/osama2023/33151
-#EXTINF:-1 tvg-id="970" group-title="Egypt", |EG| El Sharq
+#EXTINF:-1 tvg-id="971" group-title="Egypt", |EG| El Sharq
 http://red.ipfox.org:8080/osama2022/osama2023/33152
-#EXTINF:-1 tvg-id="971" group-title="Egypt", |EG| WATAN TV
+#EXTINF:-1 tvg-id="972" group-title="Egypt", |EG| WATAN TV
 http://red.ipfox.org:8080/osama2022/osama2023/33153
-#EXTINF:-1 tvg-id="972" group-title="Egypt", |EG| Mehwar
+#EXTINF:-1 tvg-id="973" group-title="Egypt", |EG| Mehwar
 http://red.ipfox.org:8080/osama2022/osama2023/33154
-#EXTINF:-1 tvg-id="973" group-title="Egypt", |EG| CBC
+#EXTINF:-1 tvg-id="974" group-title="Egypt", |EG| CBC
 http://red.ipfox.org:8080/osama2022/osama2023/33155
-#EXTINF:-1 tvg-id="974" group-title="Egypt", |EG| CBC Sofra
+#EXTINF:-1 tvg-id="975" group-title="Egypt", |EG| CBC Sofra
 http://red.ipfox.org:8080/osama2022/osama2023/33156
-#EXTINF:-1 tvg-id="975" group-title="Egypt", |EG| CBC Drama
+#EXTINF:-1 tvg-id="976" group-title="Egypt", |EG| CBC Drama
 http://red.ipfox.org:8080/osama2022/osama2023/33157
-#EXTINF:-1 tvg-id="976" group-title="Egypt", |EG| EXtra News HD
+#EXTINF:-1 tvg-id="977" group-title="Egypt", |EG| EXtra News HD
 http://red.ipfox.org:8080/osama2022/osama2023/33158
-#EXTINF:-1 tvg-id="977" group-title="Egypt", |EG| ON E HD
+#EXTINF:-1 tvg-id="978" group-title="Egypt", |EG| ON E HD
 http://red.ipfox.org:8080/osama2022/osama2023/33160
-#EXTINF:-1 tvg-id="978" group-title="Egypt", |EG| ON Drama
+#EXTINF:-1 tvg-id="979" group-title="Egypt", |EG| ON Drama
 http://red.ipfox.org:8080/osama2022/osama2023/33161
-#EXTINF:-1 tvg-id="979" group-title="Egypt", |EG| Al Nahar
+#EXTINF:-1 tvg-id="980" group-title="Egypt", |EG| Al Nahar
 http://red.ipfox.org:8080/osama2022/osama2023/33165
-#EXTINF:-1 tvg-id="980" group-title="Egypt", |EG| Al Nahar Drama
+#EXTINF:-1 tvg-id="981" group-title="Egypt", |EG| Al Nahar Drama
 http://red.ipfox.org:8080/osama2022/osama2023/33166
-#EXTINF:-1 tvg-id="981" group-title="Egypt", |EG| TeN TV
+#EXTINF:-1 tvg-id="982" group-title="Egypt", |EG| TeN TV
 http://red.ipfox.org:8080/osama2022/osama2023/33167
-#EXTINF:-1 tvg-id="982" group-title="Egypt", |EG| Sada ElBalad HD
+#EXTINF:-1 tvg-id="983" group-title="Egypt", |EG| Sada ElBalad HD
 http://red.ipfox.org:8080/osama2022/osama2023/33168
-#EXTINF:-1 tvg-id="983" group-title="Egypt", |EG| Sada ElBalad 2
+#EXTINF:-1 tvg-id="984" group-title="Egypt", |EG| Sada ElBalad 2
 http://red.ipfox.org:8080/osama2022/osama2023/33169
-#EXTINF:-1 tvg-id="984" group-title="Egypt", |EG| Sada ElBalad Drama
+#EXTINF:-1 tvg-id="985" group-title="Egypt", |EG| Sada ElBalad Drama
 http://red.ipfox.org:8080/osama2022/osama2023/33170
-#EXTINF:-1 tvg-id="985" group-title="Egypt", |EG| AlKahera Wal Nas 1
+#EXTINF:-1 tvg-id="986" group-title="Egypt", |EG| AlKahera Wal Nas 1
 http://red.ipfox.org:8080/osama2022/osama2023/33171
-#EXTINF:-1 tvg-id="986" group-title="Egypt", |EG| AlKahera Wal Nas +2
+#EXTINF:-1 tvg-id="987" group-title="Egypt", |EG| AlKahera Wal Nas +2
 http://red.ipfox.org:8080/osama2022/osama2023/33172
-#EXTINF:-1 tvg-id="987" group-title="Egypt", |EG| DMC HD
+#EXTINF:-1 tvg-id="988" group-title="Egypt", |EG| DMC HD
 http://red.ipfox.org:8080/osama2022/osama2023/33173
-#EXTINF:-1 tvg-id="988" group-title="Egypt", |EG| DMC Drama
+#EXTINF:-1 tvg-id="989" group-title="Egypt", |EG| DMC Drama
 http://red.ipfox.org:8080/osama2022/osama2023/33174
-#EXTINF:-1 tvg-id="989" group-title="Egypt", |EG| AL Hayat
+#EXTINF:-1 tvg-id="990" group-title="Egypt", |EG| AL Hayat
 http://red.ipfox.org:8080/osama2022/osama2023/33175
-#EXTINF:-1 tvg-id="990" group-title="Egypt", |EG| Al Hayat Muslsalat
+#EXTINF:-1 tvg-id="991" group-title="Egypt", |EG| Al Hayat Muslsalat
 http://red.ipfox.org:8080/osama2022/osama2023/33176
-#EXTINF:-1 tvg-id="991" group-title="Egypt", |EG| Panorama Food
+#EXTINF:-1 tvg-id="992" group-title="Egypt", |EG| Panorama Food
 http://red.ipfox.org:8080/osama2022/osama2023/33178
-#EXTINF:-1 tvg-id="992" group-title="Egypt", |EG| Panorama Drama 1
+#EXTINF:-1 tvg-id="993" group-title="Egypt", |EG| Panorama Drama 1
 http://red.ipfox.org:8080/osama2022/osama2023/33179
-#EXTINF:-1 tvg-id="993" group-title="Egypt", |EG| Panorama Drama 2
+#EXTINF:-1 tvg-id="994" group-title="Egypt", |EG| Panorama Drama 2
 http://red.ipfox.org:8080/osama2022/osama2023/33180
-#EXTINF:-1 tvg-id="994" group-title="Egypt", |EG| Panorama Film
+#EXTINF:-1 tvg-id="995" group-title="Egypt", |EG| Panorama Film
 http://red.ipfox.org:8080/osama2022/osama2023/33181
-#EXTINF:-1 tvg-id="995" group-title="Egypt", |EG| ALSeha Waljamal
+#EXTINF:-1 tvg-id="996" group-title="Egypt", |EG| ALSeha Waljamal
 http://red.ipfox.org:8080/osama2022/osama2023/33184
-#EXTINF:-1 tvg-id="996" group-title="Egypt", |EG| Misr Al Zera3eya
+#EXTINF:-1 tvg-id="997" group-title="Egypt", |EG| Misr Al Zera3eya
 http://red.ipfox.org:8080/osama2022/osama2023/33185
-#EXTINF:-1 tvg-id="997" group-title="Egypt", |EG| Al Kahera
+#EXTINF:-1 tvg-id="998" group-title="Egypt", |EG| Al Kahera
 http://red.ipfox.org:8080/osama2022/osama2023/33186
-#EXTINF:-1 tvg-id="998" group-title="Egypt", |EG| ALDELTA
+#EXTINF:-1 tvg-id="999" group-title="Egypt", |EG| ALDELTA
 http://red.ipfox.org:8080/osama2022/osama2023/33187
-#EXTINF:-1 tvg-id="999" group-title="Egypt", |EG| ALASKANDRIA
+#EXTINF:-1 tvg-id="1000" group-title="Egypt", |EG| ALASKANDRIA
 http://red.ipfox.org:8080/osama2022/osama2023/33188
-#EXTINF:-1 tvg-id="1000" group-title="Egypt", |EG| ALSA3EED
+#EXTINF:-1 tvg-id="1001" group-title="Egypt", |EG| ALSA3EED
 http://red.ipfox.org:8080/osama2022/osama2023/33189
-#EXTINF:-1 tvg-id="1001" group-title="Egypt", |EG| Cima
+#EXTINF:-1 tvg-id="1002" group-title="Egypt", |EG| Cima
 http://red.ipfox.org:8080/osama2022/osama2023/33190
-#EXTINF:-1 tvg-id="1002" group-title="Egypt", |EG| Nile News
+#EXTINF:-1 tvg-id="1003" group-title="Egypt", |EG| Nile News
 http://red.ipfox.org:8080/osama2022/osama2023/33191
-#EXTINF:-1 tvg-id="1003" group-title="Egypt", |EG| Nile Life
+#EXTINF:-1 tvg-id="1004" group-title="Egypt", |EG| Nile Life
 http://red.ipfox.org:8080/osama2022/osama2023/33192
-#EXTINF:-1 tvg-id="1004" group-title="Egypt", |EG| Nile Family
+#EXTINF:-1 tvg-id="1005" group-title="Egypt", |EG| Nile Family
 http://red.ipfox.org:8080/osama2022/osama2023/33193
-#EXTINF:-1 tvg-id="1005" group-title="Egypt", |EG| Nile Drama
+#EXTINF:-1 tvg-id="1006" group-title="Egypt", |EG| Nile Drama
 http://red.ipfox.org:8080/osama2022/osama2023/33194
-#EXTINF:-1 tvg-id="1006" group-title="Egypt", |EG| Nile Culture
+#EXTINF:-1 tvg-id="1007" group-title="Egypt", |EG| Nile Culture
 http://red.ipfox.org:8080/osama2022/osama2023/33195
-#EXTINF:-1 tvg-id="1007" group-title="Egypt", |EG| NILE COMEDY
+#EXTINF:-1 tvg-id="1008" group-title="Egypt", |EG| NILE COMEDY
 http://red.ipfox.org:8080/osama2022/osama2023/33196
-#EXTINF:-1 tvg-id="1008" group-title="Egypt", |EG| NILE CINEMA
+#EXTINF:-1 tvg-id="1009" group-title="Egypt", |EG| NILE CINEMA
 http://red.ipfox.org:8080/osama2022/osama2023/33197
-#EXTINF:-1 tvg-id="1009" group-title="Egypt", |EG| MISR ELBALAD
+#EXTINF:-1 tvg-id="1010" group-title="Egypt", |EG| MISR ELBALAD
 http://red.ipfox.org:8080/osama2022/osama2023/33198
-#EXTINF:-1 tvg-id="1010" group-title="Egypt", |EG| Al Ahly
+#EXTINF:-1 tvg-id="1011" group-title="Egypt", |EG| Al Ahly
 http://red.ipfox.org:8080/osama2022/osama2023/33201
-#EXTINF:-1 tvg-id="1011" group-title="Egypt", |EG| Zamalek
+#EXTINF:-1 tvg-id="1012" group-title="Egypt", |EG| Zamalek
 http://red.ipfox.org:8080/osama2022/osama2023/33202
-#EXTINF:-1 tvg-id="1012" group-title="Fox", |Fox| IPFox Fairouz
+#EXTINF:-1 tvg-id="1013" group-title="Fox", |Fox| IPFox Fairouz
 http://red.ipfox.org:8080/osama2022/osama2023/3
-#EXTINF:-1 tvg-id="1013" group-title="Fox", |Fox| IPFox Halim
+#EXTINF:-1 tvg-id="1014" group-title="Fox", |Fox| IPFox Halim
 http://red.ipfox.org:8080/osama2022/osama2023/2
-#EXTINF:-1 tvg-id="1014" group-title="Fox", |Fox| IPFox UM Kalthom
+#EXTINF:-1 tvg-id="1015" group-title="Fox", |Fox| IPFox UM Kalthom
 http://red.ipfox.org:8080/osama2022/osama2023/6
-#EXTINF:-1 tvg-id="1015" group-title="Fox", |Fox| IPFox Movies Arabic
+#EXTINF:-1 tvg-id="1016" group-title="Fox", |Fox| IPFox Movies Arabic
 http://red.ipfox.org:8080/osama2022/osama2023/8
-#EXTINF:-1 tvg-id="1016" group-title="Fox", |Fox| IPFox Movies Classic
+#EXTINF:-1 tvg-id="1017" group-title="Fox", |Fox| IPFox Movies Classic
 http://red.ipfox.org:8080/osama2022/osama2023/9
-#EXTINF:-1 tvg-id="1017" group-title="Fox", |Fox| IPFox Movies Action
+#EXTINF:-1 tvg-id="1018" group-title="Fox", |Fox| IPFox Movies Action
 http://red.ipfox.org:8080/osama2022/osama2023/7
-#EXTINF:-1 tvg-id="1018" group-title="Fox", |Fox| IPFox Movies Comedy
+#EXTINF:-1 tvg-id="1019" group-title="Fox", |Fox| IPFox Movies Comedy
 http://red.ipfox.org:8080/osama2022/osama2023/11
-#EXTINF:-1 tvg-id="1019" group-title="Fox", |Fox| IPFox Movies Drama
+#EXTINF:-1 tvg-id="1020" group-title="Fox", |Fox| IPFox Movies Drama
 http://red.ipfox.org:8080/osama2022/osama2023/12
-#EXTINF:-1 tvg-id="1020" group-title="Fox", |Fox| IPFox Movies Horror
+#EXTINF:-1 tvg-id="1021" group-title="Fox", |Fox| IPFox Movies Horror
 http://red.ipfox.org:8080/osama2022/osama2023/13
-#EXTINF:-1 tvg-id="1021" group-title="Fox", |Fox| IPFox Movies Kids
+#EXTINF:-1 tvg-id="1022" group-title="Fox", |Fox| IPFox Movies Kids
 http://red.ipfox.org:8080/osama2022/osama2023/14
-#EXTINF:-1 tvg-id="1022" group-title="Fox", |Fox| IPFox Movies Thriller
+#EXTINF:-1 tvg-id="1023" group-title="Fox", |Fox| IPFox Movies Thriller
 http://red.ipfox.org:8080/osama2022/osama2023/15
-#EXTINF:-1 tvg-id="1023" group-title="Fox", |Fox| Box Aflam 1
+#EXTINF:-1 tvg-id="1024" group-title="Fox", |Fox| Box Aflam 1
 http://red.ipfox.org:8080/osama2022/osama2023/30476
-#EXTINF:-1 tvg-id="1024" group-title="Fox", |Fox| Box Aflam 2
+#EXTINF:-1 tvg-id="1025" group-title="Fox", |Fox| Box Aflam 2
 http://red.ipfox.org:8080/osama2022/osama2023/30475
-#EXTINF:-1 tvg-id="1025" group-title="Fox", |Fox| Box CLASSIC
+#EXTINF:-1 tvg-id="1026" group-title="Fox", |Fox| Box CLASSIC
 http://red.ipfox.org:8080/osama2022/osama2023/30471
-#EXTINF:-1 tvg-id="1026" group-title="Fox", |Fox| Box ACTION 1
+#EXTINF:-1 tvg-id="1027" group-title="Fox", |Fox| Box ACTION 1
 http://red.ipfox.org:8080/osama2022/osama2023/30474
-#EXTINF:-1 tvg-id="1027" group-title="Fox", |Fox| Box ACTION 2
+#EXTINF:-1 tvg-id="1028" group-title="Fox", |Fox| Box ACTION 2
 http://red.ipfox.org:8080/osama2022/osama2023/30473
-#EXTINF:-1 tvg-id="1028" group-title="Fox", |Fox| Box HORROR
+#EXTINF:-1 tvg-id="1029" group-title="Fox", |Fox| Box HORROR
 http://red.ipfox.org:8080/osama2022/osama2023/30472
-#EXTINF:-1 tvg-id="1029" group-title="Fox", |Fox| Ismael Yassin
+#EXTINF:-1 tvg-id="1030" group-title="Fox", |Fox| Ismael Yassin
 http://red.ipfox.org:8080/osama2022/osama2023/31950
-#EXTINF:-1 tvg-id="1030" group-title="Fox", |Fox| Adel Emam
+#EXTINF:-1 tvg-id="1031" group-title="Fox", |Fox| Adel Emam
 http://red.ipfox.org:8080/osama2022/osama2023/31949
-#EXTINF:-1 tvg-id="1031" group-title="Fox", |Fox| Ahmed Zaki
+#EXTINF:-1 tvg-id="1032" group-title="Fox", |Fox| Ahmed Zaki
 http://red.ipfox.org:8080/osama2022/osama2023/31948
-#EXTINF:-1 tvg-id="1032" group-title="Fox", |Fox| Ahmed Helmy
+#EXTINF:-1 tvg-id="1033" group-title="Fox", |Fox| Ahmed Helmy
 http://red.ipfox.org:8080/osama2022/osama2023/31946
-#EXTINF:-1 tvg-id="1033" group-title="Fox", |Fox| So3ad Hosni
+#EXTINF:-1 tvg-id="1034" group-title="Fox", |Fox| So3ad Hosni
 http://red.ipfox.org:8080/osama2022/osama2023/31945
-#EXTINF:-1 tvg-id="1034" group-title="Fox", |Fox| Majestic Horror
+#EXTINF:-1 tvg-id="1035" group-title="Fox", |Fox| Majestic Horror
 http://red.ipfox.org:8080/osama2022/osama2023/31944
-#EXTINF:-1 tvg-id="1035" group-title="Fox", |Fox| Majestic Action
+#EXTINF:-1 tvg-id="1036" group-title="Fox", |Fox| Majestic Action
 http://red.ipfox.org:8080/osama2022/osama2023/31942
-#EXTINF:-1 tvg-id="1036" group-title="Fox", |Fox| Majestic Romance
+#EXTINF:-1 tvg-id="1037" group-title="Fox", |Fox| Majestic Romance
 http://red.ipfox.org:8080/osama2022/osama2023/31941
-#EXTINF:-1 tvg-id="1037" group-title="Fox", |Fox| Majestic Arabic
+#EXTINF:-1 tvg-id="1038" group-title="Fox", |Fox| Majestic Arabic
 http://red.ipfox.org:8080/osama2022/osama2023/31939
-#EXTINF:-1 tvg-id="1038" group-title="Fox", |Fox| Cinema CAM 1
+#EXTINF:-1 tvg-id="1039" group-title="Fox", |Fox| Cinema CAM 1
 http://red.ipfox.org:8080/osama2022/osama2023/31938
-#EXTINF:-1 tvg-id="1039" group-title="Fox", |Fox| Cinema CAM 2
+#EXTINF:-1 tvg-id="1040" group-title="Fox", |Fox| Cinema CAM 2
 http://red.ipfox.org:8080/osama2022/osama2023/31937
-#EXTINF:-1 tvg-id="1040" group-title="Fox", |Fox| Cinema Comedy
+#EXTINF:-1 tvg-id="1041" group-title="Fox", |Fox| Cinema Comedy
 http://red.ipfox.org:8080/osama2022/osama2023/31936
-#EXTINF:-1 tvg-id="1041" group-title="Fox", |Fox| Netflix 1
+#EXTINF:-1 tvg-id="1042" group-title="Fox", |Fox| Netflix 1
 http://red.ipfox.org:8080/osama2022/osama2023/31918
-#EXTINF:-1 tvg-id="1042" group-title="Fox", |Fox| Netflix 2
+#EXTINF:-1 tvg-id="1043" group-title="Fox", |Fox| Netflix 2
 http://red.ipfox.org:8080/osama2022/osama2023/31917
-#EXTINF:-1 tvg-id="1043" group-title="Fox", |Fox| Netflix 3
+#EXTINF:-1 tvg-id="1044" group-title="Fox", |Fox| Netflix 3
 http://red.ipfox.org:8080/osama2022/osama2023/31916
-#EXTINF:-1 tvg-id="1044" group-title="Fox", |Fox| Netflix 4
+#EXTINF:-1 tvg-id="1045" group-title="Fox", |Fox| Netflix 4
 http://red.ipfox.org:8080/osama2022/osama2023/31915
-#EXTINF:-1 tvg-id="1045" group-title="Fox", |Fox| Netflix 5
+#EXTINF:-1 tvg-id="1046" group-title="Fox", |Fox| Netflix 5
 http://red.ipfox.org:8080/osama2022/osama2023/31914
-#EXTINF:-1 tvg-id="1046" group-title="Fox", |Fox| Netflix 6
+#EXTINF:-1 tvg-id="1047" group-title="Fox", |Fox| Netflix 6
 http://red.ipfox.org:8080/osama2022/osama2023/31913
-#EXTINF:-1 tvg-id="1047" group-title="Fox", |Fox| Netflix 7
+#EXTINF:-1 tvg-id="1048" group-title="Fox", |Fox| Netflix 7
 http://red.ipfox.org:8080/osama2022/osama2023/31912
-#EXTINF:-1 tvg-id="1048" group-title="Fox", |Fox| Netflix 8
+#EXTINF:-1 tvg-id="1049" group-title="Fox", |Fox| Netflix 8
 http://red.ipfox.org:8080/osama2022/osama2023/31911
-#EXTINF:-1 tvg-id="1049" group-title="Fox", |Fox| Netflix 9
+#EXTINF:-1 tvg-id="1050" group-title="Fox", |Fox| Netflix 9
 http://red.ipfox.org:8080/osama2022/osama2023/31910
-#EXTINF:-1 tvg-id="1050" group-title="Fox", |Fox| Netflix 10
+#EXTINF:-1 tvg-id="1051" group-title="Fox", |Fox| Netflix 10
 http://red.ipfox.org:8080/osama2022/osama2023/31909
-#EXTINF:-1 tvg-id="1051" group-title="Fox", |Fox| Netflix Action 1
+#EXTINF:-1 tvg-id="1052" group-title="Fox", |Fox| Netflix Action 1
 http://red.ipfox.org:8080/osama2022/osama2023/31908
-#EXTINF:-1 tvg-id="1052" group-title="Fox", |Fox| Netflix Action 2
+#EXTINF:-1 tvg-id="1053" group-title="Fox", |Fox| Netflix Action 2
 http://red.ipfox.org:8080/osama2022/osama2023/31907
-#EXTINF:-1 tvg-id="1053" group-title="Fox", |Fox| Netflix Cartoon 1
+#EXTINF:-1 tvg-id="1054" group-title="Fox", |Fox| Netflix Cartoon 1
 http://red.ipfox.org:8080/osama2022/osama2023/31906
-#EXTINF:-1 tvg-id="1054" group-title="Fox", |Fox| Netflix Cartoon 2
+#EXTINF:-1 tvg-id="1055" group-title="Fox", |Fox| Netflix Cartoon 2
 http://red.ipfox.org:8080/osama2022/osama2023/31905
-#EXTINF:-1 tvg-id="1055" group-title="Fox", |Fox| Netflix Sci-Fi
+#EXTINF:-1 tvg-id="1056" group-title="Fox", |Fox| Netflix Sci-Fi
 http://red.ipfox.org:8080/osama2022/osama2023/31904
-#EXTINF:-1 tvg-id="1056" group-title="Fox", |Fox| Netflix Romance 1
+#EXTINF:-1 tvg-id="1057" group-title="Fox", |Fox| Netflix Romance 1
 http://red.ipfox.org:8080/osama2022/osama2023/31903
-#EXTINF:-1 tvg-id="1057" group-title="Fox", |Fox| Netflix Romance 2
+#EXTINF:-1 tvg-id="1058" group-title="Fox", |Fox| Netflix Romance 2
 http://red.ipfox.org:8080/osama2022/osama2023/31902
-#EXTINF:-1 tvg-id="1058" group-title="Fox", |Fox| Netflix Horror 1
+#EXTINF:-1 tvg-id="1059" group-title="Fox", |Fox| Netflix Horror 1
 http://red.ipfox.org:8080/osama2022/osama2023/31901
-#EXTINF:-1 tvg-id="1059" group-title="Fox", |Fox| Netflix Horror 2
+#EXTINF:-1 tvg-id="1060" group-title="Fox", |Fox| Netflix Horror 2
 http://red.ipfox.org:8080/osama2022/osama2023/31900
-#EXTINF:-1 tvg-id="1060" group-title="Fox", |Fox| showtime 1
+#EXTINF:-1 tvg-id="1061" group-title="Fox", |Fox| showtime 1
 http://red.ipfox.org:8080/osama2022/osama2023/31899
-#EXTINF:-1 tvg-id="1061" group-title="Fox", |Fox| showtime 2
+#EXTINF:-1 tvg-id="1062" group-title="Fox", |Fox| showtime 2
 http://red.ipfox.org:8080/osama2022/osama2023/31898
-#EXTINF:-1 tvg-id="1062" group-title="Fox", |Fox| showtime 3
+#EXTINF:-1 tvg-id="1063" group-title="Fox", |Fox| showtime 3
 http://red.ipfox.org:8080/osama2022/osama2023/31897
-#EXTINF:-1 tvg-id="1063" group-title="Fox", |Fox| showtime 4
+#EXTINF:-1 tvg-id="1064" group-title="Fox", |Fox| showtime 4
 http://red.ipfox.org:8080/osama2022/osama2023/31896
-#EXTINF:-1 tvg-id="1064" group-title="Fox", |Fox| showtime 5
+#EXTINF:-1 tvg-id="1065" group-title="Fox", |Fox| showtime 5
 http://red.ipfox.org:8080/osama2022/osama2023/31895
-#EXTINF:-1 tvg-id="1065" group-title="Fox", |Fox| showtime 6
+#EXTINF:-1 tvg-id="1066" group-title="Fox", |Fox| showtime 6
 http://red.ipfox.org:8080/osama2022/osama2023/31894
-#EXTINF:-1 tvg-id="1066" group-title="Fox", |Fox| showtime 7
+#EXTINF:-1 tvg-id="1067" group-title="Fox", |Fox| showtime 7
 http://red.ipfox.org:8080/osama2022/osama2023/31893
-#EXTINF:-1 tvg-id="1067" group-title="Fox", |Fox| showtime 8
+#EXTINF:-1 tvg-id="1068" group-title="Fox", |Fox| showtime 8
 http://red.ipfox.org:8080/osama2022/osama2023/31892
-#EXTINF:-1 tvg-id="1068" group-title="Fox", |Fox| showtime 9
+#EXTINF:-1 tvg-id="1069" group-title="Fox", |Fox| showtime 9
 http://red.ipfox.org:8080/osama2022/osama2023/31891
-#EXTINF:-1 tvg-id="1069" group-title="Fox", |Fox| showtime 10
+#EXTINF:-1 tvg-id="1070" group-title="Fox", |Fox| showtime 10
 http://red.ipfox.org:8080/osama2022/osama2023/31890
-#EXTINF:-1 tvg-id="1070" group-title="Fox", |Fox| Ostora Arabic 1
+#EXTINF:-1 tvg-id="1071" group-title="Fox", |Fox| Ostora Arabic 1
 http://red.ipfox.org:8080/osama2022/osama2023/31889
-#EXTINF:-1 tvg-id="1071" group-title="Fox", |Fox| Ostora Arabic 2
+#EXTINF:-1 tvg-id="1072" group-title="Fox", |Fox| Ostora Arabic 2
 http://red.ipfox.org:8080/osama2022/osama2023/31888
-#EXTINF:-1 tvg-id="1072" group-title="Fox", |Fox| Ostora Arabic 3
+#EXTINF:-1 tvg-id="1073" group-title="Fox", |Fox| Ostora Arabic 3
 http://red.ipfox.org:8080/osama2022/osama2023/31887
-#EXTINF:-1 tvg-id="1073" group-title="Fox", |Fox| Ostora Arabic 4
+#EXTINF:-1 tvg-id="1074" group-title="Fox", |Fox| Ostora Arabic 4
 http://red.ipfox.org:8080/osama2022/osama2023/31886
-#EXTINF:-1 tvg-id="1074" group-title="Fox", |Fox| Ostora Arabic 5
+#EXTINF:-1 tvg-id="1075" group-title="Fox", |Fox| Ostora Arabic 5
 http://red.ipfox.org:8080/osama2022/osama2023/31885
-#EXTINF:-1 tvg-id="1075" group-title="Fox", |Fox| Ostora Arabic 6
+#EXTINF:-1 tvg-id="1076" group-title="Fox", |Fox| Ostora Arabic 6
 http://red.ipfox.org:8080/osama2022/osama2023/31884
-#EXTINF:-1 tvg-id="1076" group-title="Fox", |Fox| Ostora Arabic 7
+#EXTINF:-1 tvg-id="1077" group-title="Fox", |Fox| Ostora Arabic 7
 http://red.ipfox.org:8080/osama2022/osama2023/31883
-#EXTINF:-1 tvg-id="1077" group-title="Fox", |Fox| Ostora Arabic 8
+#EXTINF:-1 tvg-id="1078" group-title="Fox", |Fox| Ostora Arabic 8
 http://red.ipfox.org:8080/osama2022/osama2023/31882
-#EXTINF:-1 tvg-id="1078" group-title="Fox", |Fox| Ostora Arabic 9
+#EXTINF:-1 tvg-id="1079" group-title="Fox", |Fox| Ostora Arabic 9
 http://red.ipfox.org:8080/osama2022/osama2023/31881
-#EXTINF:-1 tvg-id="1079" group-title="Fox", |Fox| Ostora Arabic 10
+#EXTINF:-1 tvg-id="1080" group-title="Fox", |Fox| Ostora Arabic 10
 http://red.ipfox.org:8080/osama2022/osama2023/31880
-#EXTINF:-1 tvg-id="1080" group-title="Jawwy", |JAW| STC TV
+#EXTINF:-1 tvg-id="1081" group-title="Jawwy", |JAW| STC TV
 http://red.ipfox.org:8080/osama2022/osama2023/47301
-#EXTINF:-1 tvg-id="1081" group-title="Jawwy", |JAW| ReelPX Action
+#EXTINF:-1 tvg-id="1082" group-title="Jawwy", |JAW| ReelPX Action
 http://red.ipfox.org:8080/osama2022/osama2023/47300
-#EXTINF:-1 tvg-id="1082" group-title="Jawwy", |JAW| ReelPX Comedy
+#EXTINF:-1 tvg-id="1083" group-title="Jawwy", |JAW| ReelPX Comedy
 http://red.ipfox.org:8080/osama2022/osama2023/47299
-#EXTINF:-1 tvg-id="1083" group-title="Jawwy", |JAW| ReelPX Family
+#EXTINF:-1 tvg-id="1084" group-title="Jawwy", |JAW| ReelPX Family
 http://red.ipfox.org:8080/osama2022/osama2023/47298
-#EXTINF:-1 tvg-id="1084" group-title="Jawwy", |JAW| ReelPX Ultimate
+#EXTINF:-1 tvg-id="1085" group-title="Jawwy", |JAW| ReelPX Ultimate
 http://red.ipfox.org:8080/osama2022/osama2023/47297
-#EXTINF:-1 tvg-id="1085" group-title="Jawwy", |JAW| FOX Rewayat
+#EXTINF:-1 tvg-id="1086" group-title="Jawwy", |JAW| FOX Rewayat
 http://red.ipfox.org:8080/osama2022/osama2023/47295
-#EXTINF:-1 tvg-id="1086" group-title="Jawwy", |JAW| ART Hekayat
+#EXTINF:-1 tvg-id="1087" group-title="Jawwy", |JAW| ART Hekayat
 http://red.ipfox.org:8080/osama2022/osama2023/47294
-#EXTINF:-1 tvg-id="1087" group-title="Jawwy", |JAW| FX HD
+#EXTINF:-1 tvg-id="1088" group-title="Jawwy", |JAW| FX HD
 http://red.ipfox.org:8080/osama2022/osama2023/47293
-#EXTINF:-1 tvg-id="1088" group-title="Jawwy", |JAW| Food Network
+#EXTINF:-1 tvg-id="1089" group-title="Jawwy", |JAW| Food Network
 http://red.ipfox.org:8080/osama2022/osama2023/47292
-#EXTINF:-1 tvg-id="1089" group-title="Jawwy", |JAW| TLC HD
+#EXTINF:-1 tvg-id="1090" group-title="Jawwy", |JAW| TLC HD
 http://red.ipfox.org:8080/osama2022/osama2023/47291
-#EXTINF:-1 tvg-id="1090" group-title="Jawwy", |JAW| Fatafeat
+#EXTINF:-1 tvg-id="1091" group-title="Jawwy", |JAW| Fatafeat
 http://red.ipfox.org:8080/osama2022/osama2023/47289
-#EXTINF:-1 tvg-id="1091" group-title="Jawwy", |JAW| Fox Life
+#EXTINF:-1 tvg-id="1092" group-title="Jawwy", |JAW| Fox Life
 http://red.ipfox.org:8080/osama2022/osama2023/47287
-#EXTINF:-1 tvg-id="1092" group-title="Jawwy", |JAW| AWE
+#EXTINF:-1 tvg-id="1093" group-title="Jawwy", |JAW| AWE
 http://red.ipfox.org:8080/osama2022/osama2023/47286
-#EXTINF:-1 tvg-id="1093" group-title="Jawwy", |JAW| HGTV
+#EXTINF:-1 tvg-id="1094" group-title="Jawwy", |JAW| HGTV
 http://red.ipfox.org:8080/osama2022/osama2023/47285
-#EXTINF:-1 tvg-id="1094" group-title="Jawwy", |JAW| Travel
+#EXTINF:-1 tvg-id="1095" group-title="Jawwy", |JAW| Travel
 http://red.ipfox.org:8080/osama2022/osama2023/47284
-#EXTINF:-1 tvg-id="1095" group-title="Jawwy", |JAW| Travel XP
+#EXTINF:-1 tvg-id="1096" group-title="Jawwy", |JAW| Travel XP
 http://red.ipfox.org:8080/osama2022/osama2023/47283
-#EXTINF:-1 tvg-id="1096" group-title="Jawwy", |JAW| Zekrayat
+#EXTINF:-1 tvg-id="1097" group-title="Jawwy", |JAW| Zekrayat
 http://red.ipfox.org:8080/osama2022/osama2023/47282
-#EXTINF:-1 tvg-id="1097" group-title="Jawwy", |JAW| ART Aflam 1
+#EXTINF:-1 tvg-id="1098" group-title="Jawwy", |JAW| ART Aflam 1
 http://red.ipfox.org:8080/osama2022/osama2023/47281
-#EXTINF:-1 tvg-id="1098" group-title="Jawwy", |JAW| Fox Action Movies
+#EXTINF:-1 tvg-id="1099" group-title="Jawwy", |JAW| Fox Action Movies
 http://red.ipfox.org:8080/osama2022/osama2023/47280
-#EXTINF:-1 tvg-id="1099" group-title="Jawwy", |JAW| Fox Family Movies HD
+#EXTINF:-1 tvg-id="1100" group-title="Jawwy", |JAW| Fox Family Movies HD
 http://red.ipfox.org:8080/osama2022/osama2023/47279
-#EXTINF:-1 tvg-id="1100" group-title="Jawwy", |JAW| FilmBox Arthouse
+#EXTINF:-1 tvg-id="1101" group-title="Jawwy", |JAW| FilmBox Arthouse
 http://red.ipfox.org:8080/osama2022/osama2023/47278
-#EXTINF:-1 tvg-id="1101" group-title="Jawwy", |JAW| CN English
+#EXTINF:-1 tvg-id="1102" group-title="Jawwy", |JAW| CN English
 http://red.ipfox.org:8080/osama2022/osama2023/47277
-#EXTINF:-1 tvg-id="1102" group-title="Jawwy", |JAW| CN Arabic
+#EXTINF:-1 tvg-id="1103" group-title="Jawwy", |JAW| CN Arabic
 http://red.ipfox.org:8080/osama2022/osama2023/47276
-#EXTINF:-1 tvg-id="1103" group-title="Jawwy", |JAW| Boomerang
+#EXTINF:-1 tvg-id="1104" group-title="Jawwy", |JAW| Boomerang
 http://red.ipfox.org:8080/osama2022/osama2023/47275
-#EXTINF:-1 tvg-id="1104" group-title="Jawwy", |JAW| Baby TV
+#EXTINF:-1 tvg-id="1105" group-title="Jawwy", |JAW| Baby TV
 http://red.ipfox.org:8080/osama2022/osama2023/47274
-#EXTINF:-1 tvg-id="1105" group-title="Jawwy", |JAW| Tiji
+#EXTINF:-1 tvg-id="1106" group-title="Jawwy", |JAW| Tiji
 http://red.ipfox.org:8080/osama2022/osama2023/47273
-#EXTINF:-1 tvg-id="1106" group-title="Jawwy", |JAW| Fix Foxi
+#EXTINF:-1 tvg-id="1107" group-title="Jawwy", |JAW| Fix Foxi
 http://red.ipfox.org:8080/osama2022/osama2023/47272
-#EXTINF:-1 tvg-id="1107" group-title="Jawwy", |JAW| Duck TV
+#EXTINF:-1 tvg-id="1108" group-title="Jawwy", |JAW| Duck TV
 http://red.ipfox.org:8080/osama2022/osama2023/47271
-#EXTINF:-1 tvg-id="1108" group-title="Jawwy", |JAW| ZooMoo
+#EXTINF:-1 tvg-id="1109" group-title="Jawwy", |JAW| ZooMoo
 http://red.ipfox.org:8080/osama2022/osama2023/47270
-#EXTINF:-1 tvg-id="1109" group-title="Jawwy", |JAW| Disney Junior
+#EXTINF:-1 tvg-id="1110" group-title="Jawwy", |JAW| Disney Junior
 http://red.ipfox.org:8080/osama2022/osama2023/47269
-#EXTINF:-1 tvg-id="1110" group-title="Jawwy", |JAW| Nicktoons
+#EXTINF:-1 tvg-id="1111" group-title="Jawwy", |JAW| Nicktoons
 http://red.ipfox.org:8080/osama2022/osama2023/47268
-#EXTINF:-1 tvg-id="1111" group-title="Jawwy", |JAW| Saudi 1
+#EXTINF:-1 tvg-id="1112" group-title="Jawwy", |JAW| Saudi 1
 http://red.ipfox.org:8080/osama2022/osama2023/47267
-#EXTINF:-1 tvg-id="1112" group-title="Jawwy", |JAW| SBC
+#EXTINF:-1 tvg-id="1113" group-title="Jawwy", |JAW| SBC
 http://red.ipfox.org:8080/osama2022/osama2023/47266
-#EXTINF:-1 tvg-id="1113" group-title="Jawwy", |JAW| CBC Drama
+#EXTINF:-1 tvg-id="1114" group-title="Jawwy", |JAW| CBC Drama
 http://red.ipfox.org:8080/osama2022/osama2023/47261
-#EXTINF:-1 tvg-id="1114" group-title="Jawwy", |JAW| CBC Sofra
+#EXTINF:-1 tvg-id="1115" group-title="Jawwy", |JAW| CBC Sofra
 http://red.ipfox.org:8080/osama2022/osama2023/47260
-#EXTINF:-1 tvg-id="1115" group-title="Jawwy", |JAW| DMC HD
+#EXTINF:-1 tvg-id="1116" group-title="Jawwy", |JAW| DMC HD
 http://red.ipfox.org:8080/osama2022/osama2023/47259
-#EXTINF:-1 tvg-id="1116" group-title="Jawwy", |JAW| DMC Drama
+#EXTINF:-1 tvg-id="1117" group-title="Jawwy", |JAW| DMC Drama
 http://red.ipfox.org:8080/osama2022/osama2023/47258
-#EXTINF:-1 tvg-id="1117" group-title="Jawwy", |JAW| Al Rai
+#EXTINF:-1 tvg-id="1118" group-title="Jawwy", |JAW| Al Rai
 http://red.ipfox.org:8080/osama2022/osama2023/47257
-#EXTINF:-1 tvg-id="1118" group-title="Jawwy", |JAW| Funoon TV
+#EXTINF:-1 tvg-id="1119" group-title="Jawwy", |JAW| Funoon TV
 http://red.ipfox.org:8080/osama2022/osama2023/47256
-#EXTINF:-1 tvg-id="1119" group-title="Jawwy", |JAW| Bahrain TV
+#EXTINF:-1 tvg-id="1120" group-title="Jawwy", |JAW| Bahrain TV
 http://red.ipfox.org:8080/osama2022/osama2023/47255
-#EXTINF:-1 tvg-id="1120" group-title="Jawwy", |JAW| Kuwait 1
+#EXTINF:-1 tvg-id="1121" group-title="Jawwy", |JAW| Kuwait 1
 http://red.ipfox.org:8080/osama2022/osama2023/47254
-#EXTINF:-1 tvg-id="1121" group-title="Jawwy", |JAW| LBC Sat
+#EXTINF:-1 tvg-id="1122" group-title="Jawwy", |JAW| LBC Sat
 http://red.ipfox.org:8080/osama2022/osama2023/47253
-#EXTINF:-1 tvg-id="1122" group-title="Jawwy", |JAW| Lana TV
+#EXTINF:-1 tvg-id="1123" group-title="Jawwy", |JAW| Lana TV
 http://red.ipfox.org:8080/osama2022/osama2023/47252
-#EXTINF:-1 tvg-id="1123" group-title="Jawwy", |JAW| iEN TV
+#EXTINF:-1 tvg-id="1124" group-title="Jawwy", |JAW| iEN TV
 http://red.ipfox.org:8080/osama2022/osama2023/47251
-#EXTINF:-1 tvg-id="1124" group-title="Jawwy", |JAW| iEN Doros 1
+#EXTINF:-1 tvg-id="1125" group-title="Jawwy", |JAW| iEN Doros 1
 http://red.ipfox.org:8080/osama2022/osama2023/47250
-#EXTINF:-1 tvg-id="1125" group-title="Jawwy", |JAW| iEN Doros 2
+#EXTINF:-1 tvg-id="1126" group-title="Jawwy", |JAW| iEN Doros 2
 http://red.ipfox.org:8080/osama2022/osama2023/47249
-#EXTINF:-1 tvg-id="1126" group-title="Jawwy", |JAW| iEN Doros 3
+#EXTINF:-1 tvg-id="1127" group-title="Jawwy", |JAW| iEN Doros 3
 http://red.ipfox.org:8080/osama2022/osama2023/47248
-#EXTINF:-1 tvg-id="1127" group-title="Jawwy", |JAW| iEN Doros 4
+#EXTINF:-1 tvg-id="1128" group-title="Jawwy", |JAW| iEN Doros 4
 http://red.ipfox.org:8080/osama2022/osama2023/47247
-#EXTINF:-1 tvg-id="1128" group-title="Jawwy", |JAW| iEN Doros 5
+#EXTINF:-1 tvg-id="1129" group-title="Jawwy", |JAW| iEN Doros 5
 http://red.ipfox.org:8080/osama2022/osama2023/47246
-#EXTINF:-1 tvg-id="1129" group-title="Jawwy", |JAW| iEN Doros 6
+#EXTINF:-1 tvg-id="1130" group-title="Jawwy", |JAW| iEN Doros 6
 http://red.ipfox.org:8080/osama2022/osama2023/47245
-#EXTINF:-1 tvg-id="1130" group-title="Jawwy", |JAW| iEN Doros 7
+#EXTINF:-1 tvg-id="1131" group-title="Jawwy", |JAW| iEN Doros 7
 http://red.ipfox.org:8080/osama2022/osama2023/47244
-#EXTINF:-1 tvg-id="1131" group-title="Jawwy", |JAW| iEN Doros 8
+#EXTINF:-1 tvg-id="1132" group-title="Jawwy", |JAW| iEN Doros 8
 http://red.ipfox.org:8080/osama2022/osama2023/47243
-#EXTINF:-1 tvg-id="1132" group-title="Jawwy", |JAW| iEN Doros 9
+#EXTINF:-1 tvg-id="1133" group-title="Jawwy", |JAW| iEN Doros 9
 http://red.ipfox.org:8080/osama2022/osama2023/47242
-#EXTINF:-1 tvg-id="1133" group-title="Jawwy", |JAW| iEN Doros 10
+#EXTINF:-1 tvg-id="1134" group-title="Jawwy", |JAW| iEN Doros 10
 http://red.ipfox.org:8080/osama2022/osama2023/47241
-#EXTINF:-1 tvg-id="1134" group-title="Jawwy", |JAW| iEN Doros 11
+#EXTINF:-1 tvg-id="1135" group-title="Jawwy", |JAW| iEN Doros 11
 http://red.ipfox.org:8080/osama2022/osama2023/47240
-#EXTINF:-1 tvg-id="1135" group-title="Jawwy", |JAW| iEN Doros 12
+#EXTINF:-1 tvg-id="1136" group-title="Jawwy", |JAW| iEN Doros 12
 http://red.ipfox.org:8080/osama2022/osama2023/47239
-#EXTINF:-1 tvg-id="1136" group-title="Jawwy", |JAW| iEN Doros 13
+#EXTINF:-1 tvg-id="1137" group-title="Jawwy", |JAW| iEN Doros 13
 http://red.ipfox.org:8080/osama2022/osama2023/47238
-#EXTINF:-1 tvg-id="1137" group-title="Jawwy", |JAW| iEN Doros 14
+#EXTINF:-1 tvg-id="1138" group-title="Jawwy", |JAW| iEN Doros 14
 http://red.ipfox.org:8080/osama2022/osama2023/47237
-#EXTINF:-1 tvg-id="1138" group-title="Jawwy", |JAW| iEN Doros 15
+#EXTINF:-1 tvg-id="1139" group-title="Jawwy", |JAW| iEN Doros 15
 http://red.ipfox.org:8080/osama2022/osama2023/47236
-#EXTINF:-1 tvg-id="1139" group-title="Jawwy", |JAW| iEN Doros 16
+#EXTINF:-1 tvg-id="1140" group-title="Jawwy", |JAW| iEN Doros 16
 http://red.ipfox.org:8080/osama2022/osama2023/47235
-#EXTINF:-1 tvg-id="1140" group-title="Jawwy", |JAW| iEN Doros 17
+#EXTINF:-1 tvg-id="1141" group-title="Jawwy", |JAW| iEN Doros 17
 http://red.ipfox.org:8080/osama2022/osama2023/47234
-#EXTINF:-1 tvg-id="1141" group-title="Jawwy", |JAW| iEN Doros 18
+#EXTINF:-1 tvg-id="1142" group-title="Jawwy", |JAW| iEN Doros 18
 http://red.ipfox.org:8080/osama2022/osama2023/47233
-#EXTINF:-1 tvg-id="1142" group-title="Jawwy", |JAW| iEN Doros 19
+#EXTINF:-1 tvg-id="1143" group-title="Jawwy", |JAW| iEN Doros 19
 http://red.ipfox.org:8080/osama2022/osama2023/47232
-#EXTINF:-1 tvg-id="1143" group-title="Jawwy", |JAW| DocuBox HD
+#EXTINF:-1 tvg-id="1144" group-title="Jawwy", |JAW| DocuBox HD
 http://red.ipfox.org:8080/osama2022/osama2023/47231
-#EXTINF:-1 tvg-id="1144" group-title="Jawwy", |JAW| Saudi Quran
+#EXTINF:-1 tvg-id="1145" group-title="Jawwy", |JAW| Saudi Quran
 http://red.ipfox.org:8080/osama2022/osama2023/47230
-#EXTINF:-1 tvg-id="1145" group-title="Jawwy", |JAW| Al Resalah
+#EXTINF:-1 tvg-id="1146" group-title="Jawwy", |JAW| Al Resalah
 http://red.ipfox.org:8080/osama2022/osama2023/47229
-#EXTINF:-1 tvg-id="1146" group-title="Jawwy", |JAW| Al Arabiya HD
+#EXTINF:-1 tvg-id="1147" group-title="Jawwy", |JAW| Al Arabiya HD
 http://red.ipfox.org:8080/osama2022/osama2023/47228
-#EXTINF:-1 tvg-id="1147" group-title="Jawwy", |JAW| Al Hadath
+#EXTINF:-1 tvg-id="1148" group-title="Jawwy", |JAW| Al Hadath
 http://red.ipfox.org:8080/osama2022/osama2023/47227
-#EXTINF:-1 tvg-id="1148" group-title="Jawwy", |JAW| Sky News Arabia HD
+#EXTINF:-1 tvg-id="1149" group-title="Jawwy", |JAW| Sky News Arabia HD
 http://red.ipfox.org:8080/osama2022/osama2023/47226
-#EXTINF:-1 tvg-id="1149" group-title="Jawwy", |JAW| Asharq
+#EXTINF:-1 tvg-id="1150" group-title="Jawwy", |JAW| Asharq
 http://red.ipfox.org:8080/osama2022/osama2023/47225
-#EXTINF:-1 tvg-id="1150" group-title="Jawwy", |JAW| CNN
+#EXTINF:-1 tvg-id="1151" group-title="Jawwy", |JAW| CNN
 http://red.ipfox.org:8080/osama2022/osama2023/47224
-#EXTINF:-1 tvg-id="1151" group-title="Jawwy", |JAW| Bloomberg
+#EXTINF:-1 tvg-id="1152" group-title="Jawwy", |JAW| Bloomberg
 http://red.ipfox.org:8080/osama2022/osama2023/47223
-#EXTINF:-1 tvg-id="1152" group-title="Jawwy", |JAW| CNBC
+#EXTINF:-1 tvg-id="1153" group-title="Jawwy", |JAW| CNBC
 http://red.ipfox.org:8080/osama2022/osama2023/47222
-#EXTINF:-1 tvg-id="1153" group-title="Jawwy", |JAW| Wanasah
+#EXTINF:-1 tvg-id="1154" group-title="Jawwy", |JAW| Wanasah
 http://red.ipfox.org:8080/osama2022/osama2023/47221
-#EXTINF:-1 tvg-id="1154" group-title="Jawwy", |JAW| Aghani Aghani
+#EXTINF:-1 tvg-id="1155" group-title="Jawwy", |JAW| Aghani Aghani
 http://red.ipfox.org:8080/osama2022/osama2023/47220
-#EXTINF:-1 tvg-id="1155" group-title="Jawwy", |JAW| One TV
+#EXTINF:-1 tvg-id="1156" group-title="Jawwy", |JAW| One TV
 http://red.ipfox.org:8080/osama2022/osama2023/47219
-#EXTINF:-1 tvg-id="1156" group-title="Jawwy", |JAW| Fight Network
+#EXTINF:-1 tvg-id="1157" group-title="Jawwy", |JAW| Fight Network
 http://red.ipfox.org:8080/osama2022/osama2023/47214
-#EXTINF:-1 tvg-id="1157" group-title="Jawwy", |JAW| Fight Box HD
+#EXTINF:-1 tvg-id="1158" group-title="Jawwy", |JAW| Fight Box HD
 http://red.ipfox.org:8080/osama2022/osama2023/47211
-#EXTINF:-1 tvg-id="1158" group-title="Jawwy", |JAW| Motorvision
+#EXTINF:-1 tvg-id="1159" group-title="Jawwy", |JAW| Motorvision
 http://red.ipfox.org:8080/osama2022/osama2023/47209
-#EXTINF:-1 tvg-id="1159" group-title="Jawwy", |JAW| Fast Fun Box HD
+#EXTINF:-1 tvg-id="1160" group-title="Jawwy", |JAW| Fast Fun Box HD
 http://red.ipfox.org:8080/osama2022/osama2023/47208
-#EXTINF:-1 tvg-id="1160" group-title="Jawwy", |JAW| Insight
+#EXTINF:-1 tvg-id="1161" group-title="Jawwy", |JAW| Insight
 http://red.ipfox.org:8080/osama2022/osama2023/47207
-#EXTINF:-1 tvg-id="1161" group-title="Jawwy", |JAW| Horse TV
+#EXTINF:-1 tvg-id="1162" group-title="Jawwy", |JAW| Horse TV
 http://red.ipfox.org:8080/osama2022/osama2023/47206
-#EXTINF:-1 tvg-id="1162" group-title="Jawwy", |JAW| Nautical TV
+#EXTINF:-1 tvg-id="1163" group-title="Jawwy", |JAW| Nautical TV
 http://red.ipfox.org:8080/osama2022/osama2023/47205
-#EXTINF:-1 tvg-id="1163" group-title="UAE", |AE| Dubai TV HD
+#EXTINF:-1 tvg-id="1164" group-title="UAE", |AE| Dubai TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/33772
-#EXTINF:-1 tvg-id="1164" group-title="UAE", |AE| Dubai Zaman
+#EXTINF:-1 tvg-id="1165" group-title="UAE", |AE| Dubai Zaman
 http://red.ipfox.org:8080/osama2022/osama2023/33773
-#EXTINF:-1 tvg-id="1165" group-title="UAE", |AE| Dubai One HD
+#EXTINF:-1 tvg-id="1166" group-title="UAE", |AE| Dubai One HD
 http://red.ipfox.org:8080/osama2022/osama2023/33774
-#EXTINF:-1 tvg-id="1166" group-title="UAE", |AE| Sama Dubai HD
+#EXTINF:-1 tvg-id="1167" group-title="UAE", |AE| Sama Dubai HD
 http://red.ipfox.org:8080/osama2022/osama2023/33775
-#EXTINF:-1 tvg-id="1167" group-title="UAE", |AE| Abu Dhabi TV HD
+#EXTINF:-1 tvg-id="1168" group-title="UAE", |AE| Abu Dhabi TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/33776
-#EXTINF:-1 tvg-id="1168" group-title="UAE", |AE| Emarat TV HD
+#EXTINF:-1 tvg-id="1169" group-title="UAE", |AE| Emarat TV HD
 http://red.ipfox.org:8080/osama2022/osama2023/33777
-#EXTINF:-1 tvg-id="1169" group-title="UAE", |AE| AD NAT GEO HD
+#EXTINF:-1 tvg-id="1170" group-title="UAE", |AE| AD NAT GEO HD
 http://red.ipfox.org:8080/osama2022/osama2023/33778
-#EXTINF:-1 tvg-id="1170" group-title="UAE", |AE| AD NAT GEO HD +4
+#EXTINF:-1 tvg-id="1171" group-title="UAE", |AE| AD NAT GEO HD +4
 http://red.ipfox.org:8080/osama2022/osama2023/33779
-#EXTINF:-1 tvg-id="1171" group-title="UAE", |AE| Abu Dhabi Drama HD
+#EXTINF:-1 tvg-id="1172" group-title="UAE", |AE| Abu Dhabi Drama HD
 http://red.ipfox.org:8080/osama2022/osama2023/33780
-#EXTINF:-1 tvg-id="1172" group-title="UAE", |AE| AJMAN HD
+#EXTINF:-1 tvg-id="1173" group-title="UAE", |AE| AJMAN HD
 http://red.ipfox.org:8080/osama2022/osama2023/33781
-#EXTINF:-1 tvg-id="1173" group-title="UAE", |AE| Alsharjah
+#EXTINF:-1 tvg-id="1174" group-title="UAE", |AE| Alsharjah
 http://red.ipfox.org:8080/osama2022/osama2023/33782
-#EXTINF:-1 tvg-id="1174" group-title="UAE", |AE| B4U Plus
+#EXTINF:-1 tvg-id="1175" group-title="UAE", |AE| B4U Plus
 http://red.ipfox.org:8080/osama2022/osama2023/33783
-#EXTINF:-1 tvg-id="1175" group-title="UAE", |AE| B4U Aflam
+#EXTINF:-1 tvg-id="1176" group-title="UAE", |AE| B4U Aflam
 http://red.ipfox.org:8080/osama2022/osama2023/33784
-#EXTINF:-1 tvg-id="1176" group-title="UAE", |AE| ZEE AFLAM
+#EXTINF:-1 tvg-id="1177" group-title="UAE", |AE| ZEE AFLAM
 http://red.ipfox.org:8080/osama2022/osama2023/33785
-#EXTINF:-1 tvg-id="1177" group-title="UAE", |AE| ZEE ALWAN
+#EXTINF:-1 tvg-id="1178" group-title="UAE", |AE| ZEE ALWAN
 http://red.ipfox.org:8080/osama2022/osama2023/33786
-#EXTINF:-1 tvg-id="1178" group-title="UAE", |AE| ALAAN
+#EXTINF:-1 tvg-id="1179" group-title="UAE", |AE| ALAAN
 http://red.ipfox.org:8080/osama2022/osama2023/33787
-#EXTINF:-1 tvg-id="1179" group-title="UAE", |AE| Wanasah TV
+#EXTINF:-1 tvg-id="1180" group-title="UAE", |AE| Wanasah TV
 http://red.ipfox.org:8080/osama2022/osama2023/33788
-#EXTINF:-1 tvg-id="1180" group-title="HBO", |RO| HBO HD
+#EXTINF:-1 tvg-id="1181" group-title="HBO", |RO| HBO HD
 http://red.ipfox.org:8080/osama2022/osama2023/48832
-#EXTINF:-1 tvg-id="1181" group-title="HBO", |RO| HBO 2 HD
+#EXTINF:-1 tvg-id="1182" group-title="HBO", |RO| HBO 2 HD
 http://red.ipfox.org:8080/osama2022/osama2023/48831
-#EXTINF:-1 tvg-id="1182" group-title="HBO", |RO| HBO 3 HD
+#EXTINF:-1 tvg-id="1183" group-title="HBO", |RO| HBO 3 HD
 http://red.ipfox.org:8080/osama2022/osama2023/48830
-#EXTINF:-1 tvg-id="1183" group-title="HBO", |BR| HBO SD
+#EXTINF:-1 tvg-id="1184" group-title="HBO", |BR| HBO SD
 http://red.ipfox.org:8080/osama2022/osama2023/17524
-#EXTINF:-1 tvg-id="1184" group-title="HBO", |BR| HBO HD
+#EXTINF:-1 tvg-id="1185" group-title="HBO", |BR| HBO HD
 http://red.ipfox.org:8080/osama2022/osama2023/17525
-#EXTINF:-1 tvg-id="1185" group-title="HBO", |BR| HBO 2 SD
+#EXTINF:-1 tvg-id="1186" group-title="HBO", |BR| HBO 2 SD
 http://red.ipfox.org:8080/osama2022/osama2023/17526
-#EXTINF:-1 tvg-id="1186" group-title="HBO", |BR| HBO 2 HD
+#EXTINF:-1 tvg-id="1187" group-title="HBO", |BR| HBO 2 HD
 http://red.ipfox.org:8080/osama2022/osama2023/17527
-#EXTINF:-1 tvg-id="1187" group-title="HBO", |BR| HBO FAMILY SD
+#EXTINF:-1 tvg-id="1188" group-title="HBO", |BR| HBO FAMILY SD
 http://red.ipfox.org:8080/osama2022/osama2023/17528
-#EXTINF:-1 tvg-id="1188" group-title="HBO", |BR| HBO FAMILY HD
+#EXTINF:-1 tvg-id="1189" group-title="HBO", |BR| HBO FAMILY HD
 http://red.ipfox.org:8080/osama2022/osama2023/17529
-#EXTINF:-1 tvg-id="1189" group-title="HBO", |BR| HBO PLUS SD
+#EXTINF:-1 tvg-id="1190" group-title="HBO", |BR| HBO PLUS SD
 http://red.ipfox.org:8080/osama2022/osama2023/17531
-#EXTINF:-1 tvg-id="1190" group-title="HBO", |BR| HBO PLUS HD
+#EXTINF:-1 tvg-id="1191" group-title="HBO", |BR| HBO PLUS HD
 http://red.ipfox.org:8080/osama2022/osama2023/17532
-#EXTINF:-1 tvg-id="1191" group-title="HBO", |BR| HBO SIGNATURE SD
+#EXTINF:-1 tvg-id="1192" group-title="HBO", |BR| HBO SIGNATURE SD
 http://red.ipfox.org:8080/osama2022/osama2023/17533
-#EXTINF:-1 tvg-id="1192" group-title="HBO", |BR| HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="1193" group-title="HBO", |BR| HBO SIGNATURE HD
 http://red.ipfox.org:8080/osama2022/osama2023/17534
-#EXTINF:-1 tvg-id="1193" group-title="HBO", |EXYU| HBO 2
+#EXTINF:-1 tvg-id="1194" group-title="HBO", |EXYU| HBO 2
 http://red.ipfox.org:8080/osama2022/osama2023/26400
-#EXTINF:-1 tvg-id="1194" group-title="HBO", |EXYU| HBO 3
+#EXTINF:-1 tvg-id="1195" group-title="HBO", |EXYU| HBO 3
 http://red.ipfox.org:8080/osama2022/osama2023/26399
-#EXTINF:-1 tvg-id="1195" group-title="HBO", |PL| HBO
+#EXTINF:-1 tvg-id="1196" group-title="HBO", |PL| HBO
 http://red.ipfox.org:8080/osama2022/osama2023/28030
-#EXTINF:-1 tvg-id="1196" group-title="HBO", |PL| HBO 2
+#EXTINF:-1 tvg-id="1197" group-title="HBO", |PL| HBO 2
 http://red.ipfox.org:8080/osama2022/osama2023/28029
-#EXTINF:-1 tvg-id="1197" group-title="HBO", |PL| HBO 3
+#EXTINF:-1 tvg-id="1198" group-title="HBO", |PL| HBO 3
 http://red.ipfox.org:8080/osama2022/osama2023/28028
-#EXTINF:-1 tvg-id="1198" group-title="HBO", |US| HBO 1
+#EXTINF:-1 tvg-id="1199" group-title="HBO", |US| HBO 1
 http://red.ipfox.org:8080/osama2022/osama2023/27366
-#EXTINF:-1 tvg-id="1199" group-title="HBO", |US| HBO 2
+#EXTINF:-1 tvg-id="1200" group-title="HBO", |US| HBO 2
 http://red.ipfox.org:8080/osama2022/osama2023/27365
-#EXTINF:-1 tvg-id="1200" group-title="HBO", |US| HBO Zone
+#EXTINF:-1 tvg-id="1201" group-title="HBO", |US| HBO Zone
 http://red.ipfox.org:8080/osama2022/osama2023/27364
-#EXTINF:-1 tvg-id="1201" group-title="HBO", |US| HBO Signature
+#EXTINF:-1 tvg-id="1202" group-title="HBO", |US| HBO Signature
 http://red.ipfox.org:8080/osama2022/osama2023/27363
-#EXTINF:-1 tvg-id="1202" group-title="HBO", |US| HBO Comedy
+#EXTINF:-1 tvg-id="1203" group-title="HBO", |US| HBO Comedy
 http://red.ipfox.org:8080/osama2022/osama2023/27362
-#EXTINF:-1 tvg-id="1203" group-title="HBO", |US| HBO Family
+#EXTINF:-1 tvg-id="1204" group-title="HBO", |US| HBO Family
 http://red.ipfox.org:8080/osama2022/osama2023/27361
-#EXTINF:-1 tvg-id="1204" group-title="HBO", |Latin| HBO Latino FHD
+#EXTINF:-1 tvg-id="1205" group-title="HBO", |Latin| HBO Latino FHD
 http://red.ipfox.org:8080/osama2022/osama2023/24385
-#EXTINF:-1 tvg-id="1205" group-title="HBO", |Latin| HBO Latino HD
+#EXTINF:-1 tvg-id="1206" group-title="HBO", |Latin| HBO Latino HD
 http://red.ipfox.org:8080/osama2022/osama2023/24440
-#EXTINF:-1 tvg-id="1206" group-title="Saudi", |SA| Iqraa TV
+#EXTINF:-1 tvg-id="1207" group-title="Saudi", |SA| Iqraa TV
 http://red.ipfox.org:8080/osama2022/osama2023/33204
-#EXTINF:-1 tvg-id="1207" group-title="Saudi", |SA| Saudi 1
+#EXTINF:-1 tvg-id="1208" group-title="Saudi", |SA| Saudi 1
 http://red.ipfox.org:8080/osama2022/osama2023/33205
-#EXTINF:-1 tvg-id="1208" group-title="Saudi", |SA| Saudi Quran
+#EXTINF:-1 tvg-id="1209" group-title="Saudi", |SA| Saudi Quran
 http://red.ipfox.org:8080/osama2022/osama2023/33206
-#EXTINF:-1 tvg-id="1209" group-title="Saudi", |SA| Saudi Sunnah
+#EXTINF:-1 tvg-id="1210" group-title="Saudi", |SA| Saudi Sunnah
 http://red.ipfox.org:8080/osama2022/osama2023/33207
-#EXTINF:-1 tvg-id="1210" group-title="Saudi", |SA| Saudi AlEKhbaria
+#EXTINF:-1 tvg-id="1211" group-title="Saudi", |SA| Saudi AlEKhbaria
 http://red.ipfox.org:8080/osama2022/osama2023/33208
-#EXTINF:-1 tvg-id="1211" group-title="Saudi", |SA| Saudi Thikrayat
+#EXTINF:-1 tvg-id="1212" group-title="Saudi", |SA| Saudi Thikrayat
 http://red.ipfox.org:8080/osama2022/osama2023/33209
-#EXTINF:-1 tvg-id="1212" group-title="Saudi", |SA| SAUDI 24
+#EXTINF:-1 tvg-id="1213" group-title="Saudi", |SA| SAUDI 24
 http://red.ipfox.org:8080/osama2022/osama2023/33213
-#EXTINF:-1 tvg-id="1213" group-title="Saudi", |SA| SBC
+#EXTINF:-1 tvg-id="1214" group-title="Saudi", |SA| SBC
 http://red.ipfox.org:8080/osama2022/osama2023/33214
-#EXTINF:-1 tvg-id="1214" group-title="Saudi", |SA| Mecca TV
+#EXTINF:-1 tvg-id="1215" group-title="Saudi", |SA| Mecca TV
 http://red.ipfox.org:8080/osama2022/osama2023/33215
-#EXTINF:-1 tvg-id="1215" group-title="Saudi", |SA| Al Sahra
+#EXTINF:-1 tvg-id="1216" group-title="Saudi", |SA| Al Sahra
 http://red.ipfox.org:8080/osama2022/osama2023/33216
