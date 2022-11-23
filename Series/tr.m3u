@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="ep-8.mp4" group-title="مسلسل حكاية خرافية", ep-8.mp4
-http://77.223.235.90:81/series/turkish/75/ep-8.mp4
+#EXTINF:-1 tvg-id="1" group-title="مسلسل حكاية خرافية", ep-8.mp4
+http://77.223.235.90:81/series/turkish/BirPeriMasali/ep-8.mp4
 #EXTINF:-1 tvg-id="2" tvg-name="ep-18.mp4" group-title="مسلسل لتأتي الحياة كما تشاء", ep-18.mp4
-http://77.223.235.90:81/series/turkish/l7kt/ep-18.mp4
+http://77.223.235.90:81/series/turkish/GelsinHayatBildigiGibi/ep-18.mp4
 #EXTINF:-1 tvg-id="3" tvg-name="ep-01.ts" group-title="مسلسل أجمل منك", ep-01.ts
 http://77.223.235.90:81/series/turkish/SendenDahaGuzel/ep-01.ts
 #EXTINF:-1 tvg-id="4" tvg-name="ep-02.ts" group-title="مسلسل أجمل منك", ep-02.ts
