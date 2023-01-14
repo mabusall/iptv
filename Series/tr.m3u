@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="ep-24" group-title="مسلسل لتاتي الحياة كما تشاء", ep-24
-http://79.170.125.218:81/series/turkish/GelsinHayatBildigiGibi/ep-24.mp4
+#EXTINF:-1 tvg-id="1" tvg-name="ep-25" group-title="مسلسل لتاتي الحياة كما تشاء", ep-25
+http://79.170.125.218:81/series/turkish/GelsinHayatBildigiGibi/ep-25.mp4
 #EXTINF:-1 tvg-id="2" tvg-name="s1-ep01" group-title="مسلسل إمرأة", s1-ep01
 http://79.170.125.218:81/series/turkish/Kadin/s1-ep01.mp4
 #EXTINF:-1 tvg-id="3" tvg-name="s1-ep02" group-title="مسلسل إمرأة", s1-ep02
@@ -143,3 +143,23 @@ http://79.170.125.218:81/series/turkish/Kadin/s3-ep69.mp4
 http://79.170.125.218:81/series/turkish/Kadin/s3-ep70.mp4
 #EXTINF:-1 tvg-id="72" tvg-name="s3-ep71" group-title="مسلسل إمرأة", s3-ep71
 http://79.170.125.218:81/series/turkish/Kadin/s3-ep71.mp4
+#EXTINF:-1 tvg-id="73" tvg-name="s3-ep72" group-title="مسلسل إمرأة", s3-ep72
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep72.mp4
+#EXTINF:-1 tvg-id="74" tvg-name="s3-ep73" group-title="مسلسل إمرأة", s3-ep73
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep73.mp4
+#EXTINF:-1 tvg-id="75" tvg-name="s3-ep74" group-title="مسلسل إمرأة", s3-ep74
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep74.mp4
+#EXTINF:-1 tvg-id="76" tvg-name="s3-ep75" group-title="مسلسل إمرأة", s3-ep75
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep75.mp4
+#EXTINF:-1 tvg-id="77" tvg-name="s3-ep76" group-title="مسلسل إمرأة", s3-ep76
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep76.mp4
+#EXTINF:-1 tvg-id="78" tvg-name="s3-ep77" group-title="مسلسل إمرأة", s3-ep77
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep77.mp4
+#EXTINF:-1 tvg-id="79" tvg-name="s3-ep78" group-title="مسلسل إمرأة", s3-ep78
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep78.mp4
+#EXTINF:-1 tvg-id="80" tvg-name="s3-ep79" group-title="مسلسل إمرأة", s3-ep79
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep79.mp4
+#EXTINF:-1 tvg-id="81" tvg-name="s3-ep80" group-title="مسلسل إمرأة", s3-ep80
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep80.mp4
+#EXTINF:-1 tvg-id="82" tvg-name="s3-ep81" group-title="مسلسل إمرأة", s3-ep81
+http://79.170.125.218:81/series/turkish/Kadin/s3-ep81.mp4
