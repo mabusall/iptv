@@ -1,67 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="ep-25" group-title="مسلسل لتاتي الحياة كما تشاء", ep-25
-http://77.232.115.116:81/series/turkish/GelsinHayatBildigiGibi/ep-25.mp4
-#EXTINF:-1 tvg-id="2" tvg-name="s2-ep50" group-title="مسلسل إمرأة", s2-ep50
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep50.mp4
-#EXTINF:-1 tvg-id="3" tvg-name="s2-ep51" group-title="مسلسل إمرأة", s2-ep51
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep51.mp4
-#EXTINF:-1 tvg-id="4" tvg-name="s2-ep52" group-title="مسلسل إمرأة", s2-ep52
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep52.mp4
-#EXTINF:-1 tvg-id="5" tvg-name="s2-ep53" group-title="مسلسل إمرأة", s2-ep53
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep53.mp4
-#EXTINF:-1 tvg-id="6" tvg-name="s2-ep54" group-title="مسلسل إمرأة", s2-ep54
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep54.mp4
-#EXTINF:-1 tvg-id="7" tvg-name="s2-ep55" group-title="مسلسل إمرأة", s2-ep55
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep55.mp4
-#EXTINF:-1 tvg-id="8" tvg-name="s2-ep56" group-title="مسلسل إمرأة", s2-ep56
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep56.mp4
-#EXTINF:-1 tvg-id="9" tvg-name="s2-ep57" group-title="مسلسل إمرأة", s2-ep57
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep57.mp4
-#EXTINF:-1 tvg-id="10" tvg-name="s2-ep58" group-title="مسلسل إمرأة", s2-ep58
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep58.mp4
-#EXTINF:-1 tvg-id="11" tvg-name="s2-ep59" group-title="مسلسل إمرأة", s2-ep59
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep59.mp4
-#EXTINF:-1 tvg-id="12" tvg-name="s2-ep60" group-title="مسلسل إمرأة", s2-ep60
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep60.mp4
-#EXTINF:-1 tvg-id="13" tvg-name="s2-ep61" group-title="مسلسل إمرأة", s2-ep61
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep61.mp4
-#EXTINF:-1 tvg-id="14" tvg-name="s2-ep62" group-title="مسلسل إمرأة", s2-ep62
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep62.mp4
-#EXTINF:-1 tvg-id="15" tvg-name="s2-ep63" group-title="مسلسل إمرأة", s2-ep63
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep63.mp4
-#EXTINF:-1 tvg-id="16" tvg-name="s2-ep64" group-title="مسلسل إمرأة", s2-ep64
-http://77.232.115.116:81/series/turkish/Kadin/s2-ep64.mp4
-#EXTINF:-1 tvg-id="17" tvg-name="s3-ep65" group-title="مسلسل إمرأة", s3-ep65
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep65.mp4
-#EXTINF:-1 tvg-id="18" tvg-name="s3-ep66" group-title="مسلسل إمرأة", s3-ep66
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep66.mp4
-#EXTINF:-1 tvg-id="19" tvg-name="s3-ep67" group-title="مسلسل إمرأة", s3-ep67
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep67.mp4
-#EXTINF:-1 tvg-id="20" tvg-name="s3-ep68" group-title="مسلسل إمرأة", s3-ep68
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep68.mp4
-#EXTINF:-1 tvg-id="21" tvg-name="s3-ep69" group-title="مسلسل إمرأة", s3-ep69
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep69.mp4
-#EXTINF:-1 tvg-id="22" tvg-name="s3-ep70" group-title="مسلسل إمرأة", s3-ep70
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep70.mp4
-#EXTINF:-1 tvg-id="23" tvg-name="s3-ep71" group-title="مسلسل إمرأة", s3-ep71
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep71.mp4
-#EXTINF:-1 tvg-id="24" tvg-name="s3-ep72" group-title="مسلسل إمرأة", s3-ep72
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep72.mp4
-#EXTINF:-1 tvg-id="25" tvg-name="s3-ep73" group-title="مسلسل إمرأة", s3-ep73
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep73.mp4
-#EXTINF:-1 tvg-id="26" tvg-name="s3-ep74" group-title="مسلسل إمرأة", s3-ep74
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep74.mp4
-#EXTINF:-1 tvg-id="27" tvg-name="s3-ep75" group-title="مسلسل إمرأة", s3-ep75
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep75.mp4
-#EXTINF:-1 tvg-id="28" tvg-name="s3-ep76" group-title="مسلسل إمرأة", s3-ep76
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep76.mp4
-#EXTINF:-1 tvg-id="29" tvg-name="s3-ep77" group-title="مسلسل إمرأة", s3-ep77
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep77.mp4
-#EXTINF:-1 tvg-id="30" tvg-name="s3-ep78" group-title="مسلسل إمرأة", s3-ep78
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep78.mp4
-#EXTINF:-1 tvg-id="31" tvg-name="s3-ep79" group-title="مسلسل إمرأة", s3-ep79
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep79.mp4
-#EXTINF:-1 tvg-id="32" tvg-name="s3-ep80" group-title="مسلسل إمرأة", s3-ep80
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep80.mp4
-#EXTINF:-1 tvg-id="33" tvg-name="s3-ep81" group-title="مسلسل إمرأة", s3-ep81
-http://77.232.115.116:81/series/turkish/Kadin/s3-ep81.mp4
+http://79.170.121.8:81/series/turkish/GelsinHayatBildigiGibi/ep-25.mp4
+#EXTINF:-1 tvg-id="2" tvg-name="s2-ep58" group-title="مسلسل إمرأة", s2-ep58
+http://79.170.121.8:81/series/turkish/Kadin/s2-ep58.mp4
+#EXTINF:-1 tvg-id="3" tvg-name="s2-ep59" group-title="مسلسل إمرأة", s2-ep59
+http://79.170.121.8:81/series/turkish/Kadin/s2-ep59.mp4
+#EXTINF:-1 tvg-id="4" tvg-name="s2-ep60" group-title="مسلسل إمرأة", s2-ep60
+http://79.170.121.8:81/series/turkish/Kadin/s2-ep60.mp4
+#EXTINF:-1 tvg-id="5" tvg-name="s2-ep61" group-title="مسلسل إمرأة", s2-ep61
+http://79.170.121.8:81/series/turkish/Kadin/s2-ep61.mp4
+#EXTINF:-1 tvg-id="6" tvg-name="s2-ep62" group-title="مسلسل إمرأة", s2-ep62
+http://79.170.121.8:81/series/turkish/Kadin/s2-ep62.mp4
+#EXTINF:-1 tvg-id="7" tvg-name="s2-ep63" group-title="مسلسل إمرأة", s2-ep63
+http://79.170.121.8:81/series/turkish/Kadin/s2-ep63.mp4
+#EXTINF:-1 tvg-id="8" tvg-name="s2-ep64" group-title="مسلسل إمرأة", s2-ep64
+http://79.170.121.8:81/series/turkish/Kadin/s2-ep64.mp4
+#EXTINF:-1 tvg-id="9" tvg-name="s3-ep65" group-title="مسلسل إمرأة", s3-ep65
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep65.mp4
+#EXTINF:-1 tvg-id="10" tvg-name="s3-ep66" group-title="مسلسل إمرأة", s3-ep66
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep66.mp4
+#EXTINF:-1 tvg-id="11" tvg-name="s3-ep67" group-title="مسلسل إمرأة", s3-ep67
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep67.mp4
+#EXTINF:-1 tvg-id="12" tvg-name="s3-ep68" group-title="مسلسل إمرأة", s3-ep68
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep68.mp4
+#EXTINF:-1 tvg-id="13" tvg-name="s3-ep69" group-title="مسلسل إمرأة", s3-ep69
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep69.mp4
+#EXTINF:-1 tvg-id="14" tvg-name="s3-ep70" group-title="مسلسل إمرأة", s3-ep70
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep70.mp4
+#EXTINF:-1 tvg-id="15" tvg-name="s3-ep71" group-title="مسلسل إمرأة", s3-ep71
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep71.mp4
+#EXTINF:-1 tvg-id="16" tvg-name="s3-ep72" group-title="مسلسل إمرأة", s3-ep72
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep72.mp4
+#EXTINF:-1 tvg-id="17" tvg-name="s3-ep73" group-title="مسلسل إمرأة", s3-ep73
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep73.mp4
+#EXTINF:-1 tvg-id="18" tvg-name="s3-ep74" group-title="مسلسل إمرأة", s3-ep74
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep74.mp4
+#EXTINF:-1 tvg-id="19" tvg-name="s3-ep75" group-title="مسلسل إمرأة", s3-ep75
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep75.mp4
+#EXTINF:-1 tvg-id="20" tvg-name="s3-ep76" group-title="مسلسل إمرأة", s3-ep76
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep76.mp4
+#EXTINF:-1 tvg-id="21" tvg-name="s3-ep77" group-title="مسلسل إمرأة", s3-ep77
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep77.mp4
+#EXTINF:-1 tvg-id="22" tvg-name="s3-ep78" group-title="مسلسل إمرأة", s3-ep78
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep78.mp4
+#EXTINF:-1 tvg-id="23" tvg-name="s3-ep79" group-title="مسلسل إمرأة", s3-ep79
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep79.mp4
+#EXTINF:-1 tvg-id="24" tvg-name="s3-ep80" group-title="مسلسل إمرأة", s3-ep80
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep80.mp4
+#EXTINF:-1 tvg-id="25" tvg-name="s3-ep81" group-title="مسلسل إمرأة", s3-ep81
+http://79.170.121.8:81/series/turkish/Kadin/s3-ep81.mp4
