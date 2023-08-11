@@ -1,13 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="ep-01" group-title="على مشارف الليل", ep-01
-http://77.223.237.130:98/series/turkish/Gecenin%20Ucunda/ep-01.ts
-#EXTINF:-1 tvg-id="2" tvg-name="ep-02" group-title="على مشارف الليل", ep-02
-http://77.223.237.130:98/series/turkish/Gecenin%20Ucunda/ep-02.ts
-#EXTINF:-1 tvg-id="3" tvg-name="ep-03" group-title="على مشارف الليل", ep-03
-http://77.223.237.130:98/series/turkish/Gecenin%20Ucunda/ep-03.ts
-#EXTINF:-1 tvg-id="4" tvg-name="ep-04" group-title="على مشارف الليل", ep-04
-http://77.223.237.130:98/series/turkish/Gecenin%20Ucunda/ep-04.ts
-#EXTINF:-1 tvg-id="5" tvg-name="ep-05" group-title="على مشارف الليل", ep-05
-http://77.223.237.130:98/series/turkish/Gecenin%20Ucunda/ep-05.ts
-#EXTINF:-1 tvg-id="6" tvg-name="ep-06" group-title="على مشارف الليل", ep-06
-http://77.223.237.130:98/series/turkish/Gecenin%20Ucunda/ep-06.ts
+#EXTINF:-1 tvg-id="1" tvg-name="ep01" group-title="مسلسل كل ما يخص الزواج", ep01
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep01.mp4
+#EXTINF:-1 tvg-id="2" tvg-name="ep02" group-title="مسلسل كل ما يخص الزواج", ep02
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep02.mp4
+#EXTINF:-1 tvg-id="3" tvg-name="ep03" group-title="مسلسل كل ما يخص الزواج", ep03
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep03.ts
+#EXTINF:-1 tvg-id="4" tvg-name="ep04" group-title="مسلسل كل ما يخص الزواج", ep04
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep04.mp4
+#EXTINF:-1 tvg-id="5" tvg-name="ep05" group-title="مسلسل كل ما يخص الزواج", ep05
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep05.ts
+#EXTINF:-1 tvg-id="6" tvg-name="ep06" group-title="مسلسل كل ما يخص الزواج", ep06
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep06.mp4
+#EXTINF:-1 tvg-id="7" tvg-name="ep07" group-title="مسلسل كل ما يخص الزواج", ep07
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep07.mp4
+#EXTINF:-1 tvg-id="8" tvg-name="ep08" group-title="مسلسل كل ما يخص الزواج", ep08
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep08.ts
+#EXTINF:-1 tvg-id="9" tvg-name="ep09" group-title="مسلسل كل ما يخص الزواج", ep09
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep09.ts
+#EXTINF:-1 tvg-id="10" tvg-name="ep10" group-title="مسلسل كل ما يخص الزواج", ep10
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep10.mp4
+#EXTINF:-1 tvg-id="11" tvg-name="ep11" group-title="مسلسل كل ما يخص الزواج", ep11
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep11.ts
+#EXTINF:-1 tvg-id="12" tvg-name="ep12" group-title="مسلسل كل ما يخص الزواج", ep12
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep12.ts
+#EXTINF:-1 tvg-id="13" tvg-name="ep13" group-title="مسلسل كل ما يخص الزواج", ep13
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep13.ts
+#EXTINF:-1 tvg-id="14" tvg-name="ep14" group-title="مسلسل كل ما يخص الزواج", ep14
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep14.ts
+#EXTINF:-1 tvg-id="15" tvg-name="ep15" group-title="مسلسل كل ما يخص الزواج", ep15
+http://93.178.27.74:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%84%20%D9%85%D8%A7%20%D9%8A%D8%AE%D8%B5%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC/ep15.mp4
