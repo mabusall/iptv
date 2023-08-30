@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="ep10" group-title="مسلسل اسمي فرح", ep10
-http://79.139.79.252:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D8%B3%D9%85%D9%8A%20%D9%81%D8%B1%D8%AD/ep10.mp4
-#EXTINF:-1 tvg-id="2" tvg-name="ep11" group-title="مسلسل اسمي فرح", ep11
-http://79.139.79.252:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D8%B3%D9%85%D9%8A%20%D9%81%D8%B1%D8%AD/ep11.mp4
-#EXTINF:-1 tvg-id="3" tvg-name="ep12" group-title="مسلسل اسمي فرح", ep12
+#EXTINF:-1 tvg-id="1" tvg-name="ep12" group-title="مسلسل اسمي فرح", ep12
 http://79.139.79.252:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D8%B3%D9%85%D9%8A%20%D9%81%D8%B1%D8%AD/ep12.mp4
-#EXTINF:-1 tvg-id="4" tvg-name="ep13" group-title="مسلسل اسمي فرح", ep13
+#EXTINF:-1 tvg-id="2" tvg-name="ep13" group-title="مسلسل اسمي فرح", ep13
 http://79.139.79.252:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D8%B3%D9%85%D9%8A%20%D9%81%D8%B1%D8%AD/ep13.mp4
-#EXTINF:-1 tvg-id="5" tvg-name="ep14" group-title="مسلسل اسمي فرح", ep14
+#EXTINF:-1 tvg-id="3" tvg-name="ep14" group-title="مسلسل اسمي فرح", ep14
 http://79.139.79.252:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D8%B3%D9%85%D9%8A%20%D9%81%D8%B1%D8%AD/ep14.mp4
