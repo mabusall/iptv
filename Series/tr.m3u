@@ -3,11 +3,9 @@
 http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep01.mp4
 #EXTINF:-1 tvg-id="2" tvg-name="ep02" group-title="مسلسل الضيف", ep02
 http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep02.mp4
-#EXTINF:-1 tvg-id="3" tvg-name="ep02" group-title="مسلسل الضيف", ep02
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep02.ts
-#EXTINF:-1 tvg-id="4" tvg-name="ep03" group-title="مسلسل الضيف", ep03
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep03.ts
-#EXTINF:-1 tvg-id="5" tvg-name="ep04" group-title="مسلسل الضيف", ep04
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep04.ts
-#EXTINF:-1 tvg-id="6" tvg-name="ep05" group-title="مسلسل الضيف", ep05
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep05.ts
+#EXTINF:-1 tvg-id="3" tvg-name="ep03" group-title="مسلسل الضيف", ep03
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep03.mp4
+#EXTINF:-1 tvg-id="4" tvg-name="ep04" group-title="مسلسل الضيف", ep04
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep04.mp4
+#EXTINF:-1 tvg-id="5" tvg-name="ep05" group-title="مسلسل الضيف", ep05
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep05.mp4
