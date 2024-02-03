@@ -1,27 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="ep25" group-title="مسلسل اسمي فرح", ep25
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D8%B3%D9%85%D9%8A%20%D9%81%D8%B1%D8%AD/ep25.mp4
-#EXTINF:-1 tvg-id="2" tvg-name="ep26" group-title="مسلسل اسمي فرح", ep26
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D8%B3%D9%85%D9%8A%20%D9%81%D8%B1%D8%AD/ep26.mp4
-#EXTINF:-1 tvg-id="3" tvg-name="ep27" group-title="مسلسل اسمي فرح", ep27
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D8%B3%D9%85%D9%8A%20%D9%81%D8%B1%D8%AD/ep27.mp4
-#EXTINF:-1 tvg-id="4" tvg-name="ep19" group-title="مسلسل العائلة", ep19
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep19.mp4
-#EXTINF:-1 tvg-id="5" tvg-name="ep20" group-title="مسلسل العائلة", ep20
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep20.mp4
-#EXTINF:-1 tvg-id="6" tvg-name="ep21" group-title="مسلسل العائلة", ep21
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep21.mp4
-#EXTINF:-1 tvg-id="7" tvg-name="ep22" group-title="مسلسل العائلة", ep22
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep22.mp4
-#EXTINF:-1 tvg-id="8" tvg-name="ep23" group-title="مسلسل العائلة", ep23
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep23.mp4
-#EXTINF:-1 tvg-id="9" tvg-name="ep24" group-title="مسلسل العائلة", ep24
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep24.mp4
-#EXTINF:-1 tvg-id="10" tvg-name="ep25" group-title="مسلسل العائلة", ep25
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep25.mp4
-#EXTINF:-1 tvg-id="11" tvg-name="ep26" group-title="مسلسل العائلة", ep26
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep26.mp4
-#EXTINF:-1 tvg-id="12" tvg-name="ep27" group-title="مسلسل العائلة", ep27
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep27.mp4
-#EXTINF:-1 tvg-id="13" tvg-name="ep28" group-title="مسلسل العائلة", ep28
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9/ep28.mp4
+#EXTINF:-1 tvg-id="1" tvg-name="ep01" group-title="مسلسل الضيف", ep01
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep01.mp4
+#EXTINF:-1 tvg-id="2" tvg-name="ep02" group-title="مسلسل الضيف", ep02
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep02.mp4
+#EXTINF:-1 tvg-id="3" tvg-name="ep02" group-title="مسلسل الضيف", ep02
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep02.ts
+#EXTINF:-1 tvg-id="4" tvg-name="ep03" group-title="مسلسل الضيف", ep03
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep03.ts
+#EXTINF:-1 tvg-id="5" tvg-name="ep04" group-title="مسلسل الضيف", ep04
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep04.ts
+#EXTINF:-1 tvg-id="6" tvg-name="ep05" group-title="مسلسل الضيف", ep05
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B6%D9%8A%D9%81/ep05.ts
