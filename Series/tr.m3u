@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep01" group-title="مسلسل جول جمال", ep01
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep01.mp4
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep02" group-title="مسلسل جول جمال", ep02
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep02.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep03" group-title="مسلسل جول جمال", ep03
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep03.mp4
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep04" group-title="مسلسل جول جمال", ep04
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep04.mp4
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep05" group-title="مسلسل جول جمال", ep05
-http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep05.mp4
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep06" group-title="مسلسل جول جمال", ep06
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep06.mp4
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep07" group-title="مسلسل جول جمال", ep07
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep07.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep08" group-title="مسلسل جول جمال", ep08
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep08.mp4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/Ybbw6Qp/image.jpg" tvg-name="ep09" group-title="مسلسل جول جمال", ep09
+http://93.178.29.55:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep09.mp4
