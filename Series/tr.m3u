@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/XZYNc4v/6b1e61503837.jpg" tvg-name="ep23" group-title="مسلسل حب بلا حدود", ep23
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep23.mp4
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/XZYNc4v/6b1e61503837.jpg" tvg-name="ep24" group-title="مسلسل حب بلا حدود", ep24
+http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep24.mp4
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/0h4gshW/image.jpg" tvg-name="ep12" group-title="مسلسل حجر الأمنيات", ep12
 http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%AC%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A7%D8%AA/ep12.mp4
-#EXTINF:-1 tvg-id="3" tvg-name="ep01" group-title="مسلسل كم من السفن أحرقت", ep01
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%85%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%81%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%D8%AA/ep01.mp4
-#EXTINF:-1 tvg-id="4" tvg-name="ep02" group-title="مسلسل كم من السفن أحرقت", ep02
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%85%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%81%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%D8%AA/ep02.mp4
-#EXTINF:-1 tvg-id="5" tvg-name="ep03" group-title="مسلسل كم من السفن أحرقت", ep03
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%85%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%81%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%D8%AA/ep03.mp4
-#EXTINF:-1 tvg-id="6" tvg-name="ep04" group-title="مسلسل كم من السفن أحرقت", ep04
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%85%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%81%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%D8%AA/ep04.mp4
-#EXTINF:-1 tvg-id="7" tvg-name="ep05" group-title="مسلسل كم من السفن أحرقت", ep05
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%85%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%81%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%D8%AA/ep05.mp4
-#EXTINF:-1 tvg-id="8" tvg-name="ep06" group-title="مسلسل كم من السفن أحرقت", ep06
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%85%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%81%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%D8%AA/ep06.mp4
-#EXTINF:-1 tvg-id="9" tvg-name="ep07" group-title="مسلسل كم من السفن أحرقت", ep07
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%85%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%81%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%D8%AA/ep07.mp4
-#EXTINF:-1 tvg-id="10" tvg-name="ep08" group-title="مسلسل كم من السفن أحرقت", ep08
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%83%D9%85%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%81%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%D8%AA/ep08.mp4
