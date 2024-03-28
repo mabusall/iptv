@@ -1,27 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/XZYNc4v/6b1e61503837.jpg" tvg-name="ep25" group-title="مسلسل حب بلا حدود", ep25
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep25.mp4
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep25.mp4
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/0h4gshW/image.jpg" tvg-name="ep12" group-title="مسلسل حجر الأمنيات", ep12
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%AC%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A7%D8%AA/ep12.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep11" group-title="مسلسل حياتي الرائعة", ep11
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep11.mp4
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep12" group-title="مسلسل حياتي الرائعة", ep12
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep12.mp4
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep13" group-title="مسلسل حياتي الرائعة", ep13
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep13.mp4
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep14" group-title="مسلسل حياتي الرائعة", ep14
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep14.mp4
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep15" group-title="مسلسل حياتي الرائعة", ep15
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep15.mp4
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep16" group-title="مسلسل حياتي الرائعة", ep16
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep16.mp4
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep17" group-title="مسلسل حياتي الرائعة", ep17
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep17.mp4
-#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep18" group-title="مسلسل حياتي الرائعة", ep18
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep18.mp4
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep19" group-title="مسلسل حياتي الرائعة", ep19
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep19.mp4
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep20" group-title="مسلسل حياتي الرائعة", ep20
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep20.mp4
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.ibb.co/bFRwM5D/7a17e57d293b.png" tvg-name="ep21" group-title="مسلسل خبئني", ep21
-http://79.139.79.200:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AE%D8%A8%D8%A6%D9%86%D9%8A/ep21.mp4
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%AC%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A7%D8%AA/ep12.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep13" group-title="مسلسل حياتي الرائعة", ep13
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep13.mp4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep14" group-title="مسلسل حياتي الرائعة", ep14
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep14.mp4
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep15" group-title="مسلسل حياتي الرائعة", ep15
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep15.mp4
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep16" group-title="مسلسل حياتي الرائعة", ep16
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep16.mp4
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep17" group-title="مسلسل حياتي الرائعة", ep17
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep17.mp4
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep18" group-title="مسلسل حياتي الرائعة", ep18
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep18.mp4
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep19" group-title="مسلسل حياتي الرائعة", ep19
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep19.mp4
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep20" group-title="مسلسل حياتي الرائعة", ep20
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep20.mp4
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.ibb.co/bFRwM5D/7a17e57d293b.png" tvg-name="ep21" group-title="مسلسل خبئني", ep21
+http://93.178.18.17:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AE%D8%A8%D8%A6%D9%86%D9%8A/ep21.mp4
