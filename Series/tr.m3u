@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/XZYNc4v/6b1e61503837.jpg" tvg-name="ep28" group-title="مسلسل حب بلا حدود", ep28
 http://93.178.33.225:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep28.mp4
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/0h4gshW/image.jpg" tvg-name="ep12" group-title="مسلسل حجر الأمنيات", ep12
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/XZYNc4v/6b1e61503837.jpg" tvg-name="ep29" group-title="مسلسل حب بلا حدود", ep29
+http://93.178.33.225:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep29.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/0h4gshW/image.jpg" tvg-name="ep12" group-title="مسلسل حجر الأمنيات", ep12
 http://93.178.33.225:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%AC%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A7%D8%AA/ep12.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep22" group-title="مسلسل حياتي الرائعة", ep22
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep22" group-title="مسلسل حياتي الرائعة", ep22
 http://93.178.33.225:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep22.mp4
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep23" group-title="مسلسل حياتي الرائعة", ep23
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep23" group-title="مسلسل حياتي الرائعة", ep23
 http://93.178.33.225:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep23.mp4
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/tpqSPkP/955165dbf5f4.jpg" tvg-name="ep24" group-title="مسلسل حياتي الرائعة", ep24
+http://93.178.33.225:98/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%B9%D8%A9/ep24.mp4
