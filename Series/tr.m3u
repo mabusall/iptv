@@ -1,29 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep06" group-title="مسلسل بهار", ep06
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep06.mp4
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep07" group-title="مسلسل بهار", ep07
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep07.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep08" group-title="مسلسل بهار", ep08
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep08.mp4
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep09" group-title="مسلسل بهار", ep09
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep09.mp4
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep10" group-title="مسلسل بهار", ep10
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep10.mp4
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep11" group-title="مسلسل بهار", ep11
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep11.mp4
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep12" group-title="مسلسل بهار", ep12
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep12.mp4
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep13" group-title="مسلسل بهار", ep13
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep13" group-title="مسلسل بهار", ep13
 http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep13.mp4
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep14" group-title="مسلسل بهار", ep14
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep14" group-title="مسلسل بهار", ep14
 http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep14.mp4
-#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep15" group-title="مسلسل بهار", ep15
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep15" group-title="مسلسل بهار", ep15
 http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep15.mp4
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep16" group-title="مسلسل بهار", ep16
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep16.mkv
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep17" group-title="مسلسل بهار", ep17
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep16" group-title="مسلسل بهار", ep16
+http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep16.mp4
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep17" group-title="مسلسل بهار", ep17
 http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep17.mp4
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.ibb.co/XZYNc4v/6b1e61503837.jpg" tvg-name="ep035" group-title="مسلسل حب بلا حدود", ep035
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep035.mp4
-#EXTINF:-1 tvg-id="14" tvg-logo="https://i.ibb.co/0h4gshW/image.jpg" tvg-name="ep12" group-title="مسلسل حجر الأمنيات", ep12
-http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%AC%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A7%D8%AA/ep12.mp4
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/gTvfDvW/45e552f2dfb3.jpg" tvg-name="ep18" group-title="مسلسل بهار", ep18
+http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A8%D9%87%D8%A7%D8%B1/ep18.mp4
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep36" group-title="مسلسل حب بلا حدود", ep36
+http://79.170.126.69:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep36.mp4
