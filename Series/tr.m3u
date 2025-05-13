@@ -1,21 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep44" group-title="مسلسل المتوحش", ep44
-http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AD%D8%B4/ep44.mp4
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep45" group-title="مسلسل المتوحش", ep45
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep45" group-title="مسلسل المتوحش", ep45
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AD%D8%B4/ep45.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep46" group-title="مسلسل المتوحش", ep46
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep46" group-title="مسلسل المتوحش", ep46
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AD%D8%B4/ep46.mp4
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep47" group-title="مسلسل المتوحش", ep47
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep47" group-title="مسلسل المتوحش", ep47
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AD%D8%B4/ep47.mp4
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep48" group-title="مسلسل المتوحش", ep48
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep48" group-title="مسلسل المتوحش", ep48
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AD%D8%B4/ep48.mp4
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep49" group-title="مسلسل المتوحش", ep49
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep49" group-title="مسلسل المتوحش", ep49
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AD%D8%B4/ep49.mp4
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep50" group-title="مسلسل المتوحش", ep50
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep50" group-title="مسلسل المتوحش", ep50
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AD%D8%B4/ep50.mp4
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep51" group-title="مسلسل المتوحش", ep51
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/FL2g7wjj/34202074dae5.jpg" tvg-name="ep51" group-title="مسلسل المتوحش", ep51
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%AD%D8%B4/ep51.mp4
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep62" group-title="مسلسل حب بلا حدود", ep62
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep62" group-title="مسلسل حب بلا حدود", ep62
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep62.mp4
-#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/6RSh4tpf/aa3da518a43c.jpg" tvg-name="ep31" group-title="مسلسل حكاية ليلة", ep31
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/6RSh4tpf/aa3da518a43c.jpg" tvg-name="ep31" group-title="مسلسل حكاية ليلة", ep31
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%83%D8%A7%D9%8A%D8%A9%20%D9%84%D9%8A%D9%84%D8%A9/ep31.mp4
