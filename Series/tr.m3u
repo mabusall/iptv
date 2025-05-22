@@ -1,39 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep01" group-title="اسفي على شبابي", ep01
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep01.mp4
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep02" group-title="اسفي على شبابي", ep02
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep02.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep03" group-title="اسفي على شبابي", ep03
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep03.mp4
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep04" group-title="اسفي على شبابي", ep04
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep04.mp4
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep05" group-title="اسفي على شبابي", ep05
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep05.mp4
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep06" group-title="اسفي على شبابي", ep06
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep06.mp4
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep07" group-title="اسفي على شبابي", ep07
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep07.mp4
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep08" group-title="اسفي على شبابي", ep08
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep08.mp4
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep09" group-title="اسفي على شبابي", ep09
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep09.mp4
-#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep10" group-title="اسفي على شبابي", ep10
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep10.mp4
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep11" group-title="اسفي على شبابي", ep11
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep11.mp4
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep12" group-title="اسفي على شبابي", ep12
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep12.mp4
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep13" group-title="اسفي على شبابي", ep13
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep13.mp4
-#EXTINF:-1 tvg-id="14" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep14" group-title="اسفي على شبابي", ep14
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep14.mp4
-#EXTINF:-1 tvg-id="15" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep15" group-title="اسفي على شبابي", ep15
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep15.mp4
-#EXTINF:-1 tvg-id="16" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep16" group-title="اسفي على شبابي", ep16
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep16.mp4
-#EXTINF:-1 tvg-id="17" tvg-logo="https://i.ibb.co/23HPwrr8/228a455ed06c.jpg" tvg-name="ep17" group-title="اسفي على شبابي", ep17
-http://93.178.1.94:99/series/turkish/%D8%A7%D8%B3%D9%81%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%A8%D8%A7%D8%A8%D9%8A/ep17.mp4
-#EXTINF:-1 tvg-id="18" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep63" group-title="مسلسل حب بلا حدود", ep63
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/DD9TG7cq/ed572cc5e495.jpg" tvg-name="ep01" group-title="مسلسل جول جمال", ep01
+http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep01.mp4
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/DD9TG7cq/ed572cc5e495.jpg" tvg-name="ep02" group-title="مسلسل جول جمال", ep02
+http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep02.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/DD9TG7cq/ed572cc5e495.jpg" tvg-name="ep03" group-title="مسلسل جول جمال", ep03
+http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep03.mp4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/DD9TG7cq/ed572cc5e495.jpg" tvg-name="ep04" group-title="مسلسل جول جمال", ep04
+http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep04.mp4
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/DD9TG7cq/ed572cc5e495.jpg" tvg-name="ep05" group-title="مسلسل جول جمال", ep05
+http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AC%D9%88%D9%84%20%D8%AC%D9%85%D8%A7%D9%84/ep05.mp4
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep63" group-title="مسلسل حب بلا حدود", ep63
 http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep63.mp4
-#EXTINF:-1 tvg-id="19" tvg-logo="https://i.ibb.co/6RSh4tpf/aa3da518a43c.jpg" tvg-name="ep32" group-title="مسلسل حكاية ليلة", ep32
-http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%83%D8%A7%D9%8A%D8%A9%20%D9%84%D9%8A%D9%84%D8%A9/ep32.mp4
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/6RSh4tpf/aa3da518a43c.jpg" tvg-name="ep33" group-title="مسلسل حكاية ليلة", ep33
+http://93.178.1.94:99/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D9%83%D8%A7%D9%8A%D8%A9%20%D9%84%D9%8A%D9%84%D8%A9/ep33.mp4
