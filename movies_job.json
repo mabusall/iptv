@@ -1,72 +1,73 @@
 {
-    "server": "http://mabusall-iptv.duckdns.org",
+    "server": "https://mabusall-iptv.duckdns.org",
+    "usePort": false,
     "movies": [
         {
             "siteName": "iptv-bb1",
-            "port": 90,
+            "port": "/bb1/",
             "searchPath": "F:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "bb1.m3u"
         },
         {
             "siteName": "iptv-bb2",
-            "port": 91,
+            "port": "/bb2/",
             "searchPath": "G:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "bb2.m3u"
         },
         {
             "siteName": "iptv-bb3",
-            "port": 92,
+            "port": "/bb3/",
             "searchPath": "H:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "bb3.m3u"
         },
         {
             "siteName": "iptv-bb4",
-            "port": 93,
+            "port": "/bb4/",
             "searchPath": "I:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "bb4.m3u"
         },
         {
             "siteName": "iptv-bb5",
-            "port": 94,
+            "port": "/bb5/",
             "searchPath": "J:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "bb5.m3u"
         },
         {
             "siteName": "iptv-bb6",
-            "port": 95,
+            "port": "/bb6/",
             "searchPath": "K:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "bb6.m3u"
         },
         {
             "siteName": "iptv-col1",
-            "port": 96,
+            "port": "/collection/1/",
             "searchPath": "L:\\Mine 1",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "col1.m3u"
         },
         {
             "siteName": "iptv-col2",
-            "port": 97,
+            "port": "/collection/2/",
             "searchPath": "M:\\Mine 2",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "col2.m3u"
         },
         {
             "siteName": "iptv-youtube",
-            "port": 98,
+            "port": "/youtube/",
             "searchPath": "N:\\Mine\\iMobile\\Videos\\On Youtube",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "youtube.m3u"
         },
         {
             "siteName": "iptv-series",
-            "port": 99,
+            "port": "/series/",
             "searchPath": "E:\\iis\\iptv",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Series",
             "m3UFileName": "tr.m3u"
