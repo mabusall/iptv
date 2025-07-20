@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/7t6LXjX/fee54fe7ae09.png" tvg-name="Abbey Brooks (001)" group-title="Abbey Brooks", Abbey Brooks (001)
-http://mabusall-iptv.duckdns.org:90/bb1/Abbey%20Brooks/Abbey%20Brooks%20(001).mp4
+https://mabusall-iptv.duckdns.org/bb1/Abbey%20Brooks/Abbey%20Brooks%20(001).mp4
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/7t6LXjX/fee54fe7ae09.png" tvg-name="Abbey Brooks (002)" group-title="Abbey Brooks", Abbey Brooks (002)
 http://mabusall-iptv.duckdns.org/bb1:90Abbey%20Brooks/Abbey%20Brooks%20(002).mp4
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/7t6LXjX/fee54fe7ae09.png" tvg-name="Abbey Brooks (003)" group-title="Abbey Brooks", Abbey Brooks (003)
