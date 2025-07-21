@@ -1,5 +1,5 @@
 {
-    "server": "http://mabusall-iptv.duckdns.org",
+    "server": "http://mabusall-iptv.duckdns.org:90",
     "usePort": false,
     "movies": [
         {
