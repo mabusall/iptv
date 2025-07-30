@@ -1,71 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep63" group-title="مسلسل حب بلا حدود", ep63
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep01" group-title="مسلسل الخائن", ep01
+http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep01.mp4
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep02" group-title="مسلسل الخائن", ep02
+http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep02.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep03" group-title="مسلسل الخائن", ep03
+http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep03.mp4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep04" group-title="مسلسل الخائن", ep04
+http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep04.mp4
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep05" group-title="مسلسل الخائن", ep05
+http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep05.mp4
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep63" group-title="مسلسل حب بلا حدود", ep63
 http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep63.mp4
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep01" group-title="مسلسل قلب أسود", ep01
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep01.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep02" group-title="مسلسل قلب أسود", ep02
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep02.mp4
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep03" group-title="مسلسل قلب أسود", ep03
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep03.mp4
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep04" group-title="مسلسل قلب أسود", ep04
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep04.mp4
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep05" group-title="مسلسل قلب أسود", ep05
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep05.mp4
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep06" group-title="مسلسل قلب أسود", ep06
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep06.mp4
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep07" group-title="مسلسل قلب أسود", ep07
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep07.mp4
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep08" group-title="مسلسل قلب أسود", ep08
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep08.mp4
-#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep09" group-title="مسلسل قلب أسود", ep09
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep09.mp4
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep10" group-title="مسلسل قلب أسود", ep10
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep10.mp4
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep11" group-title="مسلسل قلب أسود", ep11
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep11.mp4
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep12" group-title="مسلسل قلب أسود", ep12
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep12.mp4
-#EXTINF:-1 tvg-id="14" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep13" group-title="مسلسل قلب أسود", ep13
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep13.mp4
-#EXTINF:-1 tvg-id="15" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep14" group-title="مسلسل قلب أسود", ep14
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep14.mp4
-#EXTINF:-1 tvg-id="16" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep15" group-title="مسلسل قلب أسود", ep15
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep15.mp4
-#EXTINF:-1 tvg-id="17" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep16" group-title="مسلسل قلب أسود", ep16
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep16.mp4
-#EXTINF:-1 tvg-id="18" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep17" group-title="مسلسل قلب أسود", ep17
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep17.mp4
-#EXTINF:-1 tvg-id="19" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep18" group-title="مسلسل قلب أسود", ep18
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep18.mp4
-#EXTINF:-1 tvg-id="20" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep19" group-title="مسلسل قلب أسود", ep19
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep19.mp4
-#EXTINF:-1 tvg-id="21" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep20" group-title="مسلسل قلب أسود", ep20
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep20.mp4
-#EXTINF:-1 tvg-id="22" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep21" group-title="مسلسل قلب أسود", ep21
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep21.mp4
-#EXTINF:-1 tvg-id="23" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep22" group-title="مسلسل قلب أسود", ep22
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep22.mp4
-#EXTINF:-1 tvg-id="24" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep23" group-title="مسلسل قلب أسود", ep23
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep23.mp4
-#EXTINF:-1 tvg-id="25" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep24" group-title="مسلسل قلب أسود", ep24
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep24.mp4
-#EXTINF:-1 tvg-id="26" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep25" group-title="مسلسل قلب أسود", ep25
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep25.mp4
-#EXTINF:-1 tvg-id="27" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep26" group-title="مسلسل قلب أسود", ep26
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep26.mp4
-#EXTINF:-1 tvg-id="28" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep27" group-title="مسلسل قلب أسود", ep27
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep27.mp4
-#EXTINF:-1 tvg-id="29" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep28" group-title="مسلسل قلب أسود", ep28
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep28.mp4
-#EXTINF:-1 tvg-id="30" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep29" group-title="مسلسل قلب أسود", ep29
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep29.mp4
-#EXTINF:-1 tvg-id="31" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep30" group-title="مسلسل قلب أسود", ep30
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep30.mp4
-#EXTINF:-1 tvg-id="32" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep31" group-title="مسلسل قلب أسود", ep31
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep31.mp4
-#EXTINF:-1 tvg-id="33" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep32" group-title="مسلسل قلب أسود", ep32
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep32.mp4
-#EXTINF:-1 tvg-id="34" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep33" group-title="مسلسل قلب أسود", ep33
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep33.mp4
-#EXTINF:-1 tvg-id="35" tvg-logo="https://i.ibb.co/kVzGV2DB/cec4e24553bd.jpg" tvg-name="ep34" group-title="مسلسل قلب أسود", ep34
-http://mabusall-iptv.duckdns.org:90/series/series/turkish/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%82%D9%84%D8%A8%20%D8%A3%D8%B3%D9%88%D8%AF/ep34.mp4
