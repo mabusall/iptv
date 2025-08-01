@@ -70,7 +70,7 @@
             "port": "/series/",
             "searchPath": "E:\\iis\\iptv",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Series",
-            "m3UFileName": "tr.m3u"
+            "m3UFileName": "series.m3u"
         }
     ]
 }
