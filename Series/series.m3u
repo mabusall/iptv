@@ -71,21 +71,13 @@ http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep23.mp4
 #EXTINF:-1 tvg-id="36" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep24" group-title="مسلسل الخائن", ep24
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep24.mp4
-#EXTINF:-1 tvg-id="37" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep63" group-title="مسلسل حب بلا حدود", ep63
+#EXTINF:-1 tvg-id="37" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep25" group-title="مسلسل الخائن", ep25
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep25.mp4
+#EXTINF:-1 tvg-id="38" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep26" group-title="مسلسل الخائن", ep26
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep26.mp4
+#EXTINF:-1 tvg-id="39" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep27" group-title="مسلسل الخائن", ep27
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep27.mp4
+#EXTINF:-1 tvg-id="40" tvg-logo="https://i.ibb.co/MvTMWJJ/5a29d390a2d9.jpg" tvg-name="ep28" group-title="مسلسل الخائن", ep28
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%AE%D8%A7%D8%A6%D9%86/ep28.mp4
+#EXTINF:-1 tvg-id="41" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep63" group-title="مسلسل حب بلا حدود", ep63
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep63.mp4
-#EXTINF:-1 tvg-id="38" tvg-logo="https://i.ibb.co/yn6nMBJ4/466a017a22e5.jpg" tvg-name="ep01" group-title="مسلسل غرفة لشخصين", ep01
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%BA%D8%B1%D9%81%D8%A9%20%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%86/ep01.mp4
-#EXTINF:-1 tvg-id="39" tvg-logo="https://i.ibb.co/yn6nMBJ4/466a017a22e5.jpg" tvg-name="ep02" group-title="مسلسل غرفة لشخصين", ep02
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%BA%D8%B1%D9%81%D8%A9%20%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%86/ep02.mp4
-#EXTINF:-1 tvg-id="40" tvg-logo="https://i.ibb.co/yn6nMBJ4/466a017a22e5.jpg" tvg-name="ep03" group-title="مسلسل غرفة لشخصين", ep03
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%BA%D8%B1%D9%81%D8%A9%20%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%86/ep03.mp4
-#EXTINF:-1 tvg-id="41" tvg-logo="https://i.ibb.co/yn6nMBJ4/466a017a22e5.jpg" tvg-name="ep04" group-title="مسلسل غرفة لشخصين", ep04
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%BA%D8%B1%D9%81%D8%A9%20%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%86/ep04.mp4
-#EXTINF:-1 tvg-id="42" tvg-logo="https://i.ibb.co/yn6nMBJ4/466a017a22e5.jpg" tvg-name="ep05" group-title="مسلسل غرفة لشخصين", ep05
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%BA%D8%B1%D9%81%D8%A9%20%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%86/ep05.mp4
-#EXTINF:-1 tvg-id="43" tvg-logo="https://i.ibb.co/yn6nMBJ4/466a017a22e5.jpg" tvg-name="ep06" group-title="مسلسل غرفة لشخصين", ep06
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%BA%D8%B1%D9%81%D8%A9%20%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%86/ep06.mp4
-#EXTINF:-1 tvg-id="44" tvg-logo="https://i.ibb.co/yn6nMBJ4/466a017a22e5.jpg" tvg-name="ep07" group-title="مسلسل غرفة لشخصين", ep07
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%BA%D8%B1%D9%81%D8%A9%20%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%86/ep07.mp4
-#EXTINF:-1 tvg-id="45" tvg-logo="https://i.ibb.co/yn6nMBJ4/466a017a22e5.jpg" tvg-name="ep08" group-title="مسلسل غرفة لشخصين", ep08
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%BA%D8%B1%D9%81%D8%A9%20%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%86/ep08.mp4
