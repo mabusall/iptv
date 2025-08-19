@@ -1,39 +1,45 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/QFRB7YxV/fd4778cc57a4.jpg" tvg-name="ep04" group-title="Chief of War", ep04
 http://mabusall-iptv.duckdns.org:90/series/series/Chief%20of%20War/ep04.mkv
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/zTy7t6C4/8160920f3c29.jpg" tvg-name="ep05" group-title="Lupin", ep05
-http://mabusall-iptv.duckdns.org:90/series/series/Lupin/ep05.mkv
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/zTy7t6C4/8160920f3c29.jpg" tvg-name="ep06" group-title="Lupin", ep06
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/zTy7t6C4/8160920f3c29.jpg" tvg-name="ep06" group-title="Lupin", ep06
 http://mabusall-iptv.duckdns.org:90/series/series/Lupin/ep06.mkv
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/zTy7t6C4/8160920f3c29.jpg" tvg-name="ep07" group-title="Lupin", ep07
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/zTy7t6C4/8160920f3c29.jpg" tvg-name="ep07" group-title="Lupin", ep07
 http://mabusall-iptv.duckdns.org:90/series/series/Lupin/ep07.mkv
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep03" group-title="مسلسل الزوجة الأخرى", ep03
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep03.mp4
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep04" group-title="مسلسل الزوجة الأخرى", ep04
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep04.mp4
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep05" group-title="مسلسل الزوجة الأخرى", ep05
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep05.mp4
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep06" group-title="مسلسل الزوجة الأخرى", ep06
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep06.mp4
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep07" group-title="مسلسل الزوجة الأخرى", ep07
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep07" group-title="مسلسل الزوجة الأخرى", ep07
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep07.mp4
-#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep08" group-title="مسلسل الزوجة الأخرى", ep08
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep08" group-title="مسلسل الزوجة الأخرى", ep08
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep08.mp4
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep09" group-title="مسلسل الزوجة الأخرى", ep09
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep09" group-title="مسلسل الزوجة الأخرى", ep09
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep09.mp4
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep10" group-title="مسلسل الزوجة الأخرى", ep10
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep10" group-title="مسلسل الزوجة الأخرى", ep10
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep10.mp4
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep11" group-title="مسلسل الزوجة الأخرى", ep11
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep11" group-title="مسلسل الزوجة الأخرى", ep11
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep11.mp4
-#EXTINF:-1 tvg-id="14" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep12" group-title="مسلسل الزوجة الأخرى", ep12
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep12" group-title="مسلسل الزوجة الأخرى", ep12
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep12.mp4
-#EXTINF:-1 tvg-id="15" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep13" group-title="مسلسل الزوجة الأخرى", ep13
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep13" group-title="مسلسل الزوجة الأخرى", ep13
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep13.mp4
-#EXTINF:-1 tvg-id="16" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep14" group-title="مسلسل الزوجة الأخرى", ep14
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep14" group-title="مسلسل الزوجة الأخرى", ep14
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep14.mp4
-#EXTINF:-1 tvg-id="17" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep15" group-title="مسلسل الزوجة الأخرى", ep15
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep15" group-title="مسلسل الزوجة الأخرى", ep15
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep15.mp4
-#EXTINF:-1 tvg-id="18" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep16" group-title="مسلسل الزوجة الأخرى", ep16
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep16" group-title="مسلسل الزوجة الأخرى", ep16
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep16.mp4
-#EXTINF:-1 tvg-id="19" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep63" group-title="مسلسل حب بلا حدود", ep63
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep17" group-title="مسلسل الزوجة الأخرى", ep17
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep17.mp4
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep18" group-title="مسلسل الزوجة الأخرى", ep18
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep18.mp4
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep19" group-title="مسلسل الزوجة الأخرى", ep19
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep19.mp4
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep20" group-title="مسلسل الزوجة الأخرى", ep20
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep20.mp4
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep21" group-title="مسلسل الزوجة الأخرى", ep21
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep21.mp4
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep22" group-title="مسلسل الزوجة الأخرى", ep22
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep22.mp4
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep23" group-title="مسلسل الزوجة الأخرى", ep23
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep23.mp4
+#EXTINF:-1 tvg-id="21" tvg-logo="https://i.ibb.co/GZYFqrZ/fa43a37c2f05.jpg" tvg-name="ep24" group-title="مسلسل الزوجة الأخرى", ep24
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B1%D9%89/ep24.mp4
+#EXTINF:-1 tvg-id="22" tvg-logo="https://i.ibb.co/ZLMVwTg/e5444ec45091.jpg" tvg-name="ep63" group-title="مسلسل حب بلا حدود", ep63
 http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%AD%D8%A8%20%D8%A8%D9%84%D8%A7%20%D8%AD%D8%AF%D9%88%D8%AF/ep63.mp4
