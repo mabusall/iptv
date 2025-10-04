@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/8n02XVSS/ecc55cf8c112.jpg" tvg-name="ep11" group-title="مسلسل السعادة العائلية", ep11
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D9%8A%D8%A9/ep11.mp4
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/8n02XVSS/ecc55cf8c112.jpg" tvg-name="ep12" group-title="مسلسل السعادة العائلية", ep12
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D9%8A%D8%A9/ep12.mp4
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/8n02XVSS/ecc55cf8c112.jpg" tvg-name="ep13" group-title="مسلسل السعادة العائلية", ep13
-http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D9%8A%D8%A9/ep13.mp4
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E01" group-title="Alice in Borderland", S03E01
+http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E01.mkv
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E02" group-title="Alice in Borderland", S03E02
+http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E02.mkv
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E03" group-title="Alice in Borderland", S03E03
+http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E03.mkv
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E04" group-title="Alice in Borderland", S03E04
+http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E04.mkv
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E05" group-title="Alice in Borderland", S03E05
+http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E05.mkv
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E06" group-title="Alice in Borderland", S03E06
+http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E06.mkv
