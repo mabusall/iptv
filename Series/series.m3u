@@ -1,13 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E01" group-title="Alice in Borderland", S03E01
-http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E01.mkv
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E02" group-title="Alice in Borderland", S03E02
-http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E02.mkv
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E03" group-title="Alice in Borderland", S03E03
-http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E03.mkv
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E04" group-title="Alice in Borderland", S03E04
-http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E04.mkv
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E05" group-title="Alice in Borderland", S03E05
-http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E05.mkv
-#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/ns3B5Fyc/c2e0e95a9256.jpg" tvg-name="S03E06" group-title="Alice in Borderland", S03E06
-http://mabusall-iptv.duckdns.org:90/series/series/Alice%20in%20Borderland/S03E06.mkv
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep01" group-title="مسلسل شخص آخر", ep01
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep01.mp4
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep02" group-title="مسلسل شخص آخر", ep02
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep02.mp4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep03" group-title="مسلسل شخص آخر", ep03
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep03.mp4
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep04" group-title="مسلسل شخص آخر", ep04
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep04.ts
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep05" group-title="مسلسل شخص آخر", ep05
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep05.ts
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep06" group-title="مسلسل شخص آخر", ep06
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep06.ts
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep07" group-title="مسلسل شخص آخر", ep07
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep07.ts
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep08" group-title="مسلسل شخص آخر", ep08
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep08.ts
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep09" group-title="مسلسل شخص آخر", ep09
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep09.ts
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep10" group-title="مسلسل شخص آخر", ep10
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep10.ts
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep11" group-title="مسلسل شخص آخر", ep11
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep11.ts
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep12" group-title="مسلسل شخص آخر", ep12
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep12.ts
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep13" group-title="مسلسل شخص آخر", ep13
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep13.ts
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep14" group-title="مسلسل شخص آخر", ep14
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep14.ts
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep15" group-title="مسلسل شخص آخر", ep15
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep15.ts
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.ibb.co/qMSngg7T/5e77ada2d9b5.jpg" tvg-name="ep16" group-title="مسلسل شخص آخر", ep16
+http://mabusall-iptv.duckdns.org:90/series/series/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%AE%D8%B5%20%D8%A2%D8%AE%D8%B1/ep16.ts
