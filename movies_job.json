@@ -45,32 +45,25 @@
             "m3UFileName": "bb6.m3u"
         },
         {
+            "siteName": "iptv-bb7",
+            "port": "/bb7/",
+            "searchPath": "L:\\",
+            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "m3UFileName": "bb7.m3u"
+        },
+        {
             "siteName": "iptv-col1",
             "port": "/collection/1/",
-            "searchPath": "L:\\Mine 1",
+            "searchPath": "M:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "col1.m3u"
         },
         {
             "siteName": "iptv-col2",
             "port": "/collection/2/",
-            "searchPath": "M:\\Mine 2",
+            "searchPath": "N:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "col2.m3u"
-        },
-        {
-            "siteName": "iptv-youtube",
-            "port": "/youtube/",
-            "searchPath": "N:\\Mine\\iMobile\\Videos\\On Youtube",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
-            "m3UFileName": "youtube.m3u"
-        },
-        {
-            "siteName": "iptv-series",
-            "port": "/series/",
-            "searchPath": "E:\\iis\\iptv",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Series",
-            "m3UFileName": "series.m3u"
-        }
+        }        
     ]
 }
