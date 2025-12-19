@@ -3,6 +3,7 @@
     "usePort": false,
     "movies": [
         {
+            "isEnabled": true,
             "siteName": "iptv-bb1",
             "port": "/bb1/",
             "searchPath": "F:\\",
@@ -10,6 +11,7 @@
             "m3UFileName": "bb1.m3u"
         },
         {
+            "isEnabled": true,
             "siteName": "iptv-bb2",
             "port": "/bb2/",
             "searchPath": "G:\\",
@@ -17,6 +19,7 @@
             "m3UFileName": "bb2.m3u"
         },
         {
+            "isEnabled": true,
             "siteName": "iptv-bb3",
             "port": "/bb3/",
             "searchPath": "H:\\",
@@ -24,6 +27,7 @@
             "m3UFileName": "bb3.m3u"
         },
         {
+            "isEnabled": true,
             "siteName": "iptv-bb4",
             "port": "/bb4/",
             "searchPath": "I:\\",
@@ -31,6 +35,7 @@
             "m3UFileName": "bb4.m3u"
         },
         {
+            "isEnabled": true,
             "siteName": "iptv-bb5",
             "port": "/bb5/",
             "searchPath": "J:\\",
@@ -38,6 +43,7 @@
             "m3UFileName": "bb5.m3u"
         },
         {
+            "isEnabled": true,
             "siteName": "iptv-bb6",
             "port": "/bb6/",
             "searchPath": "K:\\",
@@ -45,6 +51,7 @@
             "m3UFileName": "bb6.m3u"
         },
         {
+            "isEnabled": true,
             "siteName": "iptv-bb7",
             "port": "/bb7/",
             "searchPath": "L:\\",
@@ -52,6 +59,7 @@
             "m3UFileName": "bb7.m3u"
         },
         {
+            "isEnabled": true,
             "siteName": "iptv-col1",
             "port": "/collection/1/",
             "searchPath": "M:\\",
@@ -59,6 +67,7 @@
             "m3UFileName": "col1.m3u"
         },
         {
+            "isEnabled": true,
             "siteName": "iptv-col2",
             "port": "/collection/2/",
             "searchPath": "N:\\",
