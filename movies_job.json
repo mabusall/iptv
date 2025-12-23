@@ -4,6 +4,7 @@
     "movies": [
         {
             "isEnabled": true,
+            "checkPoster": true,
             "siteName": "iptv-bb1",
             "port": "/bb1/",
             "searchPath": "F:\\",
@@ -12,6 +13,7 @@
         },
         {
             "isEnabled": true,
+            "checkPoster": true,
             "siteName": "iptv-bb2",
             "port": "/bb2/",
             "searchPath": "G:\\",
@@ -20,6 +22,7 @@
         },
         {
             "isEnabled": true,
+            "checkPoster": true,
             "siteName": "iptv-bb3",
             "port": "/bb3/",
             "searchPath": "H:\\",
@@ -28,6 +31,7 @@
         },
         {
             "isEnabled": true,
+            "checkPoster": true,
             "siteName": "iptv-bb4",
             "port": "/bb4/",
             "searchPath": "I:\\",
@@ -36,6 +40,7 @@
         },
         {
             "isEnabled": true,
+            "checkPoster": true,
             "siteName": "iptv-bb5",
             "port": "/bb5/",
             "searchPath": "J:\\",
@@ -44,6 +49,7 @@
         },
         {
             "isEnabled": true,
+            "checkPoster": true,
             "siteName": "iptv-bb6",
             "port": "/bb6/",
             "searchPath": "K:\\",
@@ -52,6 +58,7 @@
         },
         {
             "isEnabled": true,
+            "checkPoster": true,
             "siteName": "iptv-bb7",
             "port": "/bb7/",
             "searchPath": "L:\\",
@@ -60,6 +67,7 @@
         },
         {
             "isEnabled": true,
+            "checkPoster": false,
             "siteName": "iptv-col1",
             "port": "/collection/1/",
             "searchPath": "M:\\",
@@ -68,6 +76,7 @@
         },
         {
             "isEnabled": true,
+            "checkPoster": false,
             "siteName": "iptv-col2",
             "port": "/collection/2/",
             "searchPath": "N:\\",
