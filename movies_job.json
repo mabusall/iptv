@@ -82,6 +82,24 @@
             "searchPath": "N:\\",
             "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
             "m3UFileName": "col2.m3u"
-        }        
+        },
+        {
+            "isEnabled": true,
+            "checkPoster": false,
+            "siteName": "iptv-pleasure",
+            "port": "/seduce/pleasure/",
+            "searchPath": "O:\\Mine\\iMobile\\Videos\\On Youtube\\Pleasure\\",
+            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "m3UFileName": "pleasure.m3u"
+        },
+        {
+            "isEnabled": true,
+            "checkPoster": false,
+            "siteName": "iptv-dance",
+            "port": "/seduce/dance/",
+            "searchPath": "O:\\Mine\\iMobile\\Videos\\On Youtube\\رقص\\",
+            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "m3UFileName": "dance.m3u"
+        }
     ]
 }
