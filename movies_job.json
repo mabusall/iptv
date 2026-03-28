@@ -1,5 +1,5 @@
 {
-    "server": "http://mabusall-iptv.duckdns.org:90",
+    "server": "https://laurence-unrumpled-wilhelmina.ngrok-free.dev",
     "usePort": false,
     "movies": [
         {
@@ -7,8 +7,8 @@
             "checkPoster": true,
             "siteName": "iptv-bb1",
             "port": "/bb1/",
-            "searchPath": "F:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "R:\\",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "bb1.m3u"
         },
         {
@@ -16,8 +16,8 @@
             "checkPoster": true,
             "siteName": "iptv-bb2",
             "port": "/bb2/",
-            "searchPath": "G:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "S:\\",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "bb2.m3u"
         },
         {
@@ -25,8 +25,8 @@
             "checkPoster": true,
             "siteName": "iptv-bb3",
             "port": "/bb3/",
-            "searchPath": "H:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "T:\\",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "bb3.m3u"
         },
         {
@@ -34,8 +34,8 @@
             "checkPoster": true,
             "siteName": "iptv-bb4",
             "port": "/bb4/",
-            "searchPath": "I:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "U:\\",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "bb4.m3u"
         },
         {
@@ -43,8 +43,8 @@
             "checkPoster": true,
             "siteName": "iptv-bb5",
             "port": "/bb5/",
-            "searchPath": "J:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "V:\\",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "bb5.m3u"
         },
         {
@@ -52,8 +52,8 @@
             "checkPoster": true,
             "siteName": "iptv-bb6",
             "port": "/bb6/",
-            "searchPath": "K:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "W:\\",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "bb6.m3u"
         },
         {
@@ -61,8 +61,8 @@
             "checkPoster": true,
             "siteName": "iptv-bb7",
             "port": "/bb7/",
-            "searchPath": "L:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "X:\\",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "bb7.m3u"
         },
         {
@@ -70,26 +70,26 @@
             "checkPoster": false,
             "siteName": "iptv-col1",
             "port": "/collection/1/",
-            "searchPath": "M:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "Y:\\",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "col1.m3u"
         },
         {
-            "isEnabled": true,
+            "isEnabled": false,
             "checkPoster": false,
             "siteName": "iptv-col2",
             "port": "/collection/2/",
             "searchPath": "N:\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "col2.m3u"
         },
         {
-            "isEnabled": true,
+            "isEnabled": false,
             "checkPoster": false,
             "siteName": "iptv-pleasure",
             "port": "/seduce/pleasure/",
             "searchPath": "O:\\Mine\\iMobile\\Videos\\On Youtube\\Pleasure\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "pleasure.m3u"
         },
         {
@@ -97,8 +97,8 @@
             "checkPoster": false,
             "siteName": "iptv-dance",
             "port": "/seduce/dance/",
-            "searchPath": "O:\\Mine\\iMobile\\Videos\\On Youtube\\رقص\\",
-            "destinationFolder": "D:\\Source Code\\Git\\iptv\\Collection",
+            "searchPath": "Z:\\Mine\\iMobile\\Videos\\On Youtube\\رقص",
+            "destinationFolder": "D:\\GitHub\\iptv\\Collection",
             "m3UFileName": "dance.m3u"
         }
     ]
